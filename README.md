@@ -17,7 +17,7 @@ npm run preview   # preview the production build
 
 1. In the repo's **Settings → Pages**, set **Source** to **GitHub Actions**. That's the only manual click required — the workflow at `.github/workflows/deploy.yml` handles the rest on every push to `main`.
 2. This branch is `claude/digital-product-complete-qrnw9f`. Merge it into `main` (or change the workflow's trigger branch) to actually deploy.
-3. `public/CNAME` is already set to `bestoutdoorwears.com`. Point your domain's DNS at GitHub Pages (an `A` record to GitHub's Pages IPs, or a `CNAME` record to `<your-github-username>.github.io`, per [GitHub's custom domain docs](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site)) and GitHub will issue a free HTTPS certificate automatically once DNS is verified.
+3. **Custom domain:** `public/CNAME` is intentionally absent right now, so the site is reachable at `https://mmohamad517.github.io/dashboard-landing-page/`. When you're ready to use `bestoutdoorwears.com`, create `public/CNAME` containing just `bestoutdoorwears.com` and push — but set the DNS records first, otherwise the site becomes unreachable until DNS resolves. Point your domain's DNS at GitHub Pages (an `A` record to GitHub's Pages IPs, or a `CNAME` record to `<your-github-username>.github.io`, per [GitHub's custom domain docs](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site)) and GitHub will issue a free HTTPS certificate automatically once DNS is verified.
 4. Alternative free host: Cloudflare Pages works too (connect the repo, build command `npm run build`, output directory `dist`) if you'd rather not use GitHub Pages.
 
 ## Selling TrailReady (the product)
