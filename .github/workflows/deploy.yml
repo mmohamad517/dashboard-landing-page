@@ -31,6 +31,12 @@ jobs:
         run: npm ci
 
       - name: Build site
+        # GitHub Pages project sites are served from /<repo>/, so the build
+        # needs a matching base path. Remove both env vars (and restore
+        # public/CNAME) when switching to the custom domain at the root.
+        env:
+          PUBLIC_BASE_PATH: /${{ github.event.repository.name }}
+          PUBLIC_SITE_URL: https://${{ github.repository_owner }}.github.io
         run: npm run build
 
       - name: Setup Pages

@@ -1,5 +1,6 @@
 ---
 import SEO from '../components/SEO.astro';
+import { url } from '../lib/paths';
 
 interface Props {
   title: string;
@@ -10,6 +11,24 @@ interface Props {
 }
 
 const { title, description, canonicalPath, ogImage, structuredData } = Astro.props;
+
+// Built as a string so the font URLs pick up the configured base path.
+const face = (family: string, style: string, weight: number, file: string) => `
+    @font-face {
+      font-family: "${family}";
+      font-style: ${style}; font-weight: ${weight}; font-display: swap;
+      src: url("${url(`/fonts/${file}`)}") format("woff2");
+    }`;
+
+const fontFaceCss = [
+  face('Big Shoulders Display', 'normal', 700, 'big-shoulders-display-latin-700-normal.woff2'),
+  face('Big Shoulders Display', 'normal', 800, 'big-shoulders-display-latin-800-normal.woff2'),
+  face('Source Serif 4', 'normal', 400, 'source-serif-4-latin-400-normal.woff2'),
+  face('Source Serif 4', 'italic', 400, 'source-serif-4-latin-400-italic.woff2'),
+  face('Source Serif 4', 'normal', 600, 'source-serif-4-latin-600-normal.woff2'),
+  face('IBM Plex Mono', 'normal', 500, 'ibm-plex-mono-latin-500-normal.woff2'),
+  face('IBM Plex Mono', 'normal', 600, 'ibm-plex-mono-latin-600-normal.woff2'),
+].join('');
 ---
 <!doctype html>
 <html lang="en">
@@ -19,48 +38,13 @@ const { title, description, canonicalPath, ogImage, structuredData } = Astro.pro
   <SEO title={title} description={description} canonicalPath={canonicalPath} ogImage={ogImage} structuredData={structuredData} />
 
   <!-- Self-hosted fonts: preload only the weights used above the fold -->
-  <link rel="preload" href="/fonts/big-shoulders-display-latin-800-normal.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="preload" href="/fonts/source-serif-4-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="preload" href="/fonts/ibm-plex-mono-latin-600-normal.woff2" as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href={url('/fonts/big-shoulders-display-latin-800-normal.woff2')} as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href={url('/fonts/source-serif-4-latin-400-normal.woff2')} as="font" type="font/woff2" crossorigin />
+  <link rel="preload" href={url('/fonts/ibm-plex-mono-latin-600-normal.woff2')} as="font" type="font/woff2" crossorigin />
 
   <!-- Critical, above-the-fold CSS inlined to avoid render-blocking -->
+  <style is:inline set:html={fontFaceCss} />
   <style is:inline>
-    @font-face {
-      font-family: "Big Shoulders Display";
-      font-style: normal; font-weight: 700; font-display: swap;
-      src: url("/fonts/big-shoulders-display-latin-700-normal.woff2") format("woff2");
-    }
-    @font-face {
-      font-family: "Big Shoulders Display";
-      font-style: normal; font-weight: 800; font-display: swap;
-      src: url("/fonts/big-shoulders-display-latin-800-normal.woff2") format("woff2");
-    }
-    @font-face {
-      font-family: "Source Serif 4";
-      font-style: normal; font-weight: 400; font-display: swap;
-      src: url("/fonts/source-serif-4-latin-400-normal.woff2") format("woff2");
-    }
-    @font-face {
-      font-family: "Source Serif 4";
-      font-style: italic; font-weight: 400; font-display: swap;
-      src: url("/fonts/source-serif-4-latin-400-italic.woff2") format("woff2");
-    }
-    @font-face {
-      font-family: "Source Serif 4";
-      font-style: normal; font-weight: 600; font-display: swap;
-      src: url("/fonts/source-serif-4-latin-600-normal.woff2") format("woff2");
-    }
-    @font-face {
-      font-family: "IBM Plex Mono";
-      font-style: normal; font-weight: 500; font-display: swap;
-      src: url("/fonts/ibm-plex-mono-latin-500-normal.woff2") format("woff2");
-    }
-    @font-face {
-      font-family: "IBM Plex Mono";
-      font-style: normal; font-weight: 600; font-display: swap;
-      src: url("/fonts/ibm-plex-mono-latin-600-normal.woff2") format("woff2");
-    }
-
     :root {
       --bg: #EEF0E3; --bg-elevated: #F9FAF2; --bg-card: #FFFFFF;
       --ink: #1B211C; --ink-soft: #4B5749; --ink-faint: #7C8A78;
@@ -105,22 +89,22 @@ const { title, description, canonicalPath, ogImage, structuredData } = Astro.pro
   </style>
 
   <!-- Remaining CSS: non-blocking -->
-  <link rel="preload" as="style" href="/global.css?v=1" onload="this.onload=null;this.rel='stylesheet'" />
-  <noscript><link rel="stylesheet" href="/global.css?v=1" /></noscript>
+  <link rel="preload" as="style" href={url('/global.css?v=1')} onload="this.onload=null;this.rel='stylesheet'" />
+  <noscript><link rel="stylesheet" href={url('/global.css?v=1')} /></noscript>
 </head>
 <body>
   <header class="site">
     <div class="wrap site-header-row">
-      <a class="wordmark" href="/">
+      <a class="wordmark" href={url('/')}>
         <span class="display">Best OutDoor <span class="accent">Wears</span></span>
       </a>
       <nav class="site-nav" aria-label="Primary">
-        <a href="/#layers">The System</a>
-        <a href="/product/">TrailReady</a>
-        <a href="/#articles">Guides</a>
-        <a href="/faq/">FAQ</a>
+        <a href={url('/#layers')}>The System</a>
+        <a href={url('/product/')}>TrailReady</a>
+        <a href={url('/#articles')}>Guides</a>
+        <a href={url('/faq/')}>FAQ</a>
       </nav>
-      <a class="btn btn-primary" href="/product/">Get TrailReady</a>
+      <a class="btn btn-primary" href={url('/product/')}>Get TrailReady</a>
     </div>
   </header>
 
@@ -135,12 +119,12 @@ const { title, description, canonicalPath, ogImage, structuredData } = Astro.pro
         <p class="footer-tag">A layering &amp; packing system for people who'd rather hike than guess.</p>
       </div>
       <nav class="footer-nav" aria-label="Footer">
-        <a href="/about/">About</a>
-        <a href="/contact/">Contact</a>
-        <a href="/faq/">FAQ</a>
-        <a href="/privacy/">Privacy Policy</a>
-        <a href="/terms/">Terms</a>
-        <a href="/affiliate-disclosure/">Affiliate Disclosure</a>
+        <a href={url('/about/')}>About</a>
+        <a href={url('/contact/')}>Contact</a>
+        <a href={url('/faq/')}>FAQ</a>
+        <a href={url('/privacy/')}>Privacy Policy</a>
+        <a href={url('/terms/')}>Terms</a>
+        <a href={url('/affiliate-disclosure/')}>Affiliate Disclosure</a>
       </nav>
     </div>
   </footer>

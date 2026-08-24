@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { url } from '../lib/paths';
 ---
 <BaseLayout
   title="Terms & Conditions | Best OutDoor Wears"
@@ -40,7 +41,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
       <h2>Affiliate links</h2>
       <p>
-        Some links on this site are affiliate links; see our <a href="/affiliate-disclosure/">affiliate
+        Some links on this site are affiliate links; see our <a href={url('/affiliate-disclosure/')}>affiliate
         disclosure</a> for details.
       </p>
 
@@ -54,7 +55,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       <p>We may update these terms; the date above reflects the latest revision.</p>
 
       <h2>Contact</h2>
-      <p>Questions about these terms? Reach us via our <a href="/contact/">contact page</a>.</p>
+      <p>Questions about these terms? Reach us via our <a href={url('/contact/')}>contact page</a>.</p>
     </div>
   </section>
 </BaseLayout>

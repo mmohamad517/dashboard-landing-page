@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { url } from '../lib/paths';
 
 const productImg = 'https://images.unsplash.com/photo-1766893301770-bae104dc07f2?crop=entropy&cs=tinysrgb&fit=max&fm=webp&q=75&w=800';
 
@@ -101,7 +102,7 @@ const structuredData = {
         It's not a brand-endorsement catalog and it's not a substitute for checking your actual local forecast
         and trail conditions before you go. Specific product mentions are described as commonly recommended
         options, not personally tested endorsements, and any purchase links help fund this site at no extra cost
-        to you — see our <a href="/affiliate-disclosure/">affiliate disclosure</a>.
+        to you — see our <a href={url('/affiliate-disclosure/')}>affiliate disclosure</a>.
       </p>
     </div>
   </section>

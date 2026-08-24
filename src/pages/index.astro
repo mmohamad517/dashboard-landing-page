@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
+import { url } from '../lib/paths';
 
 const articles = (await getCollection('articles')).sort(
   (a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf()
@@ -50,11 +51,11 @@ const structuredData = [
             soaked, or hauling gear you didn't need.
           </p>
           <div class="hero-actions">
-            <a class="btn btn-primary" href="/product/">Get TrailReady — $12</a>
+            <a class="btn btn-primary" href={url('/product/')}>Get TrailReady — $12</a>
             <a class="btn btn-ghost" href="#layers">Read the layering system ↓</a>
           </div>
           <p style="margin-top:14px;">
-            <a href="/downloads/trailready-free-cheatsheet.pdf">Free download: the Universal Layering Cheat Sheet (1 page, no email required) →</a>
+            <a href={url('/downloads/trailready-free-cheatsheet.pdf')}>Free download: the Universal Layering Cheat Sheet (1 page, no email required) →</a>
           </p>
         </div>
         <div>
@@ -196,7 +197,7 @@ const structuredData = [
             <span class="was">one-time · instant download</span>
           </div>
           <div class="hero-actions" style="margin-top:20px;">
-            <a class="btn btn-primary" href="/product/">See what's inside →</a>
+            <a class="btn btn-primary" href={url('/product/')}>See what's inside →</a>
           </div>
         </div>
         <div class="prose" style="max-width:52ch;">
@@ -220,7 +221,7 @@ const structuredData = [
       </div>
       <div class="article-grid">
         {articles.map((a) => (
-          <a class="article-card" href={`/articles/${a.slug}/`}>
+          <a class="article-card" href={url(`/articles/${a.slug}/`)}>
             <span class="label">{a.data.keyword}</span>
             <h3>{a.data.title}</h3>
             <p>{a.data.description}</p>
@@ -264,7 +265,7 @@ const structuredData = [
         <p>No — it's an instant digital download (PDF guide and checklists, plus a working spreadsheet tool).
           You get access immediately after purchase, nothing ships.</p>
       </details>
-      <p style="margin-top:20px;"><a href="/faq/">See the full FAQ →</a></p>
+      <p style="margin-top:20px;"><a href={url('/faq/')}>See the full FAQ →</a></p>
     </div>
   </section>
 </BaseLayout>

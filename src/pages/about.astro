@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { url } from '../lib/paths';
 ---
 <BaseLayout
   title="About Best OutDoor Wears"
@@ -19,19 +20,19 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       <p>
         Everything on this site is organized around one system: layering (base, mid, shell) applied to real trip
         types — day hikes, overnight backpacking, car camping, cold-weather trips, and wet-weather trips. We
-        built <a href="/product/">TrailReady</a> because we kept writing the same trip-specific breakdown for
+        built <a href={url('/product/')}>TrailReady</a> because we kept writing the same trip-specific breakdown for
         friends and decided to put it in one place.
       </p>
       <h2>What we don't do</h2>
       <p>
         We don't publish fabricated reviews, invented statistics, or "tested by thousands of hikers" claims we
         can't back up. Where we reference outdoor clothing brands or affiliate programs, that's disclosed on our
-        <a href="/affiliate-disclosure/">affiliate disclosure page</a>. Product mentions are described as
+        <a href={url('/affiliate-disclosure/')}>affiliate disclosure page</a>. Product mentions are described as
         commonly recommended options based on how the layering system works, not as personal field tests unless
         stated otherwise.
       </p>
       <h2>Questions?</h2>
-      <p>Reach out any time through our <a href="/contact/">contact page</a>.</p>
+      <p>Reach out any time through our <a href={url('/contact/')}>contact page</a>.</p>
     </div>
   </section>
 </BaseLayout>

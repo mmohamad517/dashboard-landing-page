@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { url } from '../lib/paths';
 ---
 <BaseLayout
   title="Affiliate Disclosure | Best OutDoor Wears"
@@ -26,7 +27,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
         Affiliate IDs are configured by the site owner and don't change the content or structure of our guides.
       </p>
       <h2>Questions</h2>
-      <p>Reach out via our <a href="/contact/">contact page</a> if you have questions about a specific link.</p>
+      <p>Reach out via our <a href={url('/contact/')}>contact page</a> if you have questions about a specific link.</p>
     </div>
   </section>
 </BaseLayout>

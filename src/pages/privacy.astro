@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { url } from '../lib/paths';
 ---
 <BaseLayout
   title="Privacy Policy | Best OutDoor Wears"
@@ -36,14 +37,14 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       <h2>Third-party and affiliate links</h2>
       <p>
         Some links on this site go to third-party retailers or brands, including affiliate links (see our
-        <a href="/affiliate-disclosure/">affiliate disclosure</a>). Those sites have their own privacy policies,
+        <a href={url('/affiliate-disclosure/')}>affiliate disclosure</a>). Those sites have their own privacy policies,
         which we don't control.
       </p>
 
       <h2>Your rights</h2>
       <p>
         You can request details of any data we hold about you, or ask us to delete it, by contacting us at the
-        email on our <a href="/contact/">contact page</a>.
+        email on our <a href={url('/contact/')}>contact page</a>.
       </p>
 
       <h2>Changes to this policy</h2>

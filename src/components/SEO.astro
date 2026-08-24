@@ -8,9 +8,12 @@ interface Props {
 }
 
 const { title, description, canonicalPath, ogImage, structuredData } = Astro.props;
-const site = 'https://bestoutdoorwears.com';
-const canonical = new URL(canonicalPath, site).toString();
-const image = ogImage ? new URL(ogImage, site).toString() : `${site}/og-default.jpg`;
+// Astro.site + BASE_URL keep canonical URLs correct on both the custom domain
+// (served from the root) and the GitHub Pages project subpath.
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const site = Astro.site?.toString().replace(/\/$/, '') ?? 'https://bestoutdoorwears.com';
+const canonical = `${site}${base}${canonicalPath}`;
+const image = `${site}${base}${ogImage ?? '/og-default.jpg'}`;
 const jsonLd = structuredData
   ? Array.isArray(structuredData)
     ? structuredData
