@@ -1,0 +1,58 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const faqs = [
+  {
+    q: "Do I need to buy new gear to use this system?",
+    a: "No. The layering system works with clothing you likely already own — the guide is about how to combine and use what you have, and when to add each layer. Buying recommendations are optional, not required.",
+  },
+  {
+    q: "Is TrailReady a physical product?",
+    a: "No. TrailReady is an instant digital download — a PDF guide, five trip-type chapters, and a working spreadsheet. You get access immediately after checkout; nothing ships.",
+  },
+  {
+    q: "What format is TrailReady in?",
+    a: "A PDF guide with fillable checkboxes you can tap on a phone or tablet, plus a spreadsheet (Excel and Google Sheets compatible) for the Conditions Helper tool.",
+  },
+  {
+    q: "Do I need three layers even for a short, warm hike?",
+    a: "Not worn all at once. On a short, warm hike you might hike in just a base layer with a shell packed in case conditions change. The system is about having the right layer available, not wearing everything constantly.",
+  },
+  {
+    q: "What's the difference between a rain jacket and a wind shell?",
+    a: "A rain jacket prioritizes waterproofing for sustained rain; a wind shell is lighter and more breathable but isn't built for heavy, sustained rain. See our full breakdown in the rain jacket vs. shell jacket guide.",
+  },
+  {
+    q: "Will TrailReady get updates?",
+    a: "Yes — revisions and additions are pushed to existing buyers at no extra cost through the same download link.",
+  },
+];
+
+const structuredData = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: faqs.map((f) => ({
+    '@type': 'Question',
+    name: f.q,
+    acceptedAnswer: { '@type': 'Answer', text: f.a },
+  })),
+};
+---
+<BaseLayout
+  title="FAQ | Best OutDoor Wears"
+  description="Frequently asked questions about outdoor layering, packing, and TrailReady."
+  canonicalPath="/faq/"
+  structuredData={structuredData}
+>
+  <section>
+    <div class="wrap" style="max-width:74ch; padding-top:20px;">
+      <h1>Frequently Asked Questions</h1>
+      {faqs.map((f) => (
+        <details class="faq-item">
+          <summary>{f.q}</summary>
+          <p>{f.a}</p>
+        </details>
+      ))}
+    </div>
+  </section>
+</BaseLayout>

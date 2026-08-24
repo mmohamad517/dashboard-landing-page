@@ -1,0 +1,20 @@
+{
+  "name": "bestoutdoorwears",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "^5.1.1",
+    "@astrojs/sitemap": "^3.2.1"
+  },
+  "devDependencies": {
+    "@fontsource/big-shoulders-display": "^5.1.0",
+    "@fontsource/source-serif-4": "^5.1.0",
+    "@fontsource/ibm-plex-mono": "^5.1.0"
+  }
+}

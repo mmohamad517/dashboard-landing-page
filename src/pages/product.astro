@@ -1,0 +1,108 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const productImg = 'https://images.unsplash.com/photo-1766893301770-bae104dc07f2?crop=entropy&cs=tinysrgb&fit=max&fm=webp&q=75&w=800';
+
+const chapters = [
+  { n: '01', name: 'Day Hike', desc: 'Out and back before dark — light layering, a lean pack list, and quick no-cook trail food.' },
+  { n: '02', name: 'Overnight Backpacking', desc: 'Layering for a full day plus a cold camp, a one-pot dinner, and what to buy vs. borrow.' },
+  { n: '03', name: 'Car Camping', desc: 'More room for comfort — layering for a base camp, a proper foil-packet dinner, and easy wins.' },
+  { n: '04', name: 'Cold-Weather', desc: 'A tighter margin for error — insulation priorities, a hot high-calorie meal, and hypothermia warning signs.' },
+  { n: '05', name: 'Wet-Weather', desc: 'Staying dry when the forecast won’t cooperate, plus a fast, low-exposure meal you can make in the rain.' },
+];
+
+const structuredData = {
+  '@context': 'https://schema.org',
+  '@type': 'Product',
+  name: 'TrailReady — Layering & Packing System',
+  description: 'A digital layering guide, 5 trip-type checklists, quick trail recipes, and a working conditions-based packing spreadsheet.',
+  brand: { '@type': 'Brand', name: 'Best OutDoor Wears' },
+  offers: {
+    '@type': 'Offer',
+    price: '12.00',
+    priceCurrency: 'USD',
+    availability: 'https://schema.org/InStock',
+    url: 'https://bestoutdoorwears.com/product/',
+  },
+};
+---
+<BaseLayout
+  title="TrailReady — Outdoor Layering & Packing System | Best OutDoor Wears"
+  description="TrailReady: a printable layering guide, 5 trip-type checklists, quick trail recipes, and a working spreadsheet that turns your trip and the weather into a packing list."
+  canonicalPath="/product/"
+  structuredData={structuredData}
+>
+  <section>
+    <div class="wrap product-grid">
+      <div>
+        <div class="product-photo">
+          <img src={productImg} width="800" height="1067" loading="eager"
+               alt="A hiker with a backpack and camera in the mountains" />
+        </div>
+        <p class="photo-credit">Photo: Leo_Visions / Unsplash</p>
+      </div>
+      <div class="product-copy">
+        <span class="label">The Toolkit</span>
+        <h1>TrailReady</h1>
+        <p>
+          A layering guide and packing system for 5 trip types — day hike, overnight backpacking, car camping,
+          cold-weather, and wet-weather — so you stop re-deciding the same things from scratch every trip.
+        </p>
+        <div class="product-includes">
+          <div class="item"><span class="n">01</span><div><h4>The Layering Guide (PDF)</h4><p>Base / mid / shell explained once, applied to every future trip — plus a front-page decision flowchart to find your chapter fast.</p></div></div>
+          <div class="item"><span class="n">02</span><div><h4>5 Trip-Type Chapters</h4><p>What to wear, what to pack, a quick recipe, buying picks, and an emergency-workarounds section for each.</p></div></div>
+          <div class="item"><span class="n">03</span><div><h4>Conditions Helper (Sheet)</h4><p>A real spreadsheet — enter your trip type and weather, get a suggested layering list back.</p></div></div>
+          <div class="item"><span class="n">04</span><div><h4>Fillable Checklists</h4><p>Tap-to-check boxes that work on your phone or tablet, not just on paper.</p></div></div>
+        </div>
+        <div class="price-tag">
+          <span class="price">$12</span>
+          <span class="was">one-time · instant download</span>
+        </div>
+        <div class="hero-actions" style="margin-top:22px;">
+          <a class="btn btn-primary" href="#buy">Get TrailReady</a>
+        </div>
+        <p class="affiliate-note" id="buy">
+          Checkout link pending — the seller is finishing their Payhip/Gumroad store setup.
+          This page will link straight to a secure, instant-download checkout once it's live.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="product-section">
+    <div class="wrap">
+      <div class="section-head">
+        <h2>What's inside, chapter by chapter</h2>
+      </div>
+      <div class="chapters">
+        {chapters.map((c) => (
+          <div class="chapter-card">
+            <span class="cnum">{c.n}</span>
+            <div>
+              <h3>{c.name}</h3>
+              <p>{c.desc}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap prose" style="max-width:74ch;">
+      <h2>Who this is for</h2>
+      <p>
+        TrailReady is built for casual hikers and campers — not ultralight veterans who've already made every
+        gear mistake and learned from it. If you've been cold, wet, or overloaded on a past trip and don't want
+        to guess again, this is for you. If you already have a dialed-in system, you probably don't need it.
+      </p>
+      <h2>What it isn't</h2>
+      <p>
+        It's not a brand-endorsement catalog and it's not a substitute for checking your actual local forecast
+        and trail conditions before you go. Specific product mentions are described as commonly recommended
+        options, not personally tested endorsements, and any purchase links help fund this site at no extra cost
+        to you — see our <a href="/affiliate-disclosure/">affiliate disclosure</a>.
+      </p>
+    </div>
+  </section>
+</BaseLayout>
