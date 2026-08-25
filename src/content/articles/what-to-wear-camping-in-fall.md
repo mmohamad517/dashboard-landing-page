@@ -7,7 +7,7 @@ updatedDate: 2026-08-09
 relatedSlugs: ["hiking-outfit-ideas-by-season", "car-camping-packing-list", "how-to-dress-for-changing-weather-outdoors", "how-to-teach-kids-camping-skills"]
 ---
 
-Fall camping clothing has to cover a wider daily temperature swing than any other season — a warm, sunny 65°F afternoon and a damp, 35°F night are both realistic on the same trip, which is why fall is where a proper layering system earns its keep more than in summer or the depths of winter.
+Fall camping clothing has to cover a wide daily temperature swing — a warm, sunny afternoon and a damp night close to freezing can both land on the same trip, and how wide that gap gets depends on your region and elevation. Check the forecast for the low as well as the high. This is where a proper layering system earns its keep more than in summer or the depths of winter.
 
 ## Daytime layers
 

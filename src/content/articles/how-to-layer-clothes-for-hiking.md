@@ -25,7 +25,7 @@ A fleece, a light puffy jacket, or a wool sweater. You put this on when you stop
 
 ### 3. Shell layer — blocks wind and rain, lets heat escape
 
-A packable wind or rain jacket. Even a mild, 50°F day with wind and rain can pull heat off a wet base and mid layer fast enough to cause hypothermia symptoms. Ridgelines are commonly 10–15°F colder and windier than the trailhead, so a shell is worth carrying even when the forecast at the parking lot looks clear.
+A packable wind or rain jacket. Hypothermia does not need freezing weather — wind and rain on a mild day, working on damp base and mid layers, is a well-known way to get cold enough to be in trouble. Exposed ground higher up is colder and far windier than a sheltered trailhead, and how much colder depends entirely on where you are, so a shell is worth carrying even when the forecast at the parking lot looks clear.
 
 ## How to actually use the system on trail
 
