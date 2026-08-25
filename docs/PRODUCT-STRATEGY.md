@@ -1,6 +1,97 @@
-# TrailReady / Best OutDoor Wears — Product Strategy
+# Product Strategy — Best OutDoor Wears
 
-This document captures the founder-level strategy behind this build: product decision, positioning, business model, marketing plan, and honest cost/risk estimates. Every number is either cited to a real source found during research, or explicitly marked unverified — nothing here is invented.
+> **August 2026 — product pivot.** The site previously sold *TrailReady*, a clothing-layering
+> and packing system. It now sells **Survival Cards**, an 89-card printable deck teaching
+> outdoor survival and safety skills as a game. The homepage, product page and all 20 cluster
+> articles were rewritten; the layering keyword set was retired. The sections below describe
+> the current product. Sections referring to layering keywords are historical.
+
+## Safety and accuracy decisions made during the pivot
+
+The source brief for the deck contained material that was changed before publication:
+
+- **Wild mushroom identification (original card Y10).** Removed. The "white gills + ring + volva"
+  heuristic misses deadly species outside that genus, and no card can make field identification
+  safe. Replaced with a card instructing the reader not to eat wild mushrooms, and why.
+- **The "universal edibility test" (original Y11).** Removed. It appears in older military manuals
+  and is warned against by modern instructors: some plant toxins act in very small doses or with
+  delayed onset, so the test's assumptions do not hold. Replaced with a card on survival priority
+  order — food is last, and a healthy adult can go a long time without it.
+- **Pine sap as a wound dressing (original G9).** Removed as an infection risk. Replaced with
+  correct wound covering, and an explicit warning against putting anything from the ground or a
+  tree on an open wound.
+- **Polished pebble as a signal mirror (original G7).** Removed — a stone does not reflect. Replaced
+  with methods that work (real mirror, phone screen, foil) and the finger-V aiming technique.
+- **Fabricated figures throughout.** "Visible up to 15 km", "insulates to -5°C", "15% faster",
+  "burns 30+ minutes", "300 bird species" and similar had no cited basis. All removed or restated
+  qualitatively.
+- **First aid disclaimer.** The brief claimed "NO medical advice" while the red cards were plainly
+  first aid, including choking response — a contradiction that would not survive scrutiny. The
+  cards now carry an accurate statement: they are memory aids for people who have completed a
+  first aid course, not a substitute for one.
+- **UAE-specific content.** All five accommodation cards and seven UAE camping-location cards were
+  dropped, along with local emergency numbers, at the site owner's direction. The site targets a
+  global English-speaking audience, and the hotel details and prices could not be verified.
+
+## 1. Product Name
+Survival Cards (sold under Best OutDoor Wears / bestoutdoorwears.com).
+
+## 2. One-Line Description
+An 89-card printable deck that teaches outdoor survival and safety skills as a game, rather than
+as a manual nobody finishes.
+
+## 3. Target Customer
+Beginners and families camping or hiking somewhere fairly normal — a campsite, a marked trail, a
+weekend in the hills. Scout groups and youth leaders. English-speaking, global.
+
+## 4. Problem
+Survival content splits into dramatic technique videos and kit lists. Neither addresses what
+actually goes wrong: a chain of small decisions made hours before anything felt like an emergency.
+And reading about skills does not make them stick.
+
+## 5. Solution
+89 cards across nine colour-coded categories, five game modes, and a seven-day pre-trip challenge —
+so the material gets practised and argued about rather than skimmed.
+
+## 6. USP
+Learning by play rather than instruction, with an unusually explicit statement of its own limits.
+The deck refuses to teach foraging and says why, which is both the honest position and a
+differentiator in a category full of confident bad advice.
+
+## 7. Business Model
+One-time purchase, instant digital download, print at home. No per-unit cost, no shipping.
+
+## 8. Pricing
+$14 one-time. Higher than the previous $12 product because the content volume is substantially
+larger (89 cards plus an 8-page guide). Not validated against comparable products — a reasoned
+starting point to test, not a researched optimum.
+
+## 9-10. Feature List / MVP
+Shipped in full: 52 core cards (Quick Hacks 12, Smart Shortcuts 12, Survival Skills 12, Emergency
+Response 10, Multi-Use 6), 37 expansion cards (Safety & Planning 10, Camp Cooking 10, 7-Day
+Challenge 7, Hard Choices 10), an 8-page guide PDF, and a free 8-card sample as the lead magnet.
+
+## 11. User Flow
+Search → article → pillar page or product page → external checkout → instant download → print.
+No account, no login.
+
+## 12. Screen List
+Home (pillar), Product, 20 article pages, About, Privacy, Terms, Contact, FAQ, Affiliate Disclosure.
+
+## 16. SEO Strategy
+Primary keyword: `outdoor survival skills for beginners`. Twenty secondary keywords, one article
+each, covering navigation, water, shelter, fire, first aid, signalling, desert and cold conditions,
+weather, cooking, kit, wildlife, flash floods, hydration, family games, teaching children,
+foraging risk, and beginner mistakes. Pillar-cluster internal linking throughout. **No
+search-volume data** — no keyword tool was available; selection is qualitative.
+
+## 29. Estimated Operating Costs
+Unchanged: $0/month fixed. GitHub Pages hosting, GitHub Actions free tier, self-hosted
+open-licence fonts. Only cost is the payment platform's per-sale fee, deducted from each sale.
+
+---
+
+*Historical sections from the TrailReady era follow.*
 
 ## 1. Product Name
 TrailReady (sold under the Best OutDoor Wears brand / bestoutdoorwears.com).

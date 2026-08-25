@@ -1,25 +1,37 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { url } from '../lib/paths';
-import BookMockup from '../components/BookMockup.astro';
+import DeckMockup from '../components/DeckMockup.astro';
 
-const chapters = [
-  { n: '01', name: 'Day Hike', desc: 'Out and back before dark — light layering, a lean pack list, and quick no-cook trail food.' },
-  { n: '02', name: 'Overnight Backpacking', desc: 'Layering for a full day plus a cold camp, a one-pot dinner, and what to buy vs. borrow.' },
-  { n: '03', name: 'Car Camping', desc: 'More room for comfort — layering for a base camp, a proper foil-packet dinner, and easy wins.' },
-  { n: '04', name: 'Cold-Weather', desc: 'A tighter margin for error — insulation priorities, a hot high-calorie meal, and hypothermia warning signs.' },
-  { n: '05', name: 'Wet-Weather', desc: 'Staying dry when the forecast won’t cooperate, plus a fast, low-exposure meal you can make in the rain.' },
+const categories = [
+  { n: '12', name: 'Quick Hacks', color: '#3F7D4E', desc: 'Clever fixes from what you already have on you.' },
+  { n: '12', name: 'Smart Shortcuts', color: '#2E6284', desc: 'Small habits that save weight, fuel and time.' },
+  { n: '12', name: 'Survival Skills', color: '#C08A1E', desc: 'Navigation, water, shelter, fire, being found.' },
+  { n: '10', name: 'Emergency Response', color: '#A8342A', desc: 'What to do first, and when to call for help.' },
+  { n: '6', name: 'Multi-Use Items', color: '#5A5F55', desc: 'One object, many jobs.' },
+  { n: '10', name: 'Safety & Planning', color: '#7A4B12', desc: 'The decisions made before you leave the house.' },
+  { n: '10', name: 'Camp Cooking', color: '#B4611C', desc: 'Real food, one pot or a sheet of foil.' },
+  { n: '7', name: '7-Day Challenge', color: '#5C4A86', desc: 'One skill a day in the week before a trip.' },
+  { n: '10', name: 'Hard Choices', color: '#9C4A2F', desc: 'Scenarios with no comfortable answer.' },
+];
+
+const modes = [
+  { n: '01', name: 'Survival Challenge', desc: 'Draw three. Explain how you\'d handle one, out loud, in under a minute. The group decides who they\'d rather be standing next to.' },
+  { n: '02', name: 'Race The Clock', desc: 'Two teams, one card, same start. First working shelter, fire or filter wins.' },
+  { n: '03', name: 'Priority Sort', desc: 'Five cards face up. Rank them by what you\'d deal with first — then change the setting and watch the order change.' },
+  { n: '04', name: 'Do It Blind', desc: 'Read only the title. Try the skill before you read the steps. You remember what you got wrong.' },
+  { n: '05', name: 'Hard Choices', desc: 'Everyone commits to A, B or C out loud before anyone reads the answer. Then argue about it.' },
 ];
 
 const structuredData = {
   '@context': 'https://schema.org',
   '@type': 'Product',
-  name: 'TrailReady — Layering & Packing System',
-  description: 'A digital layering guide, 5 trip-type checklists, quick trail recipes, and a working conditions-based packing spreadsheet.',
+  name: 'Survival Cards — Outdoor Skills Card Deck',
+  description: 'An 89-card printable deck that teaches outdoor survival and safety skills as a game: quick hacks, survival skills, emergency response, camp cooking, a 7-day challenge and scenario cards.',
   brand: { '@type': 'Brand', name: 'Best OutDoor Wears' },
   offers: {
     '@type': 'Offer',
-    price: '12.00',
+    price: '14.00',
     priceCurrency: 'USD',
     availability: 'https://schema.org/InStock',
     url: 'https://bestoutdoorwears.com/product/',
@@ -27,39 +39,40 @@ const structuredData = {
 };
 ---
 <BaseLayout
-  title="TrailReady — Outdoor Layering & Packing System | Best OutDoor Wears"
-  description="TrailReady: a printable layering guide, 5 trip-type checklists, quick trail recipes, and a working spreadsheet that turns your trip and the weather into a packing list."
+  title="Survival Cards — An 89-Card Outdoor Skills Deck | Best OutDoor Wears"
+  description="A printable 89-card deck that teaches outdoor survival and safety skills as a game — quick hacks, navigation, emergency response, camp cooking, and a 7-day pre-trip challenge."
   canonicalPath="/product/"
   structuredData={structuredData}
 >
   <section>
     <div class="wrap product-grid">
       <div>
-        <BookMockup width={320} />
+        <DeckMockup width={250} />
       </div>
       <div class="product-copy">
-        <span class="label">The Toolkit</span>
-        <h1>TrailReady</h1>
+        <span class="label">The Deck</span>
+        <h1>Survival Cards</h1>
         <p>
-          A layering guide and packing system for 5 trip types — day hike, overnight backpacking, car camping,
-          cold-weather, and wet-weather — so you stop re-deciding the same things from scratch every trip.
+          Eighty-nine cards that teach you what to do outdoors — by playing, arguing, and getting it wrong
+          somewhere safe. Print it, cut it, and it lives in the lid of your pack.
         </p>
         <div class="product-includes">
-          <div class="item"><span class="n">01</span><div><h4>The Layering Guide (PDF)</h4><p>Base / mid / shell explained once, applied to every future trip — plus a front-page decision flowchart to find your chapter fast.</p></div></div>
-          <div class="item"><span class="n">02</span><div><h4>5 Trip-Type Chapters</h4><p>What to wear, what to pack, a quick recipe, buying picks, and an emergency-workarounds section for each.</p></div></div>
-          <div class="item"><span class="n">03</span><div><h4>Conditions Helper (Sheet)</h4><p>A real spreadsheet — enter your trip type and weather, get a suggested layering list back.</p></div></div>
-          <div class="item"><span class="n">04</span><div><h4>Fillable Checklists</h4><p>Tap-to-check boxes that work on your phone or tablet, not just on paper.</p></div></div>
+          <div class="item"><span class="n">01</span><div><h4>52 core cards</h4><p>Quick hacks, smart shortcuts, survival skills, emergency response and multi-use kit.</p></div></div>
+          <div class="item"><span class="n">02</span><div><h4>37 expansion cards</h4><p>Safety &amp; planning, camp cooking, a seven-day skills challenge, and ten scenario cards.</p></div></div>
+          <div class="item"><span class="n">03</span><div><h4>The guide (PDF)</h4><p>Five ways to play, how to read a card, printing instructions, and where this deck's limits are.</p></div></div>
+          <div class="item"><span class="n">04</span><div><h4>Print-ready</h4><p>Nine cards a page with cut guides. Colour-coded so you find the right one fast.</p></div></div>
         </div>
         <div class="price-tag">
-          <span class="price">$12</span>
+          <span class="price">$14</span>
           <span class="was">one-time · instant download</span>
         </div>
         <div class="hero-actions" style="margin-top:22px;">
-          <a class="btn btn-primary" href="#buy">Get TrailReady</a>
+          <a class="btn btn-primary" href="#buy">Get the deck</a>
+          <a class="btn btn-ghost" href={url('/downloads/survival-cards-free-sample.pdf')}>Free 8-card sample</a>
         </div>
         <p class="affiliate-note" id="buy">
-          Checkout link pending — the seller is finishing their Payhip/Gumroad store setup.
-          This page will link straight to a secure, instant-download checkout once it's live.
+          Checkout link pending — the store listing is being finished. This page will link straight to a
+          secure, instant-download checkout once it's live.
         </p>
       </div>
     </div>
@@ -68,12 +81,13 @@ const structuredData = {
   <section class="product-section">
     <div class="wrap">
       <div class="section-head">
-        <h2>What's inside, chapter by chapter</h2>
+        <h2>Nine colours,<br>one job each</h2>
+        <p class="desc">Colour tells you what kind of card you're holding before you read a word of it.</p>
       </div>
-      <div class="chapters">
-        {chapters.map((c) => (
-          <div class="chapter-card">
-            <span class="cnum">{c.n}</span>
+      <div class="cat-grid">
+        {categories.map((c) => (
+          <div class="cat-card" style={`--cat:${c.color}`}>
+            <span class="cat-count">{c.n}</span>
             <div>
               <h3>{c.name}</h3>
               <p>{c.desc}</p>
@@ -85,19 +99,45 @@ const structuredData = {
   </section>
 
   <section>
+    <div class="wrap">
+      <div class="section-head">
+        <h2>Five ways to play</h2>
+        <p class="desc">Two players or ten. No board, no timer, no setup.</p>
+      </div>
+      <div class="chapters">
+        {modes.map((m) => (
+          <div class="chapter-card">
+            <span class="cnum">{m.n}</span>
+            <div>
+              <h3>{m.name}</h3>
+              <p>{m.desc}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="product-section">
     <div class="wrap prose" style="max-width:74ch;">
       <h2>Who this is for</h2>
       <p>
-        TrailReady is built for casual hikers and campers — not ultralight veterans who've already made every
-        gear mistake and learned from it. If you've been cold, wet, or overloaded on a past trip and don't want
-        to guess again, this is for you. If you already have a dialed-in system, you probably don't need it.
+        Beginners and families heading somewhere fairly normal — a campsite, a marked trail, a weekend in the
+        hills. Scout groups and youth leaders who want something to do round a fire that isn't a lecture. If
+        you already teach this stuff for a living, you don't need it.
       </p>
       <h2>What it isn't</h2>
       <p>
-        It's not a brand-endorsement catalog and it's not a substitute for checking your actual local forecast
-        and trail conditions before you go. Specific product mentions are described as commonly recommended
-        options, not personally tested endorsements, and any purchase links help fund this site at no extra cost
-        to you — see our <a href={url('/affiliate-disclosure/')}>affiliate disclosure</a>.
+        It isn't a wilderness medicine manual and it isn't a substitute for a first aid course — the emergency
+        cards are memory aids for people who have been taught this material, not a way to learn it cold. It
+        also deliberately doesn't teach you to identify wild plants or mushrooms: deadly and edible species
+        look alike, field tests don't reliably work, and a healthy adult can go a long time without food.
+        That card tells you to leave it alone, and explains why.
+      </p>
+      <h2>A note on fire and local rules</h2>
+      <p>
+        Several cards involve flame. Fire rules vary enormously by region and season, and in many places open
+        fires are banned outright for part of the year. Check before you light anything.
       </p>
     </div>
   </section>

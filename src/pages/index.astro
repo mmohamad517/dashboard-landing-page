@@ -2,26 +2,19 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import { url } from '../lib/paths';
-import BookMockup from '../components/BookMockup.astro';
+import DeckMockup from '../components/DeckMockup.astro';
 
 const articles = (await getCollection('articles')).sort(
   (a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf()
 );
 
 // Unsplash photo "Lost in the Wilderness" by Geranimo (@geraninmo), served as
-// a compressed WebP. Sized for a full-width banner and loaded eagerly since
-// it's the largest above-the-fold element (LCP).
+// a compressed WebP. Largest above-the-fold element, so loaded eagerly (LCP).
 const heroImgBase = 'https://images.unsplash.com/photo-1487525219605-eadb39ae229c?crop=entropy&cs=tinysrgb&fit=crop&fm=webp&q=70';
 const heroImg = `${heroImgBase}&w=1600&h=900`;
 const heroSrcSet = [900, 1280, 1600, 2000]
   .map((w) => `${heroImgBase}&w=${w}&h=${Math.round((w * 9) / 16)} ${w}w`)
   .join(', ');
-
-const secondaryKeywords = [
-  'how to layer clothes for hiking', 'day hike packing list', 'backpacking packing checklist',
-  'winter hiking layering system', 'base layer vs mid layer', 'how to choose a hiking jacket',
-  'rain jacket vs shell jacket for hiking', 'what to wear camping in fall',
-];
 
 const structuredData = [
   {
@@ -29,13 +22,13 @@ const structuredData = [
     '@type': 'Organization',
     name: 'Best OutDoor Wears',
     url: 'https://bestoutdoorwears.com',
-    description: 'A layering and packing system for outdoor beginners, built around TrailReady.',
+    description: 'Outdoor survival and safety skills for beginners, taught as a card game.',
   },
 ];
 ---
 <BaseLayout
-  title="Outdoor Clothing Layering Guide: What to Wear Hiking & Camping | Best OutDoor Wears"
-  description="A complete outdoor clothing layering guide: how to dress for hiking, camping, and changing weather, plus a printable packing system for 5 trip types — TrailReady."
+  title="Outdoor Survival Skills for Beginners: The Complete Guide | Best OutDoor Wears"
+  description="Outdoor survival skills for beginners — navigation, water, shelter, fire, weather and emergencies, explained plainly. Plus Survival Cards, an 89-card deck that teaches them as a game."
   canonicalPath="/"
   structuredData={structuredData}
 >
@@ -53,19 +46,19 @@ const structuredData = [
       alt="Mist drifting through a dense evergreen forest at dawn"
     />
     <div class="hero-banner-inner">
-      <span class="label">Outdoor Clothing Layering Guide</span>
-      <h1>Stop guessing what to <span class="accent">wear</span> outside.</h1>
+      <span class="label">Outdoor Survival Skills for Beginners</span>
+      <h1>Learn this <span class="accent">before</span> you need it.</h1>
       <p class="lede">
-        You already know where you're hiking. This guide — and the TrailReady system built from it —
-        tells you exactly what to layer, wear, and pack for the trip, so you're never the one shivering,
-        soaked, or hauling gear you didn't need.
+        Almost nobody gets into trouble outdoors because they lacked expensive kit. They get into trouble
+        because of a decision made hours earlier, calmly, with plenty of options still available. This guide
+        covers the skills that prevent that — and the deck that makes them stick.
       </p>
       <div class="hero-actions">
-        <a class="btn btn-primary" href={url('/product/')}>Get TrailReady — $12</a>
-        <a class="btn btn-ghost" href="#layers">Read the layering system ↓</a>
+        <a class="btn btn-primary" href={url('/product/')}>Get Survival Cards — $14</a>
+        <a class="btn btn-ghost" href="#skills">Start with the skills ↓</a>
       </div>
       <p class="free-link">
-        <a href={url('/downloads/trailready-free-cheatsheet.pdf')}>Free download: the Universal Layering Cheat Sheet (1 page, no email required) →</a>
+        <a href={url('/downloads/survival-cards-free-sample.pdf')}>Free download: 8 cards from the deck (no email required) →</a>
       </p>
     </div>
     <p class="hero-credit">Photo: Geranimo / Unsplash</p>
@@ -74,107 +67,123 @@ const structuredData = [
   <section class="problem" id="problem">
     <div class="wrap">
       <div class="section-head">
-        <h2>Every trip, the<br>same three mistakes</h2>
-        <p class="desc">Not gear failures. Clothing decisions — made the night before, in the dark.</p>
+        <h2>The three that<br>actually catch people</h2>
+        <p class="desc">Not bears. Not cliffs. These, over and over.</p>
       </div>
     </div>
     <div class="problem-grid">
       <div class="problem-card">
-        <div class="num">01 / COLD</div>
-        <h3>Underdressed at altitude</h3>
-        <p>Warm at the trailhead, freezing by the ridge — because the plan was "wear a jacket," not a layering system.</p>
+        <div class="num">01 / LATE</div>
+        <h3>The turnaround that didn't happen</h3>
+        <p>Everyone agrees on a turnaround time. Almost nobody honours it. Most serious incidents include a decision to push on past the last easy exit.</p>
       </div>
       <div class="problem-card">
-        <div class="num">02 / SOAKED</div>
-        <h3>Wrong fabric, wrong day</h3>
-        <p>Cotton feels fine at the car. Two miles in, it's holding sweat or rain against your skin all the way back.</p>
+        <div class="num">02 / COLD</div>
+        <h3>Wet, then windy, then confused</h3>
+        <p>Hypothermia doesn't need snow. Damp clothes, a breeze and a mild day are enough, and the first thing it takes is your judgement.</p>
       </div>
       <div class="problem-card">
-        <div class="num">03 / OVERLOADED</div>
-        <h3>Packed for every scenario</h3>
-        <p>Three jackets "just in case" — and a pack heavy enough to end the trip two hours early.</p>
+        <div class="num">03 / ALONE</div>
+        <h3>Nobody knew the plan</h3>
+        <p>A search that starts with a known route and a known return time is short. One that starts with "he said something about the mountains" is not.</p>
       </div>
     </div>
   </section>
 
-  <section id="layers">
+  <section id="skills">
     <div class="wrap">
       <div class="section-head">
-        <h2>One system.<br>Every condition.</h2>
-        <p class="desc">The same three-layer logic outdoor guides have used for decades — made specific to your trip.</p>
+        <h2>The order that<br>keeps you alive</h2>
+        <p class="desc">When something goes wrong, this is the sequence. It almost never changes.</p>
       </div>
       <div class="layers">
         <div class="layer-card layer-1">
-          <span class="layer-index">LAYER 01</span>
-          <h3>Base</h3>
+          <span class="layer-index">FIRST</span>
+          <h3>Stop</h3>
           <div class="swatch"></div>
-          <p>Sits against your skin, moves sweat away. The layer you wear on every single trip, regardless of weather.</p>
+          <p>Sit down. Drink something. The urge to keep moving is what turns being briefly unsure into being genuinely lost.</p>
         </div>
         <div class="layer-card layer-2">
-          <span class="layer-index">LAYER 02</span>
-          <h3>Mid</h3>
+          <span class="layer-index">SECOND</span>
+          <h3>Shelter</h3>
           <div class="swatch"></div>
-          <p>Your insulation. On at rest stops and ridgelines, off the second you're climbing hard and warm.</p>
+          <p>Out of the wind, off the ground, dry if you can manage it. Exposure works far faster than thirst or hunger.</p>
         </div>
         <div class="layer-card layer-3">
-          <span class="layer-index">LAYER 03</span>
-          <h3>Shell</h3>
+          <span class="layer-index">THIRD</span>
+          <h3>Signal</h3>
           <div class="swatch"></div>
-          <p>Blocks wind and rain without trapping the heat you're generating. Your last line before you turn back.</p>
+          <p>Be findable. Bright, geometric, noisy, in threes. Then keep doing it on a schedule instead of all at once.</p>
         </div>
       </div>
 
       <div class="prose" style="margin-top:44px; max-width:74ch;">
-        <h2>Why "just wear a jacket" doesn't work</h2>
+        <h2>Why survival advice usually fails beginners</h2>
         <p>
-          Most beginners think about outdoor clothing the way they think about everyday clothing: pick an outfit
-          for the weather, put it on, done. That works for a walk to the store. It doesn't work for three hours
-          on a trail, because the conditions around your body change constantly even when the forecast doesn't —
-          your effort level swings from a flat warm-up to a steep, sweaty climb to a windy, exposed ridge to a
-          slow, cooling descent, sometimes within the same hour. A single "outfit" can't track that. A layering
-          system can, because each layer has one job, and you add or remove it independently as your body and
-          the weather change.
+          Search "survival skills" and you get two kinds of answer. The first is a wall of text about friction
+          fire and building debris huts — genuinely interesting, almost never the thing that would have helped.
+          The second is a kit list, because kit is easy to sell. Neither addresses what actually goes wrong,
+          which is a chain of small, reasonable-seeming decisions made hours before anything felt like an
+          emergency.
         </p>
-        <h3>Base layer: the one you never skip</h3>
         <p>
-          Your base layer sits against your skin and has exactly one job: move sweat away from your body so it
-          can evaporate. This is the layer people get wrong most often, usually by wearing cotton. Cotton feels
-          soft and comfortable at the trailhead, but it absorbs moisture and holds onto it — once a cotton
-          t-shirt is wet from sweat or rain, it stays wet, and wet fabric against your skin pulls heat away from
-          your body far faster than dry fabric does. That's fine on a warm afternoon. It's genuinely dangerous
-          in cold or windy conditions, where it's a real contributor to hypothermia even at temperatures well
-          above freezing. Merino wool and synthetic technical fabrics (polyester, nylon blends) solve this by
-          wicking moisture to the outer surface where it can evaporate, so you stay dry even when you're
-          sweating hard.
+          The useful version is much less dramatic. It's knowing that you can survive a long time without food
+          and a short time wet and cold, so you spend your effort accordingly. It's telling one person where
+          you're going. It's turning back. None of it makes a good video, and all of it is what the people who
+          come home do differently.
         </p>
-        <h3>Mid layer: on and off, not on all day</h3>
+
+        <h3>Water: the one you can't wait out</h3>
         <p>
-          The mid layer is your insulation — a fleece, a light puffy, or a wool sweater — and its job is to trap
-          the warm air your body generates. The mistake here isn't fabric choice, it's timing: people put the
-          mid layer on at the trailhead and leave it on for the whole hike, which means they're sweating through
-          it within twenty minutes of climbing. The mid layer is meant to come on and off throughout the day —
-          on at rest stops, at the summit, on an exposed ridge in the wind; off the moment you're moving hard
-          enough to generate your own heat. Packing it somewhere quick to reach (a pocket, not the bottom of your
-          bag) makes this realistic instead of annoying.
+          You can go days without eating. You cannot go days without drinking, and dehydration takes your
+          decision-making long before it takes your legs. Carry more than you think, know where you'd refill,
+          and treat everything you find — boiling is the method that works everywhere, without equipment or
+          batteries. Filtering through cloth clears the grit but does nothing to the germs; the boil is the
+          part that makes it safe.
         </p>
-        <h3>Shell layer: your weather insurance</h3>
+
+        <h3>Shelter: the ground takes more than the air</h3>
         <p>
-          The outer shell blocks wind and rain while letting the heat and moisture your body produces escape —
-          that combination is what "breathable waterproof" actually means. Without a shell, a wet base and mid
-          layer lose heat fast enough that even a mild, 50°F (10°C) day with wind and rain can produce
-          hypothermia symptoms on an exposed trail. A packable wind/rain shell weighs very little and takes up
-          almost no space, which is exactly why "just in case" is a reasonable argument for carrying one on
-          nearly every trip, even when the forecast looks clear — mountain weather changes faster than forecasts
-          update, and ridgelines are commonly 10–15°F colder and windier than the trailhead.
+          Most people building an emergency shelter start with the roof. It's the wrong order. Lying on cold
+          ground pulls heat out of you faster than cold air does, so anything dry and thick underneath —
+          leaves, bracken, a pack, a coiled rope — is worth more than a perfect roof. Get out of the wind,
+          get off the ground, and stay small. A shelter you can fill with your own body heat beats a
+          impressive one you can't.
         </p>
-        <h3>Translating a weather app into a layering decision</h3>
+
+        <h3>Fire: preparation, not technique</h3>
         <p>
-          Checking the weather is standard advice that most guides stop at. The more useful skill is turning that
-          forecast into an actual clothing decision, because temperature alone doesn't tell you what to wear —
-          wind and your own effort level matter just as much. A rule of thumb worth internalizing: start your
-          hike slightly cold, not comfortable. If you feel warm and cozy standing at the trailhead, you will
-          overheat within the first ten minutes of climbing. Layer for the walk, not for standing still, and
-          keep the layer you shed within arm's reach for the moment you stop moving and the cold catches up.
+          Almost every failed fire is a tinder failure, not a spark failure. Build the whole thing before you
+          strike anything: a nest of the finest dry material you can find, then progressively thicker kindling
+          stacked and within reach. A ferro rod works soaked and costs very little. Friction fire is a genuine
+          skill that takes most people many attempts in ideal conditions — worth learning, never worth
+          depending on.
+        </p>
+
+        <h3>Navigation: hold a direction, don't chase a point</h3>
+        <p>
+          A shadow stick or an analogue watch gives you a rough heading, and rough is usually enough — the goal
+          is to stop walking in circles, not to navigate precisely. But the more important habit happens before
+          you leave: download the offline map, screenshot the route, and note the nearest road and the last
+          junction you passed. A screenshot survives a dead data connection. A browser tab does not.
+        </p>
+
+        <h3>Being found: stay put and get big</h3>
+        <p>
+          If someone knows your route and expects you back, staying put and making yourself visible is almost
+          always the right call. Wandering is what turns a short search into a long one. Spread bright kit,
+          make straight lines and geometric shapes — nature makes very few of those, so they read as human from
+          the air — and signal in threes on a schedule so you don't exhaust yourself or your batteries.
+        </p>
+
+        <h3>Food is the last thing to worry about</h3>
+        <p>
+          This is the one that surprises people. Hunger feels urgent and rarely is. Foraging burns energy,
+          takes time you should be spending on being found, and carries real risk: deadly and edible plants and
+          mushrooms look alike, several fatal species taste fine, and the old "universal edibility test" is not
+          recommended by modern instructors because some toxins act in tiny amounts or long after the test
+          would have passed. If you take one rule from this page: don't eat wild mushrooms, ever, on a
+          field ID.
         </p>
       </div>
     </div>
@@ -183,34 +192,34 @@ const structuredData = [
   <section class="product-section" id="product-teaser">
     <div class="wrap">
       <div class="section-head">
-        <h2>TrailReady: the system,<br>in your pocket</h2>
-        <p class="desc">Everything above, broken down for 5 trip types, plus packing, quick recipes, and emergency workarounds.</p>
+        <h2>Survival Cards:<br>89 of these, in your pack</h2>
+        <p class="desc">Everything above, one card at a time — plus the arguments that make it stick.</p>
       </div>
       <div class="product-grid">
         <div>
           <div class="product-includes">
-            <div class="item"><span class="n">01</span><div><h4>The Layering Guide</h4><p>Base / mid / shell explained once, applied to every future trip.</p></div></div>
-            <div class="item"><span class="n">02</span><div><h4>5 Trip-Type Chapters</h4><p>Day hike, overnight backpack, car camping, cold-weather, wet-weather — each with layering, packing, quick recipes, and buying picks.</p></div></div>
-            <div class="item"><span class="n">03</span><div><h4>Conditions Helper (Sheet)</h4><p>A working spreadsheet: pick your trip type and weather, get your layering list back — live formulas, not a static PDF.</p></div></div>
-            <div class="item"><span class="n">04</span><div><h4>Fillable Checklists</h4><p>Tap-to-check boxes that work on your phone or tablet, not just on paper.</p></div></div>
+            <div class="item"><span class="n">01</span><div><h4>52 core cards</h4><p>Quick hacks, smart shortcuts, survival skills, emergency response, multi-use kit.</p></div></div>
+            <div class="item"><span class="n">02</span><div><h4>37 expansion cards</h4><p>Safety &amp; planning, camp cooking, a seven-day challenge, and ten scenario cards.</p></div></div>
+            <div class="item"><span class="n">03</span><div><h4>Five ways to play</h4><p>Round a fire, in the car, or as a week of daily practice before you go.</p></div></div>
+            <div class="item"><span class="n">04</span><div><h4>Print at home</h4><p>Nine to a page with cut guides, colour-coded so you find one fast.</p></div></div>
           </div>
           <div class="price-tag">
-            <span class="price">$12</span>
+            <span class="price">$14</span>
             <span class="was">one-time · instant download</span>
           </div>
           <div class="hero-actions" style="margin-top:20px;">
             <a class="btn btn-primary" href={url('/product/')}>See what's inside →</a>
           </div>
         </div>
-        <div class="prose" style="max-width:52ch;">
-          <BookMockup width={260} />
-          <p>
-            A packing checklist alone doesn't fix bad clothing decisions — that's why most generic camping
-            checklists don't actually solve the problem most beginners have. TrailReady leads with the layering
-            system because that's what actually determines whether you're comfortable, then backs it up with the
-            gear, food, and buying guidance for each specific trip type, so you're not re-deriving the same
-            decisions from scratch every time you plan a trip.
-          </p>
+        <div>
+          <DeckMockup width={220} />
+          <div class="prose" style="max-width:52ch;">
+            <p>
+              Reading about this stuff doesn't make it stick. Doing it once in your garden does, and arguing
+              about it with four other people around a fire does even better. That's the whole reason this is
+              a deck of cards and not another manual.
+            </p>
+          </div>
         </div>
       </div>
     </div>
@@ -220,7 +229,7 @@ const structuredData = [
     <div class="wrap">
       <div class="section-head">
         <h2>Guides &amp; deep dives</h2>
-        <p class="desc">Every question we get about layering, packing, and outdoor clothing, answered in full.</p>
+        <p class="desc">Every skill on this page, in full.</p>
       </div>
       <div class="article-grid">
         {articles.map((a) => (
@@ -234,39 +243,25 @@ const structuredData = [
     </div>
   </section>
 
-  <section class="kw">
-    <div class="wrap">
-      <div class="section-head">
-        <h2>What this covers</h2>
-      </div>
-      <div class="kw-list">
-        <span class="primary">outdoor clothing layering guide</span>
-        {secondaryKeywords.map((k) => <span>{k}</span>)}
-        <span>+ 12 more →</span>
-      </div>
-    </div>
-  </section>
-
   <section id="faq">
     <div class="wrap" style="max-width:74ch;">
       <div class="section-head">
         <h2>Quick answers</h2>
       </div>
       <details class="faq-item">
-        <summary>Do I really need three separate layers for a short day hike?</summary>
-        <p>Not always worn at once — but carrying the option matters. On a short, warm, low-elevation hike you
-          may hike in just a base layer with a shell in your pack "just in case." The system isn't about
-          wearing everything; it's about having the right piece available for the moment you need it.</p>
+        <summary>Is this a survival course?</summary>
+        <p>No. It's a learning aid and a game. The emergency cards are memory prompts for people who've done a
+          first aid course, not a replacement for one — and we say so on the cards themselves.</p>
       </details>
       <details class="faq-item">
-        <summary>What fabric should I avoid most?</summary>
-        <p>Cotton, in cold or wet conditions specifically. It's fine for a warm, dry, low-effort walk — the
-          problem is what happens once it gets wet from sweat or rain and stops insulating.</p>
+        <summary>Does it teach foraging?</summary>
+        <p>Deliberately not. Deadly and edible species look alike and field tests don't reliably work. The deck
+          teaches the correct priority instead: you can go a long time without food.</p>
       </details>
       <details class="faq-item">
-        <summary>Is TrailReady a physical product?</summary>
-        <p>No — it's an instant digital download (PDF guide and checklists, plus a working spreadsheet tool).
-          You get access immediately after purchase, nothing ships.</p>
+        <summary>Is it a physical deck?</summary>
+        <p>It's a print-at-home PDF — nine cards a page with cut guides. Nothing ships, and you can reprint any
+          card you lose.</p>
       </details>
       <p style="margin-top:20px;"><a href={url('/faq/')}>See the full FAQ →</a></p>
     </div>
