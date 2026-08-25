@@ -86,6 +86,47 @@ const fontFaceCss = [
     .btn-ghost { color: var(--pine); background: transparent; }
 
     main { min-height: 40vh; }
+
+    /* Full-width hero banner — above the fold, so kept in critical CSS */
+    .hero-banner { position: relative; isolation: isolate; overflow: hidden; }
+    .hero-bg {
+      position: absolute; inset: 0; width: 100%; height: 100%;
+      object-fit: cover; z-index: -2;
+    }
+    .hero-banner::after {
+      content: ""; position: absolute; inset: 0; z-index: -1;
+      background: linear-gradient(
+        100deg,
+        rgba(11,18,10,0.92) 0%,
+        rgba(11,18,10,0.78) 42%,
+        rgba(11,18,10,0.42) 72%,
+        rgba(11,18,10,0.30) 100%
+      );
+    }
+    .hero-banner-inner {
+      position: relative;
+      padding: clamp(64px, 11vw, 132px) clamp(20px, 4vw, 48px) clamp(56px, 9vw, 108px);
+      max-width: var(--max); margin: 0 auto;
+    }
+    .hero-banner .label { color: #F0B08A; }
+    .hero-banner h1 {
+      font-size: clamp(2.4rem, 6.4vw, 4.3rem); line-height: 0.96;
+      color: #FFFFFF; margin-top: 12px; max-width: 17ch;
+    }
+    .hero-banner h1 .accent { color: #FF8F55; }
+    .hero-banner .lede {
+      margin-top: 18px; font-size: clamp(1rem, 1.6vw, 1.16rem);
+      color: #DCE4D7; max-width: 50ch;
+    }
+    .hero-banner .hero-actions { display: flex; gap: 14px; margin-top: 28px; flex-wrap: wrap; }
+    .hero-banner .btn-ghost { color: #FFFFFF; border-color: rgba(255,255,255,0.55); }
+    .hero-banner .free-link { margin-top: 18px; font-size: 0.95rem; }
+    .hero-banner .free-link a { color: #F0B08A; }
+    .hero-credit {
+      position: absolute; right: 12px; bottom: 8px; z-index: 1;
+      font-family: "IBM Plex Mono", monospace; font-size: 0.62rem;
+      color: rgba(255,255,255,0.55); margin: 0;
+    }
   </style>
 
   <!-- Remaining CSS: non-blocking -->

@@ -7,7 +7,14 @@ const articles = (await getCollection('articles')).sort(
   (a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf()
 );
 
-const heroImg = 'https://images.unsplash.com/photo-1586022045497-31fcf76fa6cc?crop=entropy&cs=tinysrgb&fit=max&fm=webp&q=75&w=900';
+// Unsplash photo "Lost in the Wilderness" by Geranimo (@geraninmo), served as
+// a compressed WebP. Sized for a full-width banner and loaded eagerly since
+// it's the largest above-the-fold element (LCP).
+const heroImgBase = 'https://images.unsplash.com/photo-1487525219605-eadb39ae229c?crop=entropy&cs=tinysrgb&fit=crop&fm=webp&q=70';
+const heroImg = `${heroImgBase}&w=1600&h=900`;
+const heroSrcSet = [900, 1280, 1600, 2000]
+  .map((w) => `${heroImgBase}&w=${w}&h=${Math.round((w * 9) / 16)} ${w}w`)
+  .join(', ');
 
 const secondaryKeywords = [
   'how to layer clothes for hiking', 'day hike packing list', 'backpacking packing checklist',
@@ -31,42 +38,36 @@ const structuredData = [
   canonicalPath="/"
   structuredData={structuredData}
 >
-  <section class="hero">
-    <svg class="contour-bg" viewBox="0 0 1200 520" preserveAspectRatio="none" aria-hidden="true">
-      <g fill="none" stroke="#8AA290" stroke-width="1.4">
-        <path d="M-50 60 C 250 10, 500 130, 780 40 S 1250 90 1300 40" />
-        <path d="M-50 130 C 220 70, 520 200, 800 110 S 1250 160 1300 110" />
-        <path d="M-50 200 C 260 150, 540 270, 820 180 S 1250 230 1300 180" />
-        <path d="M-50 270 C 240 220, 560 330, 840 250 S 1250 300 1300 250" />
-      </g>
-    </svg>
-    <div class="wrap hero-inner">
-      <div class="hero-grid">
-        <div>
-          <span class="label">Outdoor Clothing Layering Guide</span>
-          <h1>Stop guessing<br>what to <span class="accent">wear</span> outside.</h1>
-          <p class="lede">
-            You already know where you're hiking. This guide — and the TrailReady system built from it —
-            tells you exactly what to layer, wear, and pack for the trip, so you're never the one shivering,
-            soaked, or hauling gear you didn't need.
-          </p>
-          <div class="hero-actions">
-            <a class="btn btn-primary" href={url('/product/')}>Get TrailReady — $12</a>
-            <a class="btn btn-ghost" href="#layers">Read the layering system ↓</a>
-          </div>
-          <p style="margin-top:14px;">
-            <a href={url('/downloads/trailready-free-cheatsheet.pdf')}>Free download: the Universal Layering Cheat Sheet (1 page, no email required) →</a>
-          </p>
-        </div>
-        <div>
-          <div class="hero-photo">
-            <img src={heroImg} width="900" height="1125" loading="eager" fetchpriority="high"
-                 alt="A hiker with a large backpack crossing a rocky ridge at golden hour" />
-          </div>
-          <p class="photo-credit">Photo: Lucas Favre / Unsplash</p>
-        </div>
+  <section class="hero-banner">
+    <img
+      class="hero-bg"
+      src={heroImg}
+      srcset={heroSrcSet}
+      sizes="100vw"
+      width="1600"
+      height="900"
+      loading="eager"
+      fetchpriority="high"
+      decoding="async"
+      alt="Mist drifting through a dense evergreen forest at dawn"
+    />
+    <div class="hero-banner-inner">
+      <span class="label">Outdoor Clothing Layering Guide</span>
+      <h1>Stop guessing what to <span class="accent">wear</span> outside.</h1>
+      <p class="lede">
+        You already know where you're hiking. This guide — and the TrailReady system built from it —
+        tells you exactly what to layer, wear, and pack for the trip, so you're never the one shivering,
+        soaked, or hauling gear you didn't need.
+      </p>
+      <div class="hero-actions">
+        <a class="btn btn-primary" href={url('/product/')}>Get TrailReady — $12</a>
+        <a class="btn btn-ghost" href="#layers">Read the layering system ↓</a>
       </div>
+      <p class="free-link">
+        <a href={url('/downloads/trailready-free-cheatsheet.pdf')}>Free download: the Universal Layering Cheat Sheet (1 page, no email required) →</a>
+      </p>
     </div>
+    <p class="hero-credit">Photo: Geranimo / Unsplash</p>
   </section>
 
   <section class="problem" id="problem">
