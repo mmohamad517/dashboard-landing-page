@@ -17,7 +17,20 @@ npm run preview   # preview the production build
 
 1. In the repo's **Settings → Pages**, set **Source** to **GitHub Actions**. That's the only manual click required — the workflow at `.github/workflows/deploy.yml` handles the rest on every push to `main`.
 2. This branch is `claude/digital-product-complete-qrnw9f`. Merge it into `main` (or change the workflow's trigger branch) to actually deploy.
-3. **Custom domain:** `public/CNAME` is intentionally absent right now, so the site is reachable at `https://mmohamad517.github.io/dashboard-landing-page/`. When you're ready to use `bestoutdoorwears.com`, create `public/CNAME` containing just `bestoutdoorwears.com` and push — but set the DNS records first, otherwise the site becomes unreachable until DNS resolves. Point your domain's DNS at GitHub Pages (an `A` record to GitHub's Pages IPs, or a `CNAME` record to `<your-github-username>.github.io`, per [GitHub's custom domain docs](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site)) and GitHub will issue a free HTTPS certificate automatically once DNS is verified.
+3. **Custom domain:** the site is configured for `bestoutdoorwears.com` — `public/CNAME` holds the domain and the deploy workflow no longer overrides the base path, so the build emits root-absolute paths and a `https://bestoutdoorwears.com` canonical. This only works once DNS points at GitHub Pages. Required records (set them as **DNS only / not proxied**, so GitHub can issue the free certificate):
+
+   | Type | Name | Value |
+   |------|------|-------|
+   | A | `@` | `185.199.108.153` |
+   | A | `@` | `185.199.109.153` |
+   | A | `@` | `185.199.110.153` |
+   | A | `@` | `185.199.111.153` |
+   | CNAME | `www` | `mmohamad517.github.io` |
+
+   Then Settings → Pages → Custom domain → `bestoutdoorwears.com` → Save, and tick **Enforce HTTPS** once the certificate is issued (can take up to an hour). If the domain is on Cloudflare with the orange cloud on, set SSL/TLS mode to **Full** — **Flexible** causes a redirect loop with GitHub Pages.
+
+   To go back to the `github.io` project URL, delete `public/CNAME` and restore the two `env:` lines commented out in `.github/workflows/deploy.yml`.
+
 4. Alternative free host: Cloudflare Pages works too (connect the repo, build command `npm run build`, output directory `dist`) if you'd rather not use GitHub Pages.
 
 ## Selling TrailReady (the product)
