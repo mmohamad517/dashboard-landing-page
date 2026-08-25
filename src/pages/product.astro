@@ -37,6 +37,29 @@ const modes = [
   { n: '05', name: 'Hard Choices', desc: 'Everyone commits to A, B or C out loud before anyone reads the answer.' },
 ];
 
+const versusFree = [
+  {
+    n: '01',
+    name: 'It has nothing to sell you',
+    desc: 'A retailer\'s packing list is marketing. Every line links to a product, and the more you pack the better they do. This one has no gear to sell, so it can tell you your existing jacket is probably fine, that dry socks beat a better shell, and to re-proof what you own instead of replacing it.',
+  },
+  {
+    n: '02',
+    name: 'It works with no signal',
+    desc: 'A web page needs a connection and a charged phone. Printed cards in a pocket need neither. The moment you actually want the emergency material is the moment you are least likely to have bars.',
+  },
+  {
+    n: '03',
+    name: 'It is a tool, not an article',
+    desc: 'The packing lists have real PDF checkboxes you tick and save. The Conditions Helper is a working spreadsheet — pick the trip type and the weather, get the layering list back. You can read a free article; you cannot fill one in.',
+  },
+  {
+    n: '04',
+    name: 'You cannot hand out a web page',
+    desc: 'Round a fire, with a scout group, or as a gift, a deck of cards does something a browser tab cannot. Five ways to play, a seven-day challenge, and ten scenario cards — that format does not exist for free anywhere we have found.',
+  },
+];
+
 const structuredData = {
   '@context': 'https://schema.org',
   '@type': 'Product',
@@ -143,6 +166,35 @@ const structuredData = {
   </section>
 
   <section class="product-section">
+    <div class="wrap">
+      <div class="section-head">
+        <h2>There are free packing<br>lists. All over the internet.</h2>
+        <p class="desc">So here is an honest account of what this does that they don't.</p>
+      </div>
+      <div class="chapters">
+        {versusFree.map((v) => (
+          <div class="chapter-card">
+            <span class="cnum">{v.n}</span>
+            <div>
+              <h3>{v.name}</h3>
+              <p>{v.desc}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+      <div class="prose" style="max-width:74ch; margin-top:32px;">
+        <p>
+          And the other side of it: if a free checklist is all you need, use the free checklist. Plenty of
+          people are already packing well and just wanted a reminder, and we would rather say that than
+          pretend otherwise. This is for the person who wants the whole thing in one place, offline, without
+          a gear catalogue attached — and who wants the second half, for the day the packing was not the
+          problem.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section>
     <div class="wrap prose" style="max-width:74ch;">
       <h2>Why the two halves belong together</h2>
       <p>
