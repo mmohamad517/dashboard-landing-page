@@ -37,6 +37,10 @@ const fontFaceCss = [
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <SEO title={title} description={description} canonicalPath={canonicalPath} ogImage={ogImage} structuredData={structuredData} />
 
+  <!-- Google Search Console ownership verification. Removing this un-verifies
+       the property, so leave it in place. -->
+  <meta name="google-site-verification" content="FWuQiugsNWgHqY1BIRFfnYqbEM_77kGr4RrQCTUStyI" />
+
   <!-- Self-hosted fonts: preload only the weights used above the fold -->
   <link rel="preload" href={url('/fonts/big-shoulders-display-latin-800-normal.woff2')} as="font" type="font/woff2" crossorigin />
   <link rel="preload" href={url('/fonts/source-serif-4-latin-400-normal.woff2')} as="font" type="font/woff2" crossorigin />
