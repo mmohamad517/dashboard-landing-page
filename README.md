@@ -67,7 +67,7 @@ The site references REI, Columbia, YETI, and GSI Outdoors as commonly recommende
 
 ## Contact email
 
-`src/pages/contact.astro` has a `{{CONTACT_EMAIL}}` placeholder — replace it with a real inbox (or a Formspree free-tier form endpoint) before going live.
+`src/pages/contact.astro` publishes the site owner's address, set in the `EMAIL` constant at the top of that file. It is a plain `mailto:` link — swap in a Formspree free-tier form endpoint if the address starts attracting scraped spam.
 
 ## Content
 

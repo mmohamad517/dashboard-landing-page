@@ -167,3 +167,10 @@ a:focus-visible, button:focus-visible, summary:focus-visible { outline: 2px soli
   border-bottom: 1px solid var(--line);
 }
 .kit-split .product-includes + .kit-split-label { margin-top: 26px; }
+
+/* ---------- contact address ---------- */
+.contact-email {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 1.05rem; margin: 18px 0 6px;
+}
+.contact-email a { color: var(--rust); text-decoration: none; border-bottom: 2px solid var(--rust-soft); }
