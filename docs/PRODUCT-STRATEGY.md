@@ -1,10 +1,24 @@
 # Product Strategy — Best OutDoor Wears
 
-> **August 2026 — product pivot.** The site previously sold *TrailReady*, a clothing-layering
-> and packing system. It now sells **Survival Cards**, an 89-card printable deck teaching
-> outdoor survival and safety skills as a game. The homepage, product page and all 20 cluster
-> articles were rewritten; the layering keyword set was retired. The sections below describe
-> the current product. Sections referring to layering keywords are historical.
+> **August 2026 — pivot, then merge.** The site first sold *TrailReady*, a clothing-layering and
+> packing system. It then pivoted to **Survival Cards**, an 89-card printable deck teaching outdoor
+> survival and safety skills as a game. It now sells **both as a single product**: *TrailReady — The
+> Complete Outdoor Kit*, $19, one download, two parts. Part one is the layering guide, five
+> trip-type packing chapters and the Conditions Helper spreadsheet; part two is the 89-card deck and
+> its guide. Neither keyword set was retired — the site carries **40 cluster articles**, 20 on
+> clothing and packing and 20 on survival skills, cross-linked to each other. The sections below
+> describe the merged product.
+
+## Why the two products were merged
+
+They address the same customer at two points on the same timeline. Packing well is what stops most
+problems from starting; knowing what to do is what stops the remainder from getting worse. Sold
+separately each leaves an obvious gap, and neither half alone justified its own price against the
+content volume. Merging also doubles the SEO surface — two keyword clusters funnel to one product
+page — without splitting buying intent across two checkouts.
+
+The commercial reasoning is a judgement, not a tested result: no A/B test of bundled versus separate
+pricing was run, and none of the numbers below are validated sales data.
 
 ## Safety and accuracy decisions made during the pivot
 
@@ -34,42 +48,60 @@ The source brief for the deck contained material that was changed before publica
   global English-speaking audience, and the hotel details and prices could not be verified.
 
 ## 1. Product Name
-Survival Cards (sold under Best OutDoor Wears / bestoutdoorwears.com).
+TrailReady — The Complete Outdoor Kit (sold under Best OutDoor Wears / bestoutdoorwears.com).
 
 ## 2. One-Line Description
-An 89-card printable deck that teaches outdoor survival and safety skills as a game, rather than
-as a manual nobody finishes.
+One download that tells you what to wear and pack for the trip you are actually taking, and gives
+you an 89-card deck for the day it stops going to plan.
 
 ## 3. Target Customer
 Beginners and families camping or hiking somewhere fairly normal — a campsite, a marked trail, a
 weekend in the hills. Scout groups and youth leaders. English-speaking, global.
 
 ## 4. Problem
-Survival content splits into dramatic technique videos and kit lists. Neither addresses what
-actually goes wrong: a chain of small decisions made hours before anything felt like an emergency.
-And reading about skills does not make them stick.
+Beginners fail outdoors in two ways, and the market sells them separately. They arrive with the
+wrong clothing — cotton next to skin, no shell, a pack full of layers they never wear — because
+layering advice is scattered across gear-shop blogs written to sell jackets. And when something does
+go wrong, they have never practised the response, because survival content splits into dramatic
+technique videos and kit lists. Neither addresses the chain of small decisions made hours before
+anything felt like an emergency, and reading about skills does not make them stick.
 
 ## 5. Solution
-89 cards across nine colour-coded categories, five game modes, and a seven-day pre-trip challenge —
-so the material gets practised and argued about rather than skimmed.
+Two parts in one download. **Part one:** the base/mid/shell layering system explained once, applied
+to five trip types with clickable-checkbox packing lists, plus a working spreadsheet that turns trip
+type and conditions into a layering list. **Part two:** 89 cards across nine colour-coded categories,
+five game modes, and a seven-day pre-trip challenge — so the material gets practised and argued
+about rather than skimmed.
 
 ## 6. USP
-Learning by play rather than instruction, with an unusually explicit statement of its own limits.
-The deck refuses to teach foraging and says why, which is both the honest position and a
+It covers prevention and response together, which the competing products do not: packing-checklist
+sellers stop at the door, survival decks start after something has gone wrong. Added to that,
+learning by play rather than instruction, and an unusually explicit statement of the product's own
+limits — the deck refuses to teach foraging and says why, which is both the honest position and a
 differentiator in a category full of confident bad advice.
 
 ## 7. Business Model
 One-time purchase, instant digital download, print at home. No per-unit cost, no shipping.
 
 ## 8. Pricing
-$14 one-time. Higher than the previous $12 product because the content volume is substantially
-larger (89 cards plus an 8-page guide). Not validated against comparable products — a reasoned
-starting point to test, not a researched optimum.
+$19 one-time, for both parts. Higher than either half was priced alone ($12 for the layering system,
+$14 for the deck) and lower than the two together, which is the ordinary logic of a bundle. Not
+validated against comparable products and not A/B tested — a reasoned starting point, not a
+researched optimum.
 
 ## 9-10. Feature List / MVP
-Shipped in full: 52 core cards (Quick Hacks 12, Smart Shortcuts 12, Survival Skills 12, Emergency
-Response 10, Multi-Use 6), 37 expansion cards (Safety & Planning 10, Camp Cooking 10, 7-Day
-Challenge 7, Hard Choices 10), an 8-page guide PDF, and a free 8-card sample as the lead magnet.
+Shipped in full, as one zip with two folders.
+
+*Part one — Before You Go:* the layering and packing guide PDF (base/mid/shell, five trip-type
+chapters with real AcroForm checkboxes, a quick recipe per chapter, and the caught-without-a-layer
+workarounds) and the Conditions Helper .xlsx with INDEX/MATCH lookups and dropdown validation.
+
+*Part two — When It Goes Wrong:* 52 core cards (Quick Hacks 12, Smart Shortcuts 12, Survival Skills
+12, Emergency Response 10, Multi-Use 6), 37 expansion cards (Safety & Planning 10, Camp Cooking 10,
+7-Day Challenge 7, Hard Choices 10), and the 8-page deck guide.
+
+Plus a READ-ME-FIRST covering both parts, and a free 5-page sample — the illustrated layering cheat
+sheet followed by 8 of the 89 cards — as the lead magnet.
 
 ## 11. User Flow
 Search → article → pillar page or product page → external checkout → instant download → print.
@@ -112,10 +144,10 @@ A base/mid/shell layering system taught once, then applied concretely to 5 trip 
 Existing free tools and content in this space (REI, Columbia, Bearfoot Theory, Wildland Trekking, generic Etsy camping checklists) are either broad informational content from major brands or generic gear-only checklists. TrailReady's differentiation: it's a **clothing/layering-first** system (matching the "Wears" in the domain name) rather than a generic gear list, bundled as one purchasable, fillable digital product rather than scattered blog content.
 
 ## 7. Business Model
-One-time purchase ($12), instant digital download via Payhip or Gumroad (free to list, ~5–10% fee per sale only — no upfront cost). Secondary passive income stream: contextual affiliate links to REI, Columbia, YETI, and GSI Outdoors (all free, real affiliate programs — REI: 5% commission, 30-day cookie; Columbia: 10%; YETI/GSI Outdoors: up to 15% — cited from research, see below). Free lead magnet (Universal Layering Cheat Sheet, one page) drives traffic toward the paid product without requiring an email-capture backend.
+One-time purchase ($19), instant digital download via Payhip or Gumroad (free to list, ~5–10% fee per sale only — no upfront cost). Secondary passive income stream: contextual affiliate links to REI, Columbia, YETI, and GSI Outdoors (all free, real affiliate programs — REI: 5% commission, 30-day cookie; Columbia: 10%; YETI/GSI Outdoors: up to 15% — cited from research, see below). Free lead magnet (a 5-page sample: the layering cheat sheet plus 8 of the 89 cards) drives traffic toward the paid product without requiring an email-capture backend.
 
 ## 8. Pricing
-$12 one-time. Researched comparable digital packing-checklist products on Etsy/Gumroad sell in a similar low-cost-digital-download range (a comparable competitor, "Revel Outfitting," sells a 12-page beginner backpacking PDF guide on Gumroad — confirmed 6 sales visible at time of research, i.e., real, if modest, proof this exact product category sells). No exact market-wide price-elasticity data was available, so $12 is a reasoned estimate, not a verified optimal price — reasonable to A/B test after launch.
+$19 one-time. Researched comparable digital packing-checklist products on Etsy/Gumroad sell in a similar low-cost-digital-download range (a comparable competitor, "Revel Outfitting," sells a 12-page beginner backpacking PDF guide on Gumroad — confirmed 6 sales visible at time of research, i.e., real, if modest, proof this exact product category sells). No exact market-wide price-elasticity data was available, so $19 is a reasoned estimate, not a verified optimal price — reasonable to A/B test after launch.
 
 ## 9. Complete Feature List
 - Layering guide (PDF): base/mid/shell explained, decision flowchart front page

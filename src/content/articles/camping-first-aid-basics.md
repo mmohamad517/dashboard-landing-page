@@ -4,7 +4,7 @@ description: "The camping first aid situations you are most likely to meet — b
 keyword: "camping first aid basics"
 pubDate: 2026-08-05
 updatedDate: 2026-08-05
-relatedSlugs: ["how-to-signal-for-help-in-the-wilderness", "what-to-do-if-you-get-lost-hiking", "desert-survival-tips", "cold-weather-survival-basics"]
+relatedSlugs: ["how-to-signal-for-help-in-the-wilderness", "what-to-do-if-you-get-lost-hiking", "desert-survival-tips", "day-hike-packing-list"]
 ---
 
 Start with the honest part: reading an article does not make you capable in an emergency. This is a map of what you will most likely face and where the hard limits are. If you take one action after reading it, book a first aid course.

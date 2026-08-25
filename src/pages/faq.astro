@@ -3,20 +3,32 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
 const faqs = [
   {
-    q: "Is Survival Cards a first aid course?",
-    a: "No, and it says so on the cards. The emergency cards are memory prompts for people who have already been taught this material. If you take one action after buying the deck, book a real first aid course.",
+    q: "What exactly do I get for $19?",
+    a: "One download with two parts. Part one is the layering and packing system: the base/mid/shell guide, five trip-type chapters with tap-to-check packing lists, and a working Conditions Helper spreadsheet. Part two is Survival Cards: 89 print-at-home cards plus the deck guide. They are sold together because they solve two halves of the same problem.",
+  },
+  {
+    q: "Why sell them together instead of separately?",
+    a: "Because each one leaves a gap on its own. A perfect packing list does nothing for you at the moment something goes wrong, and a survival deck does not stop you arriving cold and wet in the first place. Packing well prevents most problems; knowing what to do stops the rest from getting worse.",
+  },
+  {
+    q: "Is any of this a first aid or survival course?",
+    a: "No, and it says so on the cards. The emergency cards are memory prompts for people who have already been taught this material. If you take one action after buying, book a real first aid course.",
   },
   {
     q: "Does the deck teach foraging or mushroom identification?",
     a: "Deliberately not. Deadly and edible species look alike, field tests do not reliably work, and experienced foragers still get it wrong. The deck teaches the correct survival priority instead: a healthy adult can go a long time without food, so the effort belongs elsewhere.",
   },
   {
-    q: "Is this a physical deck of cards?",
-    a: "No. It is a print-at-home PDF, nine cards to a page with cut guides. Nothing ships, you get it immediately, and you can reprint any card you lose or soak.",
+    q: "Is this a physical product?",
+    a: "No. Everything is a digital download — PDFs plus one spreadsheet. The cards print nine to a page with cut guides, so nothing ships, you get it immediately, and you can reprint any card you lose or soak.",
   },
   {
     q: "What do I need to print it?",
-    a: "Any home printer. Heavier paper lasts longer, and colour helps because the colours are how you find a card quickly, but plain black-and-white paper still works.",
+    a: "Any home printer. Heavier paper makes the cards last longer, and colour helps because the colours are how you find a card quickly, but plain black-and-white paper still works. The packing checklists also work on screen — the boxes are real, clickable PDF checkboxes.",
+  },
+  {
+    q: "What software does the Conditions Helper need?",
+    a: "It is a standard .xlsx file. It opens in Excel, in the free Google Sheets, in the free LibreOffice Calc, and in Numbers on a Mac. You pick your trip type and the conditions from dropdowns, and it returns the layering list.",
   },
   {
     q: "How many cards are there?",
@@ -31,8 +43,8 @@ const faqs = [
     a: "It covers the widely used international numbers and tells you to look up and write down the local number for wherever you are going. Numbers vary and change, so we do not print a country list that could go stale.",
   },
   {
-    q: "Will the deck get updates?",
-    a: "Yes — corrections and additions go out free to everyone who has bought it, through the same download link.",
+    q: "Will it get updates?",
+    a: "Yes — corrections and additions to either part go out free to everyone who has bought it, through the same download link.",
   },
 ];
 
@@ -48,7 +60,7 @@ const structuredData = {
 ---
 <BaseLayout
   title="FAQ | Best OutDoor Wears"
-  description="Frequently asked questions about Survival Cards — what is in the deck, printing it, and what it deliberately does not teach."
+  description="Frequently asked questions about TrailReady — what is in both parts of the kit, printing it, and what it deliberately does not teach."
   canonicalPath="/faq/"
   structuredData={structuredData}
 >

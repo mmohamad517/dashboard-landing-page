@@ -4,7 +4,7 @@ description: "The cloud patterns worth recognising outdoors, what each one sugge
 keyword: "how to read clouds for weather"
 pubDate: 2026-08-10
 updatedDate: 2026-08-10
-relatedSlugs: ["campfire-cooking-recipes-for-beginners", "survival-kit-checklist-for-camping", "how-to-avoid-dangerous-wildlife-while-camping", "flash-flood-safety-for-campers"]
+relatedSlugs: ["campfire-cooking-recipes-for-beginners", "survival-kit-checklist-for-camping", "how-to-avoid-dangerous-wildlife-while-camping", "how-to-layer-clothes-for-hiking"]
 ---
 
 Sky reading buys you minutes to hours of warning. It does not replace a forecast, and anyone who tells you otherwise is selling something. Check a real forecast before you leave, then watch the sky for what it changes.

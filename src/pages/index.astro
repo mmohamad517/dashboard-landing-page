@@ -2,7 +2,7 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import { url } from '../lib/paths';
-import DeckMockup from '../components/DeckMockup.astro';
+import KitMockup from '../components/KitMockup.astro';
 
 const articles = (await getCollection('articles')).sort(
   (a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf()
@@ -22,13 +22,13 @@ const structuredData = [
     '@type': 'Organization',
     name: 'Best OutDoor Wears',
     url: 'https://bestoutdoorwears.com',
-    description: 'Outdoor survival and safety skills for beginners, taught as a card game.',
+    description: 'Outdoor clothing, packing and survival skills for beginners — a layering system for what to wear, and a card deck for what to do when a trip goes wrong.',
   },
 ];
 ---
 <BaseLayout
-  title="Outdoor Survival Skills for Beginners: The Complete Guide | Best OutDoor Wears"
-  description="Outdoor survival skills for beginners — navigation, water, shelter, fire, weather and emergencies, explained plainly. Plus Survival Cards, an 89-card deck that teaches them as a game."
+  title="Outdoor Survival Skills for Beginners: Pack Right, Then Know What to Do | Best OutDoor Wears"
+  description="Outdoor survival skills for beginners — what to wear and pack, then navigation, water, shelter, fire and emergencies. Plus TrailReady, the kit that turns both into a checklist and a card game."
   canonicalPath="/"
   structuredData={structuredData}
 >
@@ -50,15 +50,16 @@ const structuredData = [
       <h1>Learn this <span class="accent">before</span> you need it.</h1>
       <p class="lede">
         Almost nobody gets into trouble outdoors because they lacked expensive kit. They get into trouble
-        because of a decision made hours earlier, calmly, with plenty of options still available. This guide
-        covers the skills that prevent that — and the deck that makes them stick.
+        because of a decision made hours earlier — usually about what they packed, or what they didn't do
+        when the weather turned. This guide covers both halves: getting out the door prepared, and knowing
+        what to do when the day stops going to plan.
       </p>
       <div class="hero-actions">
-        <a class="btn btn-primary" href={url('/product/')}>Get Survival Cards — $14</a>
-        <a class="btn btn-ghost" href="#skills">Start with the skills ↓</a>
+        <a class="btn btn-primary" href={url('/product/')}>Get TrailReady — $19</a>
+        <a class="btn btn-ghost" href="#layering">Start with the layers ↓</a>
       </div>
       <p class="free-link">
-        <a href={url('/downloads/survival-cards-free-sample.pdf')}>Free download: 8 cards from the deck (no email required) →</a>
+        <a href={url('/downloads/trailready-free-sample.pdf')}>Free sample: the layering cheat sheet + 8 cards (no email required) →</a>
       </p>
     </div>
     <p class="hero-credit">Photo: Geranimo / Unsplash</p>
@@ -90,10 +91,88 @@ const structuredData = [
     </div>
   </section>
 
+  <section id="layering">
+    <div class="wrap">
+      <div class="section-head">
+        <h2>Part one:<br>what you put on</h2>
+        <p class="desc">Three layers, each with one job. Get this right and most bad days never start.</p>
+      </div>
+      <div class="layers">
+        <div class="layer-card layer-1">
+          <span class="layer-index">BASE</span>
+          <h3>Move sweat</h3>
+          <div class="swatch"></div>
+          <p>Sits on skin. Its only job is to pull moisture off you. Wool or synthetic — cotton holds water against you and keeps you cold long after you stop.</p>
+        </div>
+        <div class="layer-card layer-2">
+          <span class="layer-index">MID</span>
+          <h3>Hold warmth</h3>
+          <div class="swatch"></div>
+          <p>Fleece or a light insulated jacket. This is the layer you add and remove all day, so it wants to be easy to stuff in a pack.</p>
+        </div>
+        <div class="layer-card layer-3">
+          <span class="layer-index">SHELL</span>
+          <h3>Block weather</h3>
+          <div class="swatch"></div>
+          <p>Wind and rain off, and — just as important — vents so the sweat you just moved outward has somewhere to go.</p>
+        </div>
+      </div>
+
+      <div class="prose" style="margin-top:44px; max-width:74ch;">
+        <h2>The outdoor clothing layering guide, in one page</h2>
+        <p>
+          Layering is not about wearing more. It is about being able to change how warm you are without
+          stopping, without unpacking, and without ending up soaked in your own sweat. Three layers, each
+          doing one job: a base that moves moisture, a mid that traps warmth, and a shell that keeps weather
+          out. Most beginners own all three already and wear them in the wrong combination.
+        </p>
+        <p>
+          The rule that matters most is the one people find counter-intuitive: you should start out slightly
+          cold. If you are comfortable standing at the trailhead, you will be sweating within fifteen minutes,
+          and wet clothing under a shell is how a mild day turns into a cold one. Strip a layer before you
+          start climbing, not after.
+        </p>
+
+        <h3>Fabric decides almost everything</h3>
+        <p>
+          Cotton absorbs water, holds it, and dries slowly, which is exactly the wrong behaviour next to skin
+          outdoors. Merino wool and synthetics both move moisture away and keep insulating when damp — wool
+          resists smell better, synthetics dry faster and cost less. That single swap, cotton t-shirt to a
+          wool or synthetic base layer, does more for your comfort than any jacket upgrade.
+        </p>
+
+        <h3>Rain jacket or shell — the difference that matters</h3>
+        <p>
+          A cheap waterproof keeps rain out and traps your sweat in, so you get wet either way. What separates
+          a usable shell is breathability and venting: pit zips, a hood that turns with your head, and a cut
+          that fits over the mid layer without pinning your arms. Waterproofing wears off; treat and re-proof
+          the jacket you own before buying another.
+        </p>
+
+        <h3>Different trips, different failures</h3>
+        <p>
+          A day hike goes wrong when the weather changes and you left the shell in the car. Overnight
+          backpacking goes wrong through weight — every layer you carry and never wear is dead load. Car
+          camping goes wrong at three in the morning, because the temperature drop after dark is bigger than
+          anyone plans for. Cold-weather trips go wrong on the way up, from sweating into your insulation.
+          Wet-weather trips go wrong at the extremities: hands, head and feet decide whether the day is
+          miserable.
+        </p>
+
+        <h3>Extremities are not a detail</h3>
+        <p>
+          You lose warmth wherever you have thin skin and lots of blood flow, so hat, gloves and dry socks buy
+          you more comfort per gram than a heavier jacket. A spare pair of socks in a sealed bag is one of the
+          cheapest, highest-return things in any pack — and doubles as an emergency mitten.
+        </p>
+      </div>
+    </div>
+  </section>
+
   <section id="skills">
     <div class="wrap">
       <div class="section-head">
-        <h2>The order that<br>keeps you alive</h2>
+        <h2>Part two:<br>the order that keeps you alive</h2>
         <p class="desc">When something goes wrong, this is the sequence. It almost never changes.</p>
       </div>
       <div class="layers">
@@ -192,32 +271,31 @@ const structuredData = [
   <section class="product-section" id="product-teaser">
     <div class="wrap">
       <div class="section-head">
-        <h2>Survival Cards:<br>89 of these, in your pack</h2>
-        <p class="desc">Everything above, one card at a time — plus the arguments that make it stick.</p>
+        <h2>TrailReady:<br>both halves, one download</h2>
+        <p class="desc">The packing system that prevents the problem, and the deck for when it happens anyway.</p>
       </div>
       <div class="product-grid">
         <div>
           <div class="product-includes">
-            <div class="item"><span class="n">01</span><div><h4>52 core cards</h4><p>Quick hacks, smart shortcuts, survival skills, emergency response, multi-use kit.</p></div></div>
-            <div class="item"><span class="n">02</span><div><h4>37 expansion cards</h4><p>Safety &amp; planning, camp cooking, a seven-day challenge, and ten scenario cards.</p></div></div>
-            <div class="item"><span class="n">03</span><div><h4>Five ways to play</h4><p>Round a fire, in the car, or as a week of daily practice before you go.</p></div></div>
-            <div class="item"><span class="n">04</span><div><h4>Print at home</h4><p>Nine to a page with cut guides, colour-coded so you find one fast.</p></div></div>
+            <div class="item"><span class="n">01</span><div><h4>The layering &amp; packing system</h4><p>Base / mid / shell explained once, then applied to five trip types with tap-to-check packing lists.</p></div></div>
+            <div class="item"><span class="n">02</span><div><h4>Conditions Helper spreadsheet</h4><p>Pick your trip type and the weather; it returns the layering list.</p></div></div>
+            <div class="item"><span class="n">03</span><div><h4>89 Survival Cards</h4><p>Quick hacks, survival skills, emergency response, camp cooking, a seven-day challenge and scenario cards.</p></div></div>
+            <div class="item"><span class="n">04</span><div><h4>Both guides, print at home</h4><p>Nine cards a page with cut guides. Colour-coded so you find one fast.</p></div></div>
           </div>
           <div class="price-tag">
-            <span class="price">$14</span>
-            <span class="was">one-time · instant download</span>
+            <span class="price">$19</span>
+            <span class="was">one-time · instant download · both parts</span>
           </div>
           <div class="hero-actions" style="margin-top:20px;">
             <a class="btn btn-primary" href={url('/product/')}>See what's inside →</a>
           </div>
         </div>
         <div>
-          <DeckMockup width={220} />
+          <KitMockup width={260} />
           <div class="prose" style="max-width:52ch;">
             <p>
-              Reading about this stuff doesn't make it stick. Doing it once in your garden does, and arguing
-              about it with four other people around a fire does even better. That's the whole reason this is
-              a deck of cards and not another manual.
+              Packing well stops most problems from starting. Knowing what to do stops the rest from getting
+              worse. Neither half is much use without the other, which is why they ship together.
             </p>
           </div>
         </div>

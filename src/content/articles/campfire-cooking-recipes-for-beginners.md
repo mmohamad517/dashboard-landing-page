@@ -4,7 +4,7 @@ description: "Simple campfire recipes that work with one pan and minimal ingredi
 keyword: "campfire cooking recipes for beginners"
 pubDate: 2026-08-11
 updatedDate: 2026-08-11
-relatedSlugs: ["survival-kit-checklist-for-camping", "how-to-avoid-dangerous-wildlife-while-camping", "flash-flood-safety-for-campers", "how-much-water-to-carry-hiking"]
+relatedSlugs: ["survival-kit-checklist-for-camping", "how-to-avoid-dangerous-wildlife-while-camping", "flash-flood-safety-for-campers", "how-to-stay-warm-and-dry-hiking"]
 ---
 
 The one thing that separates good camp food from bad: cook on coals, not flames. Flames burn the outside and leave the middle raw. Let the fire burn down, rake the embers flat, and cook over that.

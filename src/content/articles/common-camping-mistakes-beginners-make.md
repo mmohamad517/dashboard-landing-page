@@ -4,7 +4,7 @@ description: "The mistakes that actually cause problems on beginner camping trip
 keyword: "common camping mistakes beginners make"
 pubDate: 2026-08-20
 updatedDate: 2026-08-20
-relatedSlugs: ["how-to-find-north-without-a-compass", "how-to-purify-water-in-the-wild", "how-to-build-an-emergency-shelter", "how-to-start-a-fire-without-matches"]
+relatedSlugs: ["how-to-find-north-without-a-compass", "how-to-purify-water-in-the-wild", "how-to-build-an-emergency-shelter", "winter-hiking-layering-system"]
 ---
 
 Very few beginner camping problems are equipment problems. They are decisions — usually made calmly, hours before anything felt like it mattered.

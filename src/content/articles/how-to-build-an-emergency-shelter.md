@@ -4,7 +4,7 @@ description: "How to build a shelter that actually keeps you warm — why insula
 keyword: "how to build an emergency shelter"
 pubDate: 2026-08-03
 updatedDate: 2026-08-03
-relatedSlugs: ["how-to-start-a-fire-without-matches", "camping-first-aid-basics", "how-to-signal-for-help-in-the-wilderness", "what-to-do-if-you-get-lost-hiking"]
+relatedSlugs: ["how-to-start-a-fire-without-matches", "camping-first-aid-basics", "how-to-signal-for-help-in-the-wilderness", "best-fabrics-for-outdoor-layering"]
 ---
 
 Most people building an emergency shelter start with the roof. That is the wrong order. Cold ground pulls heat out of you far faster than cold air does, so what goes underneath you matters more than what goes over you.

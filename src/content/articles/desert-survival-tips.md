@@ -4,7 +4,7 @@ description: "How desert survival differs from everywhere else — why you trave
 keyword: "desert survival tips"
 pubDate: 2026-08-08
 updatedDate: 2026-08-08
-relatedSlugs: ["cold-weather-survival-basics", "how-to-read-clouds-for-weather", "campfire-cooking-recipes-for-beginners", "survival-kit-checklist-for-camping"]
+relatedSlugs: ["cold-weather-survival-basics", "how-to-read-clouds-for-weather", "campfire-cooking-recipes-for-beginners", "how-to-choose-a-hiking-jacket"]
 ---
 
 Desert survival is mostly water management and shade discipline. The mistakes that kill people there are rarely dramatic: walking in the heat, leaving a vehicle, and underestimating how much water the day will take.

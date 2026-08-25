@@ -4,7 +4,7 @@ description: "Why food is the last survival priority, what hunger actually does 
 keyword: "how long can you survive without food"
 pubDate: 2026-08-19
 updatedDate: 2026-08-19
-relatedSlugs: ["common-camping-mistakes-beginners-make", "how-to-find-north-without-a-compass", "how-to-purify-water-in-the-wild", "how-to-build-an-emergency-shelter"]
+relatedSlugs: ["common-camping-mistakes-beginners-make", "how-to-find-north-without-a-compass", "how-to-purify-water-in-the-wild", "what-to-wear-hiking-in-cold-weather"]
 ---
 
 A healthy adult can go a long time without food — far longer than without water, and vastly longer than without shelter in bad conditions. That single fact should reorder everything you do in a survival situation.

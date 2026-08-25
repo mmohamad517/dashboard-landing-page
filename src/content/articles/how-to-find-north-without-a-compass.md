@@ -4,7 +4,7 @@ description: "Three practical ways to find north without a compass — the shado
 keyword: "how to find north without a compass"
 pubDate: 2026-08-01
 updatedDate: 2026-08-01
-relatedSlugs: ["how-to-purify-water-in-the-wild", "how-to-build-an-emergency-shelter", "how-to-start-a-fire-without-matches", "camping-first-aid-basics"]
+relatedSlugs: ["how-to-purify-water-in-the-wild", "how-to-build-an-emergency-shelter", "how-to-start-a-fire-without-matches", "backpacking-packing-checklist"]
 ---
 
 You can find north without a compass using a shadow stick, an analogue watch, or the night sky. None of them are precise. All of them are good enough to stop you walking in circles, which is usually the actual problem.

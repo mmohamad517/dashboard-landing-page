@@ -4,7 +4,7 @@ description: "Most bad wildlife encounters start with surprise or with food. How
 keyword: "how to avoid dangerous wildlife while camping"
 pubDate: 2026-08-13
 updatedDate: 2026-08-13
-relatedSlugs: ["flash-flood-safety-for-campers", "how-much-water-to-carry-hiking", "survival-games-for-family-camping", "how-to-teach-kids-camping-skills"]
+relatedSlugs: ["flash-flood-safety-for-campers", "how-much-water-to-carry-hiking", "survival-games-for-family-camping", "outdoor-clothing-mistakes-beginners-make"]
 ---
 
 Almost every serious wildlife encounter starts one of two ways: an animal is surprised at close range, or it has learned that people mean food. Both are largely preventable.

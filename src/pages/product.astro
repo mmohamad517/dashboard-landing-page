@@ -1,7 +1,19 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { url } from '../lib/paths';
-import DeckMockup from '../components/DeckMockup.astro';
+import KitMockup from '../components/KitMockup.astro';
+
+const partOne = [
+  { n: '01', name: 'The Layering Guide', desc: 'Base / mid / shell explained once, so you can build a clothing list for any trip from the forecast alone.' },
+  { n: '02', name: '5 Trip-Type Chapters', desc: 'Day hike, overnight backpacking, car camping, cold-weather and wet-weather — each with what to wear, a tap-to-check packing list, a quick recipe, and what to do when caught without the right layer.' },
+  { n: '03', name: 'Conditions Helper', desc: 'A working spreadsheet. Pick your trip type and the weather; it returns the layering list.' },
+];
+
+const partTwo = [
+  { n: '04', name: '52 core cards', desc: 'Quick hacks, smart shortcuts, survival skills, emergency response and multi-use kit.' },
+  { n: '05', name: '37 expansion cards', desc: 'Safety & planning, camp cooking, a seven-day skills challenge, and ten scenario cards.' },
+  { n: '06', name: 'The deck guide', desc: 'Five ways to play, how to read a card, printing instructions, and where the deck\'s limits are.' },
+];
 
 const categories = [
   { n: '12', name: 'Quick Hacks', color: '#3F7D4E', desc: 'Clever fixes from what you already have on you.' },
@@ -16,22 +28,22 @@ const categories = [
 ];
 
 const modes = [
-  { n: '01', name: 'Survival Challenge', desc: 'Draw three. Explain how you\'d handle one, out loud, in under a minute. The group decides who they\'d rather be standing next to.' },
+  { n: '01', name: 'Survival Challenge', desc: 'Draw three. Explain how you\'d handle one, out loud, in under a minute.' },
   { n: '02', name: 'Race The Clock', desc: 'Two teams, one card, same start. First working shelter, fire or filter wins.' },
-  { n: '03', name: 'Priority Sort', desc: 'Five cards face up. Rank them by what you\'d deal with first — then change the setting and watch the order change.' },
-  { n: '04', name: 'Do It Blind', desc: 'Read only the title. Try the skill before you read the steps. You remember what you got wrong.' },
-  { n: '05', name: 'Hard Choices', desc: 'Everyone commits to A, B or C out loud before anyone reads the answer. Then argue about it.' },
+  { n: '03', name: 'Priority Sort', desc: 'Rank five cards by what you\'d deal with first — then change the setting and watch the order change.' },
+  { n: '04', name: 'Do It Blind', desc: 'Read only the title. Try the skill before you read the steps.' },
+  { n: '05', name: 'Hard Choices', desc: 'Everyone commits to A, B or C out loud before anyone reads the answer.' },
 ];
 
 const structuredData = {
   '@context': 'https://schema.org',
   '@type': 'Product',
-  name: 'Survival Cards — Outdoor Skills Card Deck',
-  description: 'An 89-card printable deck that teaches outdoor survival and safety skills as a game: quick hacks, survival skills, emergency response, camp cooking, a 7-day challenge and scenario cards.',
+  name: 'TrailReady — The Complete Outdoor Kit',
+  description: 'A layering and packing system for five trip types, a working conditions spreadsheet, and an 89-card survival skills deck with its guide — one download.',
   brand: { '@type': 'Brand', name: 'Best OutDoor Wears' },
   offers: {
     '@type': 'Offer',
-    price: '14.00',
+    price: '19.00',
     priceCurrency: 'USD',
     availability: 'https://schema.org/InStock',
     url: 'https://bestoutdoorwears.com/product/',
@@ -39,36 +51,46 @@ const structuredData = {
 };
 ---
 <BaseLayout
-  title="Survival Cards — An 89-Card Outdoor Skills Deck | Best OutDoor Wears"
-  description="A printable 89-card deck that teaches outdoor survival and safety skills as a game — quick hacks, navigation, emergency response, camp cooking, and a 7-day pre-trip challenge."
+  title="TrailReady — The Complete Outdoor Kit | Best OutDoor Wears"
+  description="Everything for a trip in one download: a layering and packing system for five trip types, a working conditions spreadsheet, and an 89-card survival skills deck."
   canonicalPath="/product/"
   structuredData={structuredData}
 >
   <section>
     <div class="wrap product-grid">
       <div>
-        <DeckMockup width={250} />
+        <KitMockup width={300} />
       </div>
       <div class="product-copy">
-        <span class="label">The Deck</span>
-        <h1>Survival Cards</h1>
+        <span class="label">The Complete Kit</span>
+        <h1>TrailReady</h1>
         <p>
-          Eighty-nine cards that teach you what to do outdoors — by playing, arguing, and getting it wrong
-          somewhere safe. Print it, cut it, and it lives in the lid of your pack.
+          Two halves of the same problem. The guide gets you out the door with the right things on
+          your back. The deck means you know what to do when the day stops going to plan.
         </p>
-        <div class="product-includes">
-          <div class="item"><span class="n">01</span><div><h4>52 core cards</h4><p>Quick hacks, smart shortcuts, survival skills, emergency response and multi-use kit.</p></div></div>
-          <div class="item"><span class="n">02</span><div><h4>37 expansion cards</h4><p>Safety &amp; planning, camp cooking, a seven-day skills challenge, and ten scenario cards.</p></div></div>
-          <div class="item"><span class="n">03</span><div><h4>The guide (PDF)</h4><p>Five ways to play, how to read a card, printing instructions, and where this deck's limits are.</p></div></div>
-          <div class="item"><span class="n">04</span><div><h4>Print-ready</h4><p>Nine cards a page with cut guides. Colour-coded so you find the right one fast.</p></div></div>
+
+        <div class="kit-split">
+          <span class="kit-split-label">Part one — before you go</span>
+          <div class="product-includes">
+            {partOne.map((i) => (
+              <div class="item"><span class="n">{i.n}</span><div><h4>{i.name}</h4><p>{i.desc}</p></div></div>
+            ))}
+          </div>
+          <span class="kit-split-label">Part two — when it goes wrong</span>
+          <div class="product-includes">
+            {partTwo.map((i) => (
+              <div class="item"><span class="n">{i.n}</span><div><h4>{i.name}</h4><p>{i.desc}</p></div></div>
+            ))}
+          </div>
         </div>
+
         <div class="price-tag">
-          <span class="price">$14</span>
-          <span class="was">one-time · instant download</span>
+          <span class="price">$19</span>
+          <span class="was">one-time · instant download · both parts</span>
         </div>
         <div class="hero-actions" style="margin-top:22px;">
-          <a class="btn btn-primary" href="#buy">Get the deck</a>
-          <a class="btn btn-ghost" href={url('/downloads/survival-cards-free-sample.pdf')}>Free 8-card sample</a>
+          <a class="btn btn-primary" href="#buy">Get the kit</a>
+          <a class="btn btn-ghost" href={url('/downloads/trailready-free-sample.pdf')}>Free sample</a>
         </div>
         <p class="affiliate-note" id="buy">
           Checkout link pending — the store listing is being finished. This page will link straight to a
@@ -81,7 +103,7 @@ const structuredData = {
   <section class="product-section">
     <div class="wrap">
       <div class="section-head">
-        <h2>Nine colours,<br>one job each</h2>
+        <h2>Part two:<br>nine colours, one job each</h2>
         <p class="desc">Colour tells you what kind of card you're holding before you read a word of it.</p>
       </div>
       <div class="cat-grid">
@@ -101,7 +123,7 @@ const structuredData = {
   <section>
     <div class="wrap">
       <div class="section-head">
-        <h2>Five ways to play</h2>
+        <h2>Five ways to play the deck</h2>
         <p class="desc">Two players or ten. No board, no timer, no setup.</p>
       </div>
       <div class="chapters">
@@ -120,24 +142,31 @@ const structuredData = {
 
   <section class="product-section">
     <div class="wrap prose" style="max-width:74ch;">
+      <h2>Why the two halves belong together</h2>
+      <p>
+        Packing well is what stops most problems from starting. Knowing what to do is what stops the
+        remaining ones from getting worse. Sold separately they each leave a gap: a perfect packing list
+        does nothing for you at the moment something goes wrong, and a survival deck does not stop you
+        arriving cold and wet in the first place.
+      </p>
       <h2>Who this is for</h2>
       <p>
-        Beginners and families heading somewhere fairly normal — a campsite, a marked trail, a weekend in the
-        hills. Scout groups and youth leaders who want something to do round a fire that isn't a lecture. If
-        you already teach this stuff for a living, you don't need it.
+        Beginners and families heading somewhere fairly normal — a campsite, a marked trail, a weekend in
+        the hills. Scout groups and youth leaders who want something to do round a fire that isn't a
+        lecture. If you already teach this for a living, you don't need it.
       </p>
       <h2>What it isn't</h2>
       <p>
-        It isn't a wilderness medicine manual and it isn't a substitute for a first aid course — the emergency
-        cards are memory aids for people who have been taught this material, not a way to learn it cold. It
-        also deliberately doesn't teach you to identify wild plants or mushrooms: deadly and edible species
-        look alike, field tests don't reliably work, and a healthy adult can go a long time without food.
-        That card tells you to leave it alone, and explains why.
+        It isn't a wilderness medicine manual and it isn't a substitute for a first aid course — the
+        emergency cards are memory aids for people who have been taught this material, not a way to learn
+        it cold. It also deliberately doesn't teach you to identify wild plants or mushrooms: deadly and
+        edible species look alike, field tests don't reliably work, and a healthy adult can go a long
+        time without food. That card tells you to leave it alone, and explains why.
       </p>
       <h2>A note on fire and local rules</h2>
       <p>
-        Several cards involve flame. Fire rules vary enormously by region and season, and in many places open
-        fires are banned outright for part of the year. Check before you light anything.
+        Several cards involve flame. Fire rules vary enormously by region and season, and in many places
+        open fires are banned outright for part of the year. Check before you light anything.
       </p>
     </div>
   </section>

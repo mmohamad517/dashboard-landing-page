@@ -4,7 +4,7 @@ description: "How to be found: why you stay put, what actually reflects, why eve
 keyword: "how to signal for help in the wilderness"
 pubDate: 2026-08-06
 updatedDate: 2026-08-06
-relatedSlugs: ["what-to-do-if-you-get-lost-hiking", "desert-survival-tips", "cold-weather-survival-basics", "how-to-read-clouds-for-weather"]
+relatedSlugs: ["what-to-do-if-you-get-lost-hiking", "desert-survival-tips", "cold-weather-survival-basics", "hiking-outfit-ideas-by-season"]
 ---
 
 If someone knows your route and expects you back, staying put and making yourself visible is almost always right. Wandering is what turns a short search into a long one.

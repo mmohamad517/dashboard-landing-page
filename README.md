@@ -22,16 +22,28 @@ npm run preview   # preview the production build
 
 ## Selling TrailReady (the product)
 
-The finished product files (`TrailReady.pdf` and `TrailReady-Conditions-Helper.xlsx`) were **not committed to this repo on purpose** — this is a public repo, and anything in it is downloadable by anyone for free, which would defeat the point of selling it. Those files were sent to you directly in chat.
+The product is **one download with two parts**, delivered as `TrailReady-Complete-Kit.zip`:
+
+```
+READ-ME-FIRST.txt
+Part 1 - Before You Go/
+  TrailReady-Layering-and-Packing-Guide.pdf
+  TrailReady-Conditions-Helper.xlsx
+Part 2 - When It Goes Wrong/
+  SurvivalCards-Deck-89-cards.pdf
+  SurvivalCards-Guide.pdf
+```
+
+The finished files were **not committed to this repo on purpose** — this is a public repo, and anything in it is downloadable by anyone for free, which would defeat the point of selling it. The zip was sent to you directly in chat.
 
 To go live:
 1. Create a free seller account on **[Payhip](https://payhip.com)** (~5% fee on the free plan) or **[Gumroad](https://gumroad.com)** (~10% + $0.50/sale, also free to list).
-2. Upload `TrailReady.pdf` and `TrailReady-Conditions-Helper.xlsx` as one bundled digital product, priced at $12 (or whatever you decide).
-3. Copy the product's checkout URL and replace the placeholder in `src/pages/product.astro` — search for the `affiliate-note` block with the `#buy` anchor and swap in the real link as the `href` on the "Get TrailReady" button.
+2. Upload `TrailReady-Complete-Kit.zip` as a single digital product, priced at $19 (or whatever you decide).
+3. Copy the product's checkout URL and replace the placeholder in `src/pages/product.astro` — search for the `affiliate-note` block with the `#buy` anchor and swap in the real link as the `href` on the "Get the kit" button.
 
 ## Free lead magnet
 
-`public/downloads/trailready-free-cheatsheet.pdf` is already live and linked from the homepage — no setup needed, it's a free one-pager that funnels to the product page.
+`public/downloads/trailready-free-sample.pdf` is already live and linked from the homepage and the product page — no setup needed. It's 5 pages: the illustrated layering cheat sheet, then 8 of the 89 cards, both funnelling to the product page.
 
 ## Affiliate links (optional, adds passive income)
 

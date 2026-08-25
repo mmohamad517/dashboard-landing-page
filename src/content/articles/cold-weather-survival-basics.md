@@ -4,7 +4,7 @@ description: "Why managing sweat matters more than adding layers in the cold, th
 keyword: "cold weather survival basics"
 pubDate: 2026-08-09
 updatedDate: 2026-08-09
-relatedSlugs: ["how-to-read-clouds-for-weather", "campfire-cooking-recipes-for-beginners", "survival-kit-checklist-for-camping", "how-to-avoid-dangerous-wildlife-while-camping"]
+relatedSlugs: ["how-to-read-clouds-for-weather", "campfire-cooking-recipes-for-beginners", "survival-kit-checklist-for-camping", "how-to-dress-for-changing-weather-outdoors"]
 ---
 
 In cold conditions, the thing that gets people is not usually the temperature. It is being wet — from weather or from their own sweat — and staying still.

@@ -4,7 +4,7 @@ description: "A survival kit checklist organised by what each item actually prev
 keyword: "survival kit checklist for camping"
 pubDate: 2026-08-12
 updatedDate: 2026-08-12
-relatedSlugs: ["how-to-avoid-dangerous-wildlife-while-camping", "flash-flood-safety-for-campers", "how-much-water-to-carry-hiking", "survival-games-for-family-camping"]
+relatedSlugs: ["how-to-avoid-dangerous-wildlife-while-camping", "flash-flood-safety-for-campers", "how-much-water-to-carry-hiking", "lightweight-packing-list-for-backpacking"]
 ---
 
 A kit list is only useful if you can say what each item prevents. Here is the list organised that way.

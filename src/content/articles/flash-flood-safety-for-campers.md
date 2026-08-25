@@ -4,7 +4,7 @@ description: "Why flash floods catch experienced campers, how to choose a campsi
 keyword: "flash flood safety for campers"
 pubDate: 2026-08-14
 updatedDate: 2026-08-14
-relatedSlugs: ["how-much-water-to-carry-hiking", "survival-games-for-family-camping", "how-to-teach-kids-camping-skills", "wilderness-navigation-basics"]
+relatedSlugs: ["how-much-water-to-carry-hiking", "survival-games-for-family-camping", "how-to-teach-kids-camping-skills", "packing-checklist-for-first-camping-trip"]
 ---
 
 A flash flood is the outdoor hazard most likely to kill someone who did everything else right. It arrives fast, often under a completely clear sky, because the rain that caused it fell somewhere you cannot see.

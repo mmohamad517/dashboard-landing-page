@@ -4,7 +4,7 @@ description: "Boiling, filtering and chemical treatment compared — what each o
 keyword: "how to purify water in the wild"
 pubDate: 2026-08-02
 updatedDate: 2026-08-02
-relatedSlugs: ["how-to-build-an-emergency-shelter", "how-to-start-a-fire-without-matches", "camping-first-aid-basics", "how-to-signal-for-help-in-the-wilderness"]
+relatedSlugs: ["how-to-build-an-emergency-shelter", "how-to-start-a-fire-without-matches", "camping-first-aid-basics", "base-layer-vs-mid-layer-explained"]
 ---
 
 Boiling is the method that works everywhere, needs no batteries or spare parts, and handles every biological threat. If you can boil, boil.

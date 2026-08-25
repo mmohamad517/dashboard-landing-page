@@ -4,7 +4,7 @@ description: "How to think about water on a hike — what changes the answer, wh
 keyword: "how much water to carry hiking"
 pubDate: 2026-08-15
 updatedDate: 2026-08-15
-relatedSlugs: ["survival-games-for-family-camping", "how-to-teach-kids-camping-skills", "wilderness-navigation-basics", "how-long-can-you-survive-without-food"]
+relatedSlugs: ["survival-games-for-family-camping", "how-to-teach-kids-camping-skills", "wilderness-navigation-basics", "packing-list-for-a-weekend-camping-trip"]
 ---
 
 There is no single correct number, and anyone quoting one is guessing at your conditions. What matters is knowing what moves the answer and planning around refills.

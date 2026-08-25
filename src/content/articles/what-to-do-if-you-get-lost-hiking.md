@@ -4,7 +4,7 @@ description: "The first thing to do when you realise you are lost is stop walkin
 keyword: "what to do if you get lost hiking"
 pubDate: 2026-08-07
 updatedDate: 2026-08-07
-relatedSlugs: ["desert-survival-tips", "cold-weather-survival-basics", "how-to-read-clouds-for-weather", "campfire-cooking-recipes-for-beginners"]
+relatedSlugs: ["desert-survival-tips", "cold-weather-survival-basics", "how-to-read-clouds-for-weather", "how-many-layers-to-wear-hiking"]
 ---
 
 The moment you realise you are not sure where you are, stop walking. The urge to press on and recognise something is what turns briefly unsure into genuinely lost.
