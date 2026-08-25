@@ -1,8 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { url } from '../lib/paths';
-
-const productImg = 'https://images.unsplash.com/photo-1766893301770-bae104dc07f2?crop=entropy&cs=tinysrgb&fit=max&fm=webp&q=75&w=800';
+import BookMockup from '../components/BookMockup.astro';
 
 const chapters = [
   { n: '01', name: 'Day Hike', desc: 'Out and back before dark — light layering, a lean pack list, and quick no-cook trail food.' },
@@ -36,11 +35,7 @@ const structuredData = {
   <section>
     <div class="wrap product-grid">
       <div>
-        <div class="product-photo">
-          <img src={productImg} width="800" height="1067" loading="eager"
-               alt="A hiker with a backpack and camera in the mountains" />
-        </div>
-        <p class="photo-credit">Photo: Leo_Visions / Unsplash</p>
+        <BookMockup width={320} />
       </div>
       <div class="product-copy">
         <span class="label">The Toolkit</span>
