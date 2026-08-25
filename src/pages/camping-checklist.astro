@@ -1,0 +1,277 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { url } from '../lib/paths';
+
+const PDF = '/downloads/camping-checklist-printable.pdf';
+const CHECKOUT_URL = 'https://whop.com/best-out-door-wears/new-camp/';
+
+const sections = [
+  {
+    name: 'Shelter & sleep',
+    note: 'The bit that decides whether you sleep or endure.',
+    items: [
+      ['Tent, poles, pegs', 'Count the pegs at home, not in the dark'],
+      ['Groundsheet or footprint', ''],
+      ['Sleeping bag', 'Rated for the coldest night, not the average'],
+      ['Sleeping mat', 'Insulation from the ground, not just comfort'],
+      ['Pillow', 'A stuff sack of clothes works'],
+      ['Mallet', ''],
+      ['Spare pegs and 3m of cord', 'Weighs nothing, saves a night'],
+      ['Tarp for the cooking area', 'Turns a wet weekend into a normal one'],
+    ],
+  },
+  {
+    name: 'Kitchen & food',
+    note: 'Plan the washing-up before you plan the menu.',
+    items: [
+      ['Stove and fuel', 'Check the fuel fits the stove'],
+      ['Lighter, plus matches as backup', ''],
+      ['Pan, plate, bowl, mug per person', ''],
+      ['Knife, spoon, spatula', ''],
+      ['Chopping board', ''],
+      ['Washing-up bowl, sponge, soap', ''],
+      ['Water container with a tap', 'Check if the site has drinking water'],
+      ['Food, by meal not by guess', 'Write the meals down, then shop'],
+      ['One no-cook meal', 'For the night you arrive late or wet'],
+      ['Rubbish bags', ''],
+      ['Coolbox and ice packs', 'Chill the box before you load it'],
+    ],
+  },
+  {
+    name: 'Clothing',
+    note: 'You sit still for hours after dark. Pack for that, not for the walk.',
+    items: [
+      ['Base layer — wool or synthetic', 'Not cotton next to skin'],
+      ['Fleece or mid layer', ''],
+      ['Waterproof jacket', 'Wash and re-proof it if it stopped beading'],
+      ['Waterproof trousers', 'Also a windproof leg layer'],
+      ['Warm layer for the evening', ''],
+      ['Hat and gloves', 'Even in summer, at night'],
+      ['Spare socks — two pairs', 'The most forgotten item on any list'],
+      ['Camp shoes', 'Something other than the boots you walked in'],
+      ['Sun hat and sunscreen', ''],
+    ],
+  },
+  {
+    name: 'Light, tools & safety',
+    note: 'One shared torch means three people sitting in the dark.',
+    items: [
+      ['Head torch per person', ''],
+      ['Spare batteries', 'Keep them somewhere warm'],
+      ['Lantern for the group', ''],
+      ['First aid kit', 'Blister and burn cover matter most at camp'],
+      ['Any personal medication', ''],
+      ['Power bank, charged', ''],
+      ['Offline map, plus a screenshot', 'A screenshot survives a dead signal'],
+      ['Whistle', 'Carries further than your voice'],
+      ['Multi-tool or knife', ''],
+      ['Duct tape wrapped round a bottle', ''],
+    ],
+  },
+  {
+    name: 'Personal',
+    note: '',
+    items: [
+      ['Toothbrush and toothpaste', ''],
+      ['Towel', ''],
+      ['Toilet roll', 'Never assume the site has any'],
+      ['Hand sanitiser', ''],
+      ['Insect repellent', ''],
+      ['Sealed bag for wet or dirty kit', ''],
+    ],
+  },
+  {
+    name: 'Before you drive off',
+    note: 'The six that cost nothing and prevent the most.',
+    items: [
+      ['Someone knows where you are going', 'And when you are due back'],
+      ['Booking confirmation saved offline', ''],
+      ['Tent pitched once at home', 'Do not learn it in the dark, in wind'],
+      ['Fuel, tyres, spare tyre', ''],
+      ['Weather checked for the nights', 'Not just the days'],
+      ['Local fire rules checked', 'Open fires are banned in many places'],
+    ],
+  },
+];
+
+const total = sections.reduce((n, s) => n + s.items.length, 0);
+
+const structuredData = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: [
+      {
+        '@type': 'Question',
+        name: 'Is this camping checklist really free?',
+        acceptedAnswer: { '@type': 'Answer', text: 'Yes. No email address, no signup, no account. The PDF downloads on click and you can share it with anyone.' },
+      },
+      {
+        '@type': 'Question',
+        name: 'Can I tick the boxes on my phone or computer?',
+        acceptedAnswer: { '@type': 'Answer', text: 'Yes. The boxes are real PDF form fields, so they tick on screen in any normal PDF reader and the file remembers your ticks when you save it. Most free printable checklists are flat images whose boxes do nothing.' },
+      },
+      {
+        '@type': 'Question',
+        name: 'How many items are on the list?',
+        acceptedAnswer: { '@type': 'Answer', text: 'Fifty, across six sections: shelter and sleep, kitchen and food, clothing, light and tools and safety, personal, and a pre-departure section.' },
+      },
+      {
+        '@type': 'Question',
+        name: 'Does it work for backpacking as well as car camping?',
+        acceptedAnswer: { '@type': 'Answer', text: 'It is built for car camping and general tent camping, where weight is not the constraint. Backpacking needs a different list because every item is carried on your back.' },
+      },
+    ],
+  },
+];
+---
+<BaseLayout
+  title="Camping Checklist: Printable, Free, and the Boxes Actually Tick"
+  description="A free printable camping checklist — 50 items across six sections. Real PDF checkboxes you can tick on screen and save, or print it and use a pen. No email required."
+  canonicalPath="/camping-checklist/"
+  structuredData={structuredData}
+>
+  <section class="checklist-hero">
+    <div class="wrap">
+      <span class="label">Free download · No email required</span>
+      <h1>The camping checklist,<br>and its boxes actually tick</h1>
+      <p class="lede">
+        Fifty items across six sections, built for tent and car camping. Print it and use a pen, or
+        tick the boxes on screen and save the file — because most free printable checklists are flat
+        images whose boxes do nothing at all.
+      </p>
+      <div class="hero-actions">
+        <a class="btn btn-primary" href={url(PDF)} download>Download the PDF — free</a>
+        <a class="btn btn-ghost" href="#list">Read it on this page ↓</a>
+      </div>
+      <p class="affiliate-note" style="margin-top:16px; max-width:60ch;">
+        Two pages, 50 fillable checkboxes. Nothing to sign up for, and you're welcome to pass it on.
+      </p>
+    </div>
+  </section>
+
+  <section id="list">
+    <div class="wrap">
+      <div class="section-head">
+        <h2>All {total} items,<br>free to read here</h2>
+        <p class="desc">The same list that's in the PDF. Nothing held back for the download.</p>
+      </div>
+      <div class="cl-grid">
+        {sections.map((s) => (
+          <div class="cl-section">
+            <h3>{s.name}</h3>
+            {s.note && <p class="cl-note">{s.note}</p>}
+            <ul class="cl-list">
+              {s.items.map(([item, why]) => (
+                <li>
+                  <span class="cl-item">{item}</span>
+                  {why && <span class="cl-why">{why}</span>}
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="product-section">
+    <div class="wrap prose" style="max-width:74ch;">
+      <h2>Why most printable checklists disappoint</h2>
+      <p>
+        Search for a printable camping checklist and you get a lot of results, most of them from
+        companies that sell camping gear. That shapes them in two ways worth knowing about.
+      </p>
+      <p>
+        First, the lists are long because a long list is a long shopping list. Every line is
+        something you could buy, and nothing on them ever says "you probably already own this" or
+        "skip it". Second, the files themselves are usually flat print images. The boxes are drawn
+        on, not real — so you cannot tick them, and tracking your packing means a printer and a pen.
+        Try it on one and see.
+      </p>
+      <p>
+        This one is short on purpose, tells you why an item matters where that isn't obvious, and its
+        boxes are genuine PDF form fields. We don't sell gear, so nothing here is trying to get you
+        to buy a second stove.
+      </p>
+
+      <h2>How to use it without overpacking</h2>
+      <p>
+        Work through it once a few days before the trip, not the night before — that's when you find
+        out the stove fuel is empty and the head torch batteries are flat, while there's still time to
+        do something about it. Then run it again as you load the car.
+      </p>
+      <p>
+        Cross off anything that doesn't apply to this specific trip. A checklist is a memory aid, not
+        an instruction to bring all fifty things. The six items under "before you drive off" are the
+        ones worth never skipping, and five of them cost nothing.
+      </p>
+
+      <h2>What this list doesn't cover</h2>
+      <p>
+        It's built for tent and car camping, where you can carry a coolbox and a chair because the
+        car does the carrying. Backpacking needs a different list, because every item goes on your
+        back and the trade-offs change completely — that's covered in the
+        <a href={url('/articles/backpacking-packing-checklist/')}>backpacking checklist</a>, along with
+        how to actually load the pack.
+      </p>
+      <p>
+        It also doesn't tell you what to wear, beyond the basics above. Clothing depends on the
+        forecast and the season, which is a longer subject —
+        <a href={url('/articles/how-to-layer-clothes-for-hiking/')}>the layering guide</a> covers it,
+        and <a href={url('/articles/what-to-wear-camping-in-fall/')}>what to wear camping in fall</a>
+        deals with the season that catches people out most.
+      </p>
+    </div>
+  </section>
+
+  <section>
+    <div class="wrap">
+      <div class="section-head">
+        <h2>The paid version,<br>if you want the whole trip</h2>
+        <p class="desc">This page covers a normal camping trip. TrailReady covers five of them, plus what to do when it goes wrong.</p>
+      </div>
+      <div class="product-includes" style="max-width:74ch;">
+        <div class="item"><span class="n">01</span><div><h4>Five trip types, five lists</h4><p>Day hike, overnight backpacking, car camping, cold weather and wet weather — each with its own chapter and its own fillable list.</p></div></div>
+        <div class="item"><span class="n">02</span><div><h4>The Conditions Helper</h4><p>A working spreadsheet. Pick the trip type and the weather; it returns the clothing list.</p></div></div>
+        <div class="item"><span class="n">03</span><div><h4>89 Survival Cards</h4><p>Print-at-home cards for the day the packing wasn't the problem — navigation, water, shelter, fire, emergencies, and a seven-day skills challenge.</p></div></div>
+      </div>
+      <div class="price-tag" style="margin-top:24px;">
+        <span class="price">$19</span>
+        <span class="was">one-time · instant download · both parts</span>
+      </div>
+      <div class="hero-actions" style="margin-top:18px;">
+        <a class="btn btn-primary" href={CHECKOUT_URL} rel="noopener">Get TrailReady — $19</a>
+        <a class="btn btn-ghost" href={url('/product/')}>See what's inside</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="product-section">
+    <div class="wrap" style="max-width:74ch;">
+      <div class="section-head"><h2>Questions</h2></div>
+      <details class="faq-item">
+        <summary>Is it really free?</summary>
+        <p>Yes. No email, no signup, no account. It downloads on click, and you're welcome to share it
+          or hand it to a group.</p>
+      </details>
+      <details class="faq-item">
+        <summary>Do the boxes really tick on screen?</summary>
+        <p>Yes — they're real PDF form fields, so they work in any normal reader and the file keeps your
+          ticks when you save it. Go and try the same thing on a big retailer's free checklist; the
+          boxes are printed on and do nothing.</p>
+      </details>
+      <details class="faq-item">
+        <summary>Does it work for backpacking?</summary>
+        <p>Not well. This is built for tent and car camping, where the car carries the weight. Backpacking
+          changes every trade-off — see the <a href={url('/articles/backpacking-packing-checklist/')}>backpacking
+          checklist</a> instead.</p>
+      </details>
+      <details class="faq-item">
+        <summary>Can I use it with a scout group or a class?</summary>
+        <p>Please do. Print as many as you like. If you want something for the group to actually do
+          outdoors, that's what the card deck in <a href={url('/product/')}>TrailReady</a> is for.</p>
+      </details>
+    </div>
+  </section>
+</BaseLayout>
