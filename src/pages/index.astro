@@ -8,13 +8,11 @@ const articles = (await getCollection('articles')).sort(
   (a, b) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf()
 );
 
-// Unsplash photo "Lost in the Wilderness" by Geranimo (@geraninmo), served as
-// a compressed WebP. Largest above-the-fold element, so loaded eagerly (LCP).
-const heroImgBase = 'https://images.unsplash.com/photo-1487525219605-eadb39ae229c?crop=entropy&cs=tinysrgb&fit=crop&fm=webp&q=70';
-const heroImg = `${heroImgBase}&w=1600&h=900`;
-const heroSrcSet = [900, 1280, 1600, 2000]
-  .map((w) => `${heroImgBase}&w=${w}&h=${Math.round((w * 9) / 16)} ${w}w`)
-  .join(', ');
+// The site owner's own photo, cropped to 16:9 and served as WebP from our own
+// origin. Self-hosting removes a third-party connection from the critical path,
+// which is what was holding mobile LCP at 3.8s. Largest above-the-fold element,
+// so preloaded and fetched eagerly.
+const heroImg = url('/images/hero-trail.webp');
 
 const structuredData = [
   {
@@ -36,14 +34,12 @@ const structuredData = [
     <img
       class="hero-bg"
       src={heroImg}
-      srcset={heroSrcSet}
-      sizes="100vw"
-      width="1600"
-      height="900"
+      width="736"
+      height="414"
       loading="eager"
       fetchpriority="high"
       decoding="async"
-      alt="Mist drifting through a dense evergreen forest at dawn"
+      alt="A loaded backpack, water bottle, sleeping mat, paper map and compass beside a rocky mountain trail"
     />
     <div class="hero-banner-inner">
       <span class="label">Outdoor Survival Skills for Beginners</span>
@@ -62,7 +58,6 @@ const structuredData = [
         <a href={url('/camping-checklist/')}>Free printable camping checklist — 50 items, boxes that actually tick →</a>
       </p>
     </div>
-    <p class="hero-credit">Photo: Geranimo / Unsplash</p>
   </section>
 
   <section class="problem" id="problem">

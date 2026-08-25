@@ -41,6 +41,11 @@ const fontFaceCss = [
        the property, so leave it in place. -->
   <meta name="google-site-verification" content="FWuQiugsNWgHqY1BIRFfnYqbEM_77kGr4RrQCTUStyI" />
 
+  <!-- Hero image on the homepage: the LCP element, so start it with the HTML -->
+  {canonicalPath === '/' && (
+    <link rel="preload" as="image" href={url('/images/hero-trail.webp')} fetchpriority="high" />
+  )}
+
   <!-- Self-hosted fonts: preload only the weights used above the fold -->
   <link rel="preload" href={url('/fonts/big-shoulders-display-latin-800-normal.woff2')} as="font" type="font/woff2" crossorigin />
   <link rel="preload" href={url('/fonts/source-serif-4-latin-400-normal.woff2')} as="font" type="font/woff2" crossorigin />
