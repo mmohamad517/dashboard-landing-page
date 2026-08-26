@@ -28,7 +28,7 @@ export default defineConfig({
   base,
   output: 'static',
   prefetch: false,
-  integrations: [sitemap()],
+  integrations: [sitemap({ lastmod: new Date() })],
   compressHTML: true,
   markdown: {
     rehypePlugins: [rehypeBaseLinks],

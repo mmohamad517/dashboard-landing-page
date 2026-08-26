@@ -158,6 +158,9 @@ a:focus-visible, button:focus-visible, summary:focus-visible { outline: 2px soli
 
 /* ---------- two-part kit breakdown on the product page ---------- */
 .kit-split { margin-top: 22px; }
+/* Specificity note: these sit inside .product-copy, whose `h2` rule (0,1,1)
+   would otherwise beat a bare class (0,1,0) and blow the size up. */
+.kit-split h2.kit-split-label,
 .kit-split-label {
   display: block;
   font-family: "IBM Plex Mono", ui-monospace, monospace;
@@ -193,3 +196,10 @@ a:focus-visible, button:focus-visible, summary:focus-visible { outline: 2px soli
 }
 .cl-item { font-size: 0.94rem; }
 .cl-why { font-size: 0.8rem; color: var(--ink-faint); font-style: italic; }
+
+/* item headings sit under an h2, so they are h3 semantically but keep the
+   smaller h4 scale visually */
+.product-includes .item h3.item-h {
+  font-size: 1.02rem; text-transform: none; letter-spacing: 0;
+  font-family: "Source Serif 4", Georgia, serif; font-weight: 600;
+}

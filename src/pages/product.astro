@@ -112,16 +112,16 @@ const structuredData = {
         </p>
 
         <div class="kit-split">
-          <span class="kit-split-label">Part one — before you go</span>
+          <h2 class="kit-split-label">Part one — before you go</h2>
           <div class="product-includes">
             {partOne.map((i) => (
-              <div class="item"><span class="n">{i.n}</span><div><h4>{i.name}</h4><p>{i.desc}</p></div></div>
+              <div class="item"><span class="n">{i.n}</span><div><h3 class="item-h">{i.name}</h3><p>{i.desc}</p></div></div>
             ))}
           </div>
-          <span class="kit-split-label">Part two — when it goes wrong</span>
+          <h2 class="kit-split-label">Part two — when it goes wrong</h2>
           <div class="product-includes">
             {partTwo.map((i) => (
-              <div class="item"><span class="n">{i.n}</span><div><h4>{i.name}</h4><p>{i.desc}</p></div></div>
+              <div class="item"><span class="n">{i.n}</span><div><h3 class="item-h">{i.name}</h3><p>{i.desc}</p></div></div>
             ))}
           </div>
         </div>

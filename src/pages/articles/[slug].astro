@@ -42,7 +42,9 @@ const structuredData = [
 ];
 ---
 <BaseLayout
-  title={`${article.data.title} | Best OutDoor Wears`}
+  {/* No brand suffix: it costs 21 characters of a 60-character SERP
+      title, and the domain is already shown beside it. */}
+  title={article.data.title}
   description={article.data.description}
   canonicalPath={`/articles/${article.slug}/`}
   structuredData={structuredData}

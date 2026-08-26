@@ -1,0 +1,30 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { url } from '../lib/paths';
+---
+<BaseLayout
+  title="Page not found"
+  description="That page doesn't exist. Here's the free camping checklist, the guides, and the kit."
+  canonicalPath="/404/"
+>
+  <section>
+    <div class="wrap prose" style="max-width:64ch; padding-top:36px;">
+      <span class="label">404</span>
+      <h1 style="margin-top:10px;">That page isn't here</h1>
+      <p>
+        The link is wrong, or the page moved. Nothing you did. Here's where most people were
+        heading:
+      </p>
+      <ul>
+        <li><a href={url('/camping-checklist/')}>The free printable camping checklist</a> — 50 items, boxes that actually tick, no email.</li>
+        <li><a href={url('/#articles')}>All 40 guides</a> — what to wear, what to pack, and what to do when a trip goes wrong.</li>
+        <li><a href={url('/product/')}>TrailReady</a> — both halves in one download.</li>
+        <li><a href={url('/')}>The homepage</a>, if you'd rather start over.</li>
+      </ul>
+      <p>
+        If you followed a link from somewhere on this site and it broke, <a href={url('/contact/')}>tell us</a>
+        — we'd rather know.
+      </p>
+    </div>
+  </section>
+</BaseLayout>
