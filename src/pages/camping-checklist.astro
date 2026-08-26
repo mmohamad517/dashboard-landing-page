@@ -103,23 +103,53 @@ const structuredData = [
     mainEntity: [
       {
         '@type': 'Question',
-        name: 'Is this camping checklist really free?',
-        acceptedAnswer: { '@type': 'Answer', text: 'Yes. No email address, no signup, no account. The PDF downloads on click and you can share it with anyone.' },
+        name: 'I\'m going camping for the first time — what do I actually need to bring?',
+        acceptedAnswer: { '@type': 'Answer', text: 'For a first tent or car camping trip you need six things covered: shelter and sleep (tent, pegs, sleeping bag, insulating mat), kitchen and food (stove, fuel, one pan, water container, meals planned by name), clothing in layers with two spare pairs of socks, a head torch for every person, a first aid kit, and someone at home who knows where you are going and when you are back. Everything else is comfort. The full 50-item list on this page is free to read and free to download, with no email required.' },
       },
       {
         '@type': 'Question',
-        name: 'Can I tick the boxes on my phone or computer?',
-        acceptedAnswer: { '@type': 'Answer', text: 'Yes. The boxes are real PDF form fields, so they tick on screen in any normal PDF reader and the file remembers your ticks when you save it. Most free printable checklists are flat images whose boxes do nothing.' },
+        name: 'I\'m going camping this weekend. What should I pack?',
+        acceptedAnswer: { '@type': 'Answer', text: 'Work through a checklist a few days before rather than the night before, because that is when you still have time to fix an empty gas canister or a flat head torch battery. Pack shelter and sleep first, then food planned meal by meal, then clothing in layers including a warm layer for sitting still after dark, then light and safety. Cross off anything that does not apply to this specific trip — a checklist is a memory aid, not an instruction to bring all fifty things.' },
       },
       {
         '@type': 'Question',
-        name: 'How many items are on the list?',
-        acceptedAnswer: { '@type': 'Answer', text: 'Fifty, across six sections: shelter and sleep, kitchen and food, clothing, light and tools and safety, personal, and a pre-departure section.' },
+        name: 'What do people always forget when camping?',
+        acceptedAnswer: { '@type': 'Answer', text: 'The most commonly forgotten items are spare dry socks, enough light for everyone rather than one shared torch, a warm layer for sitting still after sunset, rubbish bags, a spare tent peg and a length of cord, and toilet roll. None of them are expensive and each one is remembered vividly by whoever forgot it.' },
       },
       {
         '@type': 'Question',
-        name: 'Does it work for backpacking as well as car camping?',
-        acceptedAnswer: { '@type': 'Answer', text: 'It is built for car camping and general tent camping, where weight is not the constraint. Backpacking needs a different list because every item is carried on your back.' },
+        name: 'Is there a free printable camping checklist I can just download?',
+        acceptedAnswer: { '@type': 'Answer', text: 'Yes — this page has one. It is a two-page PDF with 50 items across six sections, free with no email address, no signup and no account. It also works as a real form: the checkboxes are genuine PDF form fields, so you can tick them on screen and save the file, or print it and use a pen. Most free printable checklists are flat images whose boxes cannot be ticked at all.' },
+      },
+      {
+        '@type': 'Question',
+        name: 'What\'s the difference between a camping checklist and a backpacking checklist?',
+        acceptedAnswer: { '@type': 'Answer', text: 'A camping checklist assumes a car carries the weight, so it can include a cool box, a chair, a bigger tent and a proper cooking set. A backpacking checklist assumes everything goes on your back, which changes every trade-off: you drop comfort items, carry a filter instead of water, and think in grams. Using a car camping list for a backpacking trip is how people end up with a pack too heavy to enjoy.' },
+      },
+      {
+        '@type': 'Question',
+        name: 'How do I make a camping checklist for my family?',
+        acceptedAnswer: { '@type': 'Answer', text: 'Start from a general list, then add one line per person for the things that are individual — medication, glasses, a comfort toy for a small child, a head torch each. Keep shared items in one place on the list so nobody packs three stoves and no pan. After the trip, edit the list while it is fresh: cross off what you never touched and add what you wished you had. After two or three trips it fits how your family actually camps.' },
+      },
+      {
+        '@type': 'Question',
+        name: 'What should I wear camping at night when it gets cold?',
+        acceptedAnswer: { '@type': 'Answer', text: 'Pack for sitting still, not for walking. Camping is the one outdoor activity where you spend hours doing almost nothing after dark, which is exactly when the temperature drops fastest — so bring a warmer layer than you think, a hat, and something on your feet other than the boots you walked in. Dry socks matter more than an extra jacket, because feet that got damp during the day will feel cold all evening.' },
+      },
+      {
+        '@type': 'Question',
+        name: 'Do I really need a sleeping mat, or is the sleeping bag enough?',
+        acceptedAnswer: { '@type': 'Answer', text: 'You need the mat. Cold ground draws heat out of you directly, and your body weight flattens the sleeping bag\'s insulation underneath you to almost nothing, so the bag cannot do its job where you are lying on it. A modest bag on a good insulating mat is warmer than an expensive bag on a thin one.' },
+      },
+      {
+        '@type': 'Question',
+        name: 'How far in advance should I pack for a camping trip?',
+        acceptedAnswer: { '@type': 'Answer', text: 'Run the checklist a few days before, then again as you load the car. The early pass is what catches the problems you can still solve — empty stove fuel, dead torch batteries, a tent you have never pitched. The second pass is what stops things being left on the kitchen table.' },
+      },
+      {
+        '@type': 'Question',
+        name: 'What is the one thing I should not skip before a camping trip?',
+        acceptedAnswer: { '@type': 'Answer', text: 'Tell one person where you are going and when you expect to be back, and send it as a message so it is written down rather than remembered. It costs nothing, weighs nothing, and it is the single thing that most shortens a search if anything goes wrong. Pitching your tent once at home before you go is a close second.' },
       },
     ],
   },
@@ -249,29 +279,54 @@ const structuredData = [
 
   <section class="product-section">
     <div class="wrap" style="max-width:74ch;">
-      <div class="section-head"><h2>Questions</h2></div>
+      <div class="section-head">
+        <h2>The questions people<br>actually ask</h2>
+        <p class="desc">Phrased the way they get asked out loud, and answered in full.</p>
+      </div>
       <details class="faq-item">
-        <summary>Is it really free?</summary>
-        <p>Yes. No email, no signup, no account. It downloads on click, and you're welcome to share it
-          or hand it to a group.</p>
+        <summary>I'm going camping for the first time — what do I actually need to bring?</summary>
+        <p>For a first tent or car camping trip you need six things covered: shelter and sleep (tent, pegs, sleeping bag, insulating mat), kitchen and food (stove, fuel, one pan, water container, meals planned by name), clothing in layers with two spare pairs of socks, a head torch for every person, a first aid kit, and someone at home who knows where you are going and when you are back. Everything else is comfort. The full 50-item list on this page is free to read and free to download, with no email required.</p>
       </details>
       <details class="faq-item">
-        <summary>Do the boxes really tick on screen?</summary>
-        <p>Yes — they're real PDF form fields, so they work in any normal reader and the file keeps your
-          ticks when you save it. Go and try the same thing on a big retailer's free checklist; the
-          boxes are printed on and do nothing.</p>
+        <summary>I'm going camping this weekend. What should I pack?</summary>
+        <p>Work through a checklist a few days before rather than the night before, because that is when you still have time to fix an empty gas canister or a flat head torch battery. Pack shelter and sleep first, then food planned meal by meal, then clothing in layers including a warm layer for sitting still after dark, then light and safety. Cross off anything that does not apply to this specific trip — a checklist is a memory aid, not an instruction to bring all fifty things.</p>
       </details>
       <details class="faq-item">
-        <summary>Does it work for backpacking?</summary>
-        <p>Not well. This is built for tent and car camping, where the car carries the weight. Backpacking
-          changes every trade-off — see the <a href={url('/articles/backpacking-packing-checklist/')}>backpacking
-          checklist</a> instead.</p>
+        <summary>What do people always forget when camping?</summary>
+        <p>The most commonly forgotten items are spare dry socks, enough light for everyone rather than one shared torch, a warm layer for sitting still after sunset, rubbish bags, a spare tent peg and a length of cord, and toilet roll. None of them are expensive and each one is remembered vividly by whoever forgot it.</p>
       </details>
       <details class="faq-item">
-        <summary>Can I use it with a scout group or a class?</summary>
-        <p>Please do. Print as many as you like. If you want something for the group to actually do
-          outdoors, that's what the card deck in <a href={url('/product/')}>TrailReady</a> is for.</p>
+        <summary>Is there a free printable camping checklist I can just download?</summary>
+        <p>Yes — this page has one. It is a two-page PDF with 50 items across six sections, free with no email address, no signup and no account. It also works as a real form: the checkboxes are genuine PDF form fields, so you can tick them on screen and save the file, or print it and use a pen. Most free printable checklists are flat images whose boxes cannot be ticked at all.</p>
       </details>
+      <details class="faq-item">
+        <summary>What's the difference between a camping checklist and a backpacking checklist?</summary>
+        <p>A camping checklist assumes a car carries the weight, so it can include a cool box, a chair, a bigger tent and a proper cooking set. A backpacking checklist assumes everything goes on your back, which changes every trade-off: you drop comfort items, carry a filter instead of water, and think in grams. Using a car camping list for a backpacking trip is how people end up with a pack too heavy to enjoy.</p>
+      </details>
+      <details class="faq-item">
+        <summary>How do I make a camping checklist for my family?</summary>
+        <p>Start from a general list, then add one line per person for the things that are individual — medication, glasses, a comfort toy for a small child, a head torch each. Keep shared items in one place on the list so nobody packs three stoves and no pan. After the trip, edit the list while it is fresh: cross off what you never touched and add what you wished you had. After two or three trips it fits how your family actually camps.</p>
+      </details>
+      <details class="faq-item">
+        <summary>What should I wear camping at night when it gets cold?</summary>
+        <p>Pack for sitting still, not for walking. Camping is the one outdoor activity where you spend hours doing almost nothing after dark, which is exactly when the temperature drops fastest — so bring a warmer layer than you think, a hat, and something on your feet other than the boots you walked in. Dry socks matter more than an extra jacket, because feet that got damp during the day will feel cold all evening.</p>
+      </details>
+      <details class="faq-item">
+        <summary>Do I really need a sleeping mat, or is the sleeping bag enough?</summary>
+        <p>You need the mat. Cold ground draws heat out of you directly, and your body weight flattens the sleeping bag's insulation underneath you to almost nothing, so the bag cannot do its job where you are lying on it. A modest bag on a good insulating mat is warmer than an expensive bag on a thin one.</p>
+      </details>
+      <details class="faq-item">
+        <summary>How far in advance should I pack for a camping trip?</summary>
+        <p>Run the checklist a few days before, then again as you load the car. The early pass is what catches the problems you can still solve — empty stove fuel, dead torch batteries, a tent you have never pitched. The second pass is what stops things being left on the kitchen table.</p>
+      </details>
+      <details class="faq-item">
+        <summary>What is the one thing I should not skip before a camping trip?</summary>
+        <p>Tell one person where you are going and when you expect to be back, and send it as a message so it is written down rather than remembered. It costs nothing, weighs nothing, and it is the single thing that most shortens a search if anything goes wrong. Pitching your tent once at home before you go is a close second.</p>
+      </details>
+      <p style="margin-top:22px;">
+        Still stuck? <a href={url('/contact/')}>Ask us</a> — we answer in English and there is no mailing list.
+      </p>
     </div>
   </section>
+
 </BaseLayout>
