@@ -3,7 +3,7 @@ title: "How to Purify Water in the Wild (And What Doesn't Work)"
 description: "Boiling, filtering and chemical treatment compared — what each one actually removes, why cloth filtering alone is not enough, and the order to do them in."
 keyword: "how to purify water in the wild"
 pubDate: 2026-08-02
-updatedDate: 2026-08-27
+updatedDate: 2026-08-26
 relatedSlugs: ["how-to-build-an-emergency-shelter", "how-to-start-a-fire-without-matches", "camping-first-aid-basics", "base-layer-vs-mid-layer-explained"]
 ---
 

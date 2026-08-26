@@ -3,7 +3,7 @@ title: "How Much Water to Carry Hiking (And Why Rationing Backfires)"
 description: "How to think about water on a hike — what changes the answer, why dehydration hits your judgement first, and when carrying more beats treating more."
 keyword: "how much water to carry hiking"
 pubDate: 2026-08-15
-updatedDate: 2026-08-27
+updatedDate: 2026-08-26
 relatedSlugs: ["survival-games-for-family-camping", "how-to-teach-kids-camping-skills", "wilderness-navigation-basics", "packing-list-for-a-weekend-camping-trip"]
 ---
 

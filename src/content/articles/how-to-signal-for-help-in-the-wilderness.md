@@ -3,11 +3,21 @@ title: "How to Signal for Help in the Wilderness (Get Big, Not Loud)"
 description: "How to be found: why you stay put, what actually reflects, why everything comes in threes, and how to make yourself readable from the air."
 keyword: "how to signal for help in the wilderness"
 pubDate: 2026-08-06
-updatedDate: 2026-08-27
+updatedDate: 2026-08-26
 relatedSlugs: ["what-to-do-if-you-get-lost-hiking", "desert-survival-tips", "cold-weather-survival-basics", "hiking-outfit-ideas-by-season"]
 ---
 
 If someone knows your route and expects you back, staying put and making yourself visible is almost always right. Wandering is what turns a short search into a long one.
+
+Being found is a separate skill from surviving, and it is the one people prepare for least. Most of what follows costs nothing and weighs nothing — it is knowledge and a whistle, not equipment.
+
+## Stay put, and why
+
+The single most useful thing you can do is stop moving, provided someone knows roughly where you went and when you were due back.
+
+A search starts from your last known position and works outward. Every hour you spend walking makes that area larger, and a searcher who has already covered the ground you are now standing on will not come back to it. Groups that stay put are found far more easily than groups that keep moving toward what they believe is the way out.
+
+The exceptions are narrow: move if where you are is genuinely dangerous, if you need shelter and there is none, or if nobody knows you are missing and you must reach somewhere you can be seen. If you do move, leave a marker showing the direction and the time.
 
 ## Three of everything
 
@@ -61,6 +71,20 @@ If a helicopter is coming in, secure anything loose. Rotor downwash will lift a 
 Sound travels better across water, along valleys and at night when the air is still, and badly into wind or over a ridge. If a first round of whistle blasts gets no response, try again from higher ground or from a spot with a clear line down a valley before you conclude nobody is there.
 
 Listen properly between rounds. Blow three blasts, then stay completely silent for a full minute. People signalling continuously never hear the reply.
+
+## Signalling at night
+
+Light carries much further in the dark than anything does in daylight, and it costs very little.
+
+A head torch flashed in threes is visible a long way in open country. The strobe setting most torches have is worth knowing about before you need it. A fire is visible further still, but only if it is somewhere with a clear line of sight — a fire in a hollow is a fire nobody sees.
+
+Sleep in shifts if there are enough of you, so someone is always awake to respond to a sound or a light. And keep one light in reserve. Running every torch flat during the first night leaves you with nothing for the second.
+
+## Prepare the signal before you need it
+
+Whatever you plan to use, get it ready while you have daylight and energy. Gather green vegetation for smoke and keep it dry. Lay out the ground shapes. Put the whistle around your neck rather than in the pack. Decide where you would stand to catch the sun with a mirror.
+
+Doing this early matters because the moment you actually hear an aircraft, you have perhaps a minute — and that is not enough time to start collecting damp branches.
 
 ## The phone
 

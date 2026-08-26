@@ -3,7 +3,7 @@ title: "What to Do If You Get Lost Hiking (The First Ten Minutes)"
 description: "The first thing to do when you realise you are lost is stop walking — here is the sequence that follows, and how to decide between staying put and moving."
 keyword: "what to do if you get lost hiking"
 pubDate: 2026-08-07
-updatedDate: 2026-08-27
+updatedDate: 2026-08-26
 relatedSlugs: ["desert-survival-tips", "cold-weather-survival-basics", "how-to-read-clouds-for-weather", "how-many-layers-to-wear-hiking"]
 ---
 

@@ -3,7 +3,7 @@ title: "Packing Checklist for Your First Camping Trip (Keep It Simple)"
 description: "A packing checklist for your first camping trip, focused on the essentials that actually matter — shelter, sleep, clothing layers, food, and safety — without the overwhelm."
 keyword: "packing checklist for first camping trip"
 pubDate: 2026-08-20
-updatedDate: 2026-08-27
+updatedDate: 2026-08-26
 relatedSlugs: ["car-camping-packing-list", "packing-list-for-a-weekend-camping-trip", "outdoor-clothing-mistakes-beginners-make", "flash-flood-safety-for-campers"]
 ---
 

@@ -3,7 +3,7 @@ title: "How to Build an Emergency Shelter (Start With the Floor)"
 description: "How to build a shelter that actually keeps you warm — why insulation underneath matters more than the roof, and three shelters you can build with what you carry."
 keyword: "how to build an emergency shelter"
 pubDate: 2026-08-03
-updatedDate: 2026-08-27
+updatedDate: 2026-08-26
 relatedSlugs: ["how-to-start-a-fire-without-matches", "camping-first-aid-basics", "how-to-signal-for-help-in-the-wilderness", "best-fabrics-for-outdoor-layering"]
 ---
 

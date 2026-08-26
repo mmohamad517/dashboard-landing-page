@@ -3,7 +3,7 @@ title: "How to Find North Without a Compass (Three Methods That Work)"
 description: "Three practical ways to find north without a compass — the shadow-stick method, an analogue watch, and the night sky — plus how accurate each one really is."
 keyword: "how to find north without a compass"
 pubDate: 2026-08-01
-updatedDate: 2026-08-27
+updatedDate: 2026-08-26
 relatedSlugs: ["how-to-purify-water-in-the-wild", "how-to-build-an-emergency-shelter", "how-to-start-a-fire-without-matches", "backpacking-packing-checklist"]
 ---
 

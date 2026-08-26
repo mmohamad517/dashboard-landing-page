@@ -3,7 +3,7 @@ title: "Wilderness Navigation Basics (What to Learn Before the Compass)"
 description: "Navigation for beginners: staying found rather than getting unlost, handrails and catching features, and the offline prep that matters most."
 keyword: "wilderness navigation basics"
 pubDate: 2026-08-18
-updatedDate: 2026-08-27
+updatedDate: 2026-08-26
 relatedSlugs: ["how-long-can-you-survive-without-food", "common-camping-mistakes-beginners-make", "how-to-find-north-without-a-compass", "what-to-wear-for-cold-weather-camping"]
 ---
 

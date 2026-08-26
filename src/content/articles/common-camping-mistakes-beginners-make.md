@@ -3,7 +3,7 @@ title: "Common Camping Mistakes Beginners Make (Almost None Involve Gear)"
 description: "The mistakes that actually cause problems on beginner camping trips — where the tent goes, the turnaround time, and the message nobody sent."
 keyword: "common camping mistakes beginners make"
 pubDate: 2026-08-20
-updatedDate: 2026-08-27
+updatedDate: 2026-08-26
 relatedSlugs: ["how-to-find-north-without-a-compass", "how-to-purify-water-in-the-wild", "how-to-build-an-emergency-shelter", "winter-hiking-layering-system"]
 ---
 

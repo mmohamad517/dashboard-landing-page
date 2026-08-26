@@ -3,7 +3,7 @@ title: "Survival Kit Checklist for Camping (What Earns Its Weight)"
 description: "A survival kit checklist organised by what each item actually prevents — and an honest note about which popular items are mostly reassurance."
 keyword: "survival kit checklist for camping"
 pubDate: 2026-08-12
-updatedDate: 2026-08-27
+updatedDate: 2026-08-26
 relatedSlugs: ["how-to-avoid-dangerous-wildlife-while-camping", "flash-flood-safety-for-campers", "how-much-water-to-carry-hiking", "lightweight-packing-list-for-backpacking"]
 ---
 

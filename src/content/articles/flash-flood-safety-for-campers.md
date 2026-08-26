@@ -3,7 +3,7 @@ title: "Flash Flood Safety for Campers (The Danger Under a Clear Sky)"
 description: "Why flash floods catch experienced campers, how to choose a campsite that will not flood, and what to do when water starts rising."
 keyword: "flash flood safety for campers"
 pubDate: 2026-08-14
-updatedDate: 2026-08-27
+updatedDate: 2026-08-26
 relatedSlugs: ["how-much-water-to-carry-hiking", "survival-games-for-family-camping", "how-to-teach-kids-camping-skills", "packing-checklist-for-first-camping-trip"]
 ---
 

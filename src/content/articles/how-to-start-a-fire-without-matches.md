@@ -3,7 +3,7 @@ title: "How to Start a Fire Without Matches (Preparation Beats Technique)"
 description: "Why almost every failed fire is a tinder failure, how to use a ferro rod, and an honest assessment of friction fire for beginners."
 keyword: "how to start a fire without matches"
 pubDate: 2026-08-04
-updatedDate: 2026-08-27
+updatedDate: 2026-08-26
 relatedSlugs: ["camping-first-aid-basics", "how-to-signal-for-help-in-the-wilderness", "what-to-do-if-you-get-lost-hiking", "car-camping-packing-list"]
 ---
 
