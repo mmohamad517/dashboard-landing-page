@@ -60,11 +60,19 @@ const versusFree = [
   },
 ];
 
+// Absolute URLs, built the same way SEO.astro builds the canonical so they stay
+// correct on the custom domain and on the Pages project subpath alike.
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const site = Astro.site?.toString().replace(/\/$/, '') ?? 'https://bestoutdoorwears.com';
+const abs = (path: string) => `${site}${base}${path}`;
+
 const structuredData = {
   '@context': 'https://schema.org',
   '@type': 'Product',
   name: 'TrailReady — The Complete Outdoor Kit',
   description: 'A layering and packing system for five trip types, a working conditions spreadsheet, and an 89-card survival skills deck with its guide — one download.',
+  // Google wants more than one aspect ratio; these are the 1:1 and 16:9 covers.
+  image: [abs('/images/trailready-product-1x1.jpg'), abs('/images/trailready-product-16x9.jpg')],
   brand: { '@type': 'Brand', name: 'Best OutDoor Wears' },
   offers: {
     '@type': 'Offer',
@@ -72,6 +80,15 @@ const structuredData = {
     priceCurrency: 'USD',
     availability: 'https://schema.org/InStock',
     url: CHECKOUT_URL,
+    // Mirrors the refund promise already published on /terms/: 14 days, no fee.
+    hasMerchantReturnPolicy: {
+      '@type': 'MerchantReturnPolicy',
+      returnPolicyCategory: 'https://schema.org/MerchantReturnFiniteReturnWindow',
+      merchantReturnDays: 14,
+      returnFees: 'https://schema.org/FreeReturn',
+    },
+    // No shippingDetails: this is an instant download with no shipping at all.
+    // Declaring a shipping rate would describe a delivery that does not happen.
   },
 };
 ---
