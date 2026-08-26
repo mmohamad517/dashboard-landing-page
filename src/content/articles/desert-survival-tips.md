@@ -3,7 +3,7 @@ title: "Desert Survival Tips: Shade, Water and the Vehicle You Should Not Leave"
 description: "How desert survival differs from everywhere else — why you travel at night, why you stay with the vehicle, and how fast dehydration takes your judgement."
 keyword: "desert survival tips"
 pubDate: 2026-08-08
-updatedDate: 2026-08-08
+updatedDate: 2026-08-26
 relatedSlugs: ["cold-weather-survival-basics", "how-to-read-clouds-for-weather", "campfire-cooking-recipes-for-beginners", "how-to-choose-a-hiking-jacket"]
 ---
 
@@ -15,13 +15,31 @@ A car is visible from the air and from a distance. A person walking is not. It g
 
 Do not spin the wheels in soft sand — you dig yourself in deeper with every second. Lower tyre pressure for soft ground and reinflate afterwards. Keep water inside the vehicle, not only in a pack.
 
+The pull to walk out is strong and it is almost always wrong. It usually comes from a belief that help is closer than it is, and desert distances are notoriously deceptive — clear air makes landmarks look far nearer than they are. People set out for a ridge that looks like an hour's walk and are still short of it at nightfall, now without shade, water storage, or anything visible from the air.
+
+If you genuinely must leave — and this should be a last resort after waiting, signalling and being certain no one is coming — leave a written note on the vehicle stating the direction, the time, and the number of people. Travel at night, and follow a linear feature you can navigate back along.
+
+## Before you go: the part that prevents all of this
+
+Most desert emergencies are decided before anyone leaves home.
+
+Tell someone your route and when you expect to be back, specifically enough that they can describe it to a search team. Carry considerably more water than the trip should need. Check the spare tyre before setting out rather than in the dark. Take a means of signalling that does not depend on phone coverage, because in most desert country there isn't any.
+
+None of this is dramatic preparation. It is the boring kind, and it is what the outcome usually turns on.
+
 ## Travel in the cool, rest in the heat
 
 If you must move, move at dawn, dusk or night. Resting in shade through the hottest hours and walking when it is cool can dramatically reduce how much water you lose, and dehydration takes your decision-making long before it takes your legs.
 
+That last point deserves emphasis, because it is the mechanism behind most bad desert decisions. Dehydration does not announce itself as thirst and then politely wait. It degrades judgement early — the person becomes less able to assess their situation exactly when assessment matters most. Decisions made late in a hot day by someone short of water are made by a person who is already impaired.
+
+Which means: make the important decisions early, while you are still fresh, and write them down if you can.
+
 ## Shade, made not found
 
 There often is not any. Make it: a tarp, a space blanket, an open car door, a poncho over a bush. Get off the ground too — sand surface temperature runs far above air temperature, so a raised or insulated seat matters.
+
+Two layers of shade with a gap of air between them work better than one, because the top layer takes the sun and the gap lets the heat escape rather than radiating straight down onto you. A car's interior in direct sun becomes hotter than the air outside, so the shade beside or under the vehicle is usually better than the shade inside it.
 
 ## Water
 
@@ -29,9 +47,20 @@ Carry more than you think. Drink it rather than rationing it into uselessness �
 
 Look for water where the landscape says it should be: the outside bend of a dry watercourse, the lowest point of unusually green vegetation, converging animal tracks. Dig in shade, in the cool part of the day, and treat everything you find.
 
+A few things that do not work, and are worth knowing so you do not spend energy on them:
+
+- **Solar stills** produce far too little water for the effort and water lost digging them.
+- **Cactus** is not a water source in the way the stories suggest. Most are not drinkable and some will make you considerably worse off.
+- **Drinking urine** concentrates waste your body just worked to remove.
+- **Rationing water while you still have it** is the classic error. People have been found dead with water still in the bottle.
+
+Sweating less is worth more than finding water. Almost everything else in this article is really about that.
+
 ## Cover up
 
 Loose, light, long clothing beats bare skin. It slows evaporation from your skin, which is water you keep. Cover your head and the back of your neck.
+
+Stripping down in extreme heat feels right and costs you water. Long sleeves, a brimmed hat and a covered neck reduce both direct sun and the rate at which sweat evaporates straight off you. Keep footwear on — sand surfaces reach temperatures that burn.
 
 ## Flash floods
 
@@ -40,3 +69,13 @@ The strangest desert danger. Rain in hills you cannot see can send water down a 
 ## Nights are cold
 
 Deserts lose heat fast after sunset. People who prepared thoroughly for heat and not at all for cold have a bad night. Pack a warm layer.
+
+Clear skies and dry air that make the day brutal are exactly what make the night cold — there is nothing to hold the heat once the sun goes. A group equipped only for heat, spending an unplanned night out, ends up dealing with a cold problem instead. One warm layer per person and something to sit on takes almost no space and covers it.
+
+## Signalling
+
+Being found is the goal, and a vehicle plus a signal beats a walking person every time.
+
+Anything that contrasts with the ground works from the air — a space blanket, bright fabric, a large shape marked out in stones. Three of anything is a recognised distress signal. A mirror or any reflective surface aimed at an aircraft carries an extraordinary distance, and it costs nothing to keep one where you can reach it.
+
+The full kit pairs this with the [Survival Cards](/product/) deck — so you're not only packed right, you know what to do when the day goes sideways.
