@@ -1,7 +1,42 @@
+# bestoutdoorwears.com — everything here is public and free to read.
+
 User-agent: Googlebot
 Allow: /
 
 User-agent: Bingbot
+Allow: /
+
+# AI assistants and their crawlers, allowed explicitly. Two jobs are separate:
+# training crawlers, and the retrieval bots that fetch a page to answer a live
+# question and cite it. The second is the one that can send readers here.
+User-agent: OAI-SearchBot          # ChatGPT search
+Allow: /
+
+User-agent: ChatGPT-User           # ChatGPT fetching a page for a user
+Allow: /
+
+User-agent: GPTBot                 # OpenAI crawler
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Google-Extended        # Gemini grounding
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Amazonbot
 Allow: /
 
 User-agent: *
