@@ -3,7 +3,7 @@ title: "How to Avoid Dangerous Wildlife While Camping (Noise and Food Storage)"
 description: "Most bad wildlife encounters start with surprise or with food. How to avoid both, and why the correct response varies by species and region."
 keyword: "how to avoid dangerous wildlife while camping"
 pubDate: 2026-08-13
-updatedDate: 2026-08-13
+updatedDate: 2026-08-27
 relatedSlugs: ["flash-flood-safety-for-campers", "how-much-water-to-carry-hiking", "survival-games-for-family-camping", "outdoor-clothing-mistakes-beginners-make"]
 ---
 
@@ -38,6 +38,36 @@ One large bag for all food means one thing to secure.
 The correct response genuinely varies by species and region — what is right for one large mammal is wrong for another, and advice that circulates online is often confidently wrong for where you are standing.
 
 Read the guidance for the specific area you are visiting. Land management agencies publish it, and it is short.
+
+## Choosing where to pitch
+
+Where you put the tent does more than anything you do afterwards.
+
+Avoid pitching directly on an animal trail — a narrow, worn line through vegetation is a road, and things will use it at night. Avoid berry patches, fruiting trees, and the immediate edge of water where animals come to drink. Avoid anywhere with obvious sign: droppings, tracks, scratched bark, or the remains of something's meal.
+
+Keep the tent upwind of the cooking area if you can, and put reasonable distance between where you cook, where you store food and where you sleep. On popular sites, use the food storage the site provides — it exists because the problem is real there.
+
+## Do not feed anything, ever
+
+This includes leaving scraps, tipping out washing-up water near camp, and the well-meant handful of crisps for the bold bird or the friendly fox.
+
+An animal that learns people mean food stops being wary, starts approaching, and eventually becomes a problem animal — which usually ends with it being destroyed. The phrase used by rangers is blunt and accurate: a fed animal is a dead animal. It also makes the site more dangerous for whoever camps there next month.
+
+## At night
+
+Keep a torch within reach, and use it before you leave the tent rather than after. Most night encounters are noise rather than threat: mice in the porch, deer moving through, a fox investigating.
+
+If something is outside and you would rather it left, make yourself heard from inside — voice, a pot banged — rather than opening the door to look. Almost everything wants to leave, and the safest thing you can do is make leaving easy.
+
+Do not keep food in the tent, including the snack in your jacket pocket and the toothpaste in your washbag. Mice will chew through fabric to reach either.
+
+## Snakes, briefly
+
+Where snakes are present, most bites happen to hands and lower legs and a good share involve someone handling or trying to kill the animal.
+
+The practical rules are simple: watch where you put hands and feet, especially on rock, in long grass and around log piles; step onto rocks rather than over them so you can see the far side; and never handle a snake, alive or apparently dead.
+
+If someone is bitten: keep them calm and as still as possible, keep the limb below heart level, remove rings and watches before swelling starts, and get them to medical help as fast as you can. Do not cut, suck, apply ice or use a tourniquet — all of those do harm. Anti-venom and the correct treatment vary by species and region, so a description or a photograph taken from a safe distance is useful, but never take a risk to get one.
 
 ## Smaller things, bigger problems
 

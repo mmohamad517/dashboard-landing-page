@@ -3,7 +3,7 @@ title: "Flash Flood Safety for Campers (The Danger Under a Clear Sky)"
 description: "Why flash floods catch experienced campers, how to choose a campsite that will not flood, and what to do when water starts rising."
 keyword: "flash flood safety for campers"
 pubDate: 2026-08-14
-updatedDate: 2026-08-14
+updatedDate: 2026-08-27
 relatedSlugs: ["how-much-water-to-carry-hiking", "survival-games-for-family-camping", "how-to-teach-kids-camping-skills", "packing-checklist-for-first-camping-trip"]
 ---
 
@@ -41,6 +41,34 @@ Leave the kit. All of it.
 Never drive into moving water of unknown depth. It takes remarkably little to float a car, and once it floats it goes where the water goes. Most flood deaths involving vehicles happen this way, at crossings the driver had used before.
 
 Turn around and take the long way.
+
+## Why it is so much more powerful than it looks
+
+Moving water carries far more force than people expect. Water only a few tens of centimetres deep, moving quickly, is enough to knock an adult off their feet — and once you are off your feet in a channel, you are being carried rather than wading.
+
+Flood water is also opaque and full of debris. What looks like a shallow crossing hides scoured holes, rocks, branches and fence wire, and the bed you remember from a dry visit may have been rearranged in the last hour.
+
+This is why the rule is never to enter moving water of unknown depth on foot either — not just in a vehicle. Turning back always looks over-cautious right up until it does not.
+
+## Slot canyons and narrow ground
+
+Narrow canyons concentrate everything. Water that would spread harmlessly across open ground rises fast and violently when it is squeezed between rock walls, and there is often nowhere to climb out for long stretches.
+
+If a route takes you through narrow ground in a catchment that could receive rain, check the forecast for the whole catchment, know where your exits are before you enter, and be willing to abandon the route on a forecast rather than on what you can see.
+
+## After the water passes
+
+The danger does not end when the level drops. Ground is undercut and unstable, banks collapse without warning, and debris piles shift when disturbed.
+
+Storms also arrive in waves — a second surge behind the first is common, and people are caught returning for kit between them. Wait, and stay high. Kit is replaceable and it is not worth going back for.
+
+If you are cut off but safe, staying put and signalling is the right call. Attempting to cross to get back to a vehicle is how people who survived the flood get into trouble afterwards.
+
+## Teach it before the trip
+
+If you are camping in dry country with a group or with children, say this out loud before you pitch, not after: we do not camp in the channel, and if you hear a roar or see the water move, you go up the side and away from the channel immediately, without gathering anything and without waiting for anyone.
+
+Point at the escape route together while it is still light. Ten seconds of hesitation is the whole margin, and people hesitate when they have not been told what to do.
 
 ## Choosing a site
 
