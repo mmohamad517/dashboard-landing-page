@@ -3,7 +3,7 @@ title: "How to Start a Fire Without Matches (Preparation Beats Technique)"
 description: "Why almost every failed fire is a tinder failure, how to use a ferro rod, and an honest assessment of friction fire for beginners."
 keyword: "how to start a fire without matches"
 pubDate: 2026-08-04
-updatedDate: 2026-08-04
+updatedDate: 2026-08-27
 relatedSlugs: ["camping-first-aid-basics", "how-to-signal-for-help-in-the-wilderness", "what-to-do-if-you-get-lost-hiking", "car-camping-packing-list"]
 ---
 
@@ -33,6 +33,38 @@ Works well in direct sun and not at all otherwise. Focus the smallest, brightest
 A bow drill is a real skill and worth learning. It is also the wrong thing to depend on. Most people need many attempts in ideal conditions with correctly chosen wood before they get an ember, and wet weather makes it dramatically harder.
 
 Learn it at home, for the satisfaction and because the understanding transfers. Carry a ferro rod for the trip.
+
+## Finding dry tinder when everything is wet
+
+This is the situation the skill actually exists for, and it has answers.
+
+**Look for standing dead wood, not wood on the ground.** Dead branches still attached to a tree, snapped off at head height, are usually dry inside even after days of rain. Anything lying on soil has been wicking water up into itself.
+
+**Split down to the dry core.** The outside of a wet stick is wet; the inside is not. Batoning a piece open and shaving the pale dry heart into feathers gives you tinder when the whole forest looks soaked.
+
+**Look under cover.** The underside of a fallen log, the dead lower branches inside a dense conifer, the dry litter at the base of a big tree, the papery bark peeling off a birch — all stay dry longer than open ground.
+
+**Resin-rich wood burns wet.** The knots and stumps of pine hold concentrated resin, catch readily and burn hot enough to dry what is around them.
+
+## Carry tinder so you never have to hunt
+
+The reliable move is to bring your own. Cotton wool with petroleum jelly worked through it, a few strips of birch bark, a candle stub, or commercial fire-lighting cubes all weigh nothing and live in a sealed bag in your kit. Prepared tinder turns a difficult fire into an easy one, and it is the cheapest insurance on this page.
+
+## Lay the fire so it can breathe
+
+Fire needs air from underneath. Build on a platform of dry sticks rather than directly on cold wet ground, keep the structure open enough for air to move through it, and resist packing the kindling tight.
+
+A small teepee of thin kindling around the tinder nest catches fastest. Once it is going, lay progressively thicker sticks across it rather than dropping a big piece on top and smothering it.
+
+## When it will not catch
+
+Work through these in order rather than striking harder:
+
+1. **Is the tinder genuinely fine and genuinely dry?** Nine times out of ten this is it.
+2. **Is there air underneath?** Lift the nest, or rebuild on a stick platform.
+3. **Is the kindling too thick for the flame you have?** Go thinner than feels reasonable.
+4. **Is wind blowing the heat away, or is there no air at all?** Shelter it, or open it up.
+5. **Are you rushing the transition?** Most fires die in the seconds between tinder and kindling, because the next size up was not ready to hand.
 
 ## Fire rules come first
 

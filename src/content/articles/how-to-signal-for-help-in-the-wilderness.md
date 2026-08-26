@@ -3,7 +3,7 @@ title: "How to Signal for Help in the Wilderness (Get Big, Not Loud)"
 description: "How to be found: why you stay put, what actually reflects, why everything comes in threes, and how to make yourself readable from the air."
 keyword: "how to signal for help in the wilderness"
 pubDate: 2026-08-06
-updatedDate: 2026-08-06
+updatedDate: 2026-08-27
 relatedSlugs: ["what-to-do-if-you-get-lost-hiking", "desert-survival-tips", "cold-weather-survival-basics", "hiking-outfit-ideas-by-season"]
 ---
 
@@ -37,6 +37,30 @@ From the air, a person is almost invisible. What reads is scale and shape.
 ## Fire and smoke
 
 Fire is visible at night; smoke is visible by day. Green vegetation or damp material makes thick white smoke; rubber or oil makes black. Keep the material to hand and add it when you actually hear or see something, rather than burning your supply on an empty sky.
+
+## Ground-to-air signs
+
+If you can hear or see aircraft searching, there is a small set of ground signals worth knowing. Make them large — several metres per stroke — with high contrast, using kit, trampled snow, rocks or branches:
+
+- **V** — I need assistance.
+- **X** — I need medical assistance.
+- **An arrow** — I am travelling in this direction.
+
+Keep them in open ground rather than under tree cover, and lie beside them where you can be seen rather than inside a shelter.
+
+## Once you have been spotted
+
+Movement is what confirms you are alive and needs help. Keep signalling until the aircraft or party clearly acknowledges you — a wing dip, a circle, a returned flash — rather than stopping at the first sight of them.
+
+Then stay where you are. Moving after you have been located is one of the more frustrating ways a rescue goes wrong, because the search restarts from a position you have already left.
+
+If a helicopter is coming in, secure anything loose. Rotor downwash will lift a foil blanket, a tarp or a loose jacket straight into the aircraft.
+
+## Sound carries differently than you think
+
+Sound travels better across water, along valleys and at night when the air is still, and badly into wind or over a ridge. If a first round of whistle blasts gets no response, try again from higher ground or from a spot with a clear line down a valley before you conclude nobody is there.
+
+Listen properly between rounds. Blow three blasts, then stay completely silent for a full minute. People signalling continuously never hear the reply.
 
 ## The phone
 
