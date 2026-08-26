@@ -3,7 +3,7 @@ title: "Common Camping Mistakes Beginners Make (Almost None Involve Gear)"
 description: "The mistakes that actually cause problems on beginner camping trips — where the tent goes, the turnaround time, and the message nobody sent."
 keyword: "common camping mistakes beginners make"
 pubDate: 2026-08-20
-updatedDate: 2026-08-20
+updatedDate: 2026-08-27
 relatedSlugs: ["how-to-find-north-without-a-compass", "how-to-purify-water-in-the-wild", "how-to-build-an-emergency-shelter", "winter-hiking-layering-system"]
 ---
 
@@ -49,6 +49,28 @@ A pack heavy enough to end the trip early has its own risk. Every "just in case"
 The tent nobody has pitched. The stove nobody has lit. The boots straight out of the box. First time should not be in the dark, in the rain, at the end of a long day.
 
 Pitch it in the garden. Light it in the kitchen. Walk the boots in.
+
+## Pitching too late and too fast
+
+Rushing the pitch causes most of the rest. A tent put up in a hurry gets guyed badly, sited on a slope, or pegged into ground that will not hold — and you find out at two in the morning in wind.
+
+Take five minutes before you unpack anything. Walk the spot. Is it flat, and flat in the direction you will lie? Is there anything overhead? Where will water go if it rains hard? Which way is the wind, and does the door face away from it? Five minutes there saves an hour later.
+
+## Treating the forecast at home as the forecast there
+
+Conditions at a campsite in a valley, or on ground a few hundred metres higher, are not the conditions in the town where you checked. Wind and temperature change fastest with exposure and elevation, and the overnight low is the number that matters for camping — not the daytime high everyone reads.
+
+Check the low. Check the wind. Then pack for those, not for the sunny afternoon you are imagining.
+
+## Building the fire wrong, or where it is not allowed
+
+Two separate mistakes. Fire rules vary enormously by region and season, and open fires are banned outright in many places for part of the year — check before you plan an evening around one.
+
+And when a fire is allowed, most beginners build it too big. A small fire you can sit close to is warmer, uses far less wood, and is much easier to put out properly. Put it out properly: soak it, stir it, soak it again, and feel the ashes with the back of your hand before you leave it.
+
+## Leaving food where animals can reach it
+
+Food in a tent is the reliable way to have an animal in or on your tent. Store it sealed and away from where you sleep — in the car if you have one, or hung well clear if the site advises it. This is as much about mice and foxes as anything larger, and mice will chew through a pack to reach a forgotten cereal bar.
 
 ## Ignoring the early signs
 
