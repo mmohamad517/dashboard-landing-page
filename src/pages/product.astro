@@ -83,9 +83,14 @@ const structuredData = {
     // Mirrors the refund promise already published on /terms/: 14 days, no fee.
     hasMerchantReturnPolicy: {
       '@type': 'MerchantReturnPolicy',
+      // The English-speaking markets this product is actually sold into.
+      applicableCountry: ['US', 'GB', 'CA', 'AU'],
       returnPolicyCategory: 'https://schema.org/MerchantReturnFiniteReturnWindow',
       merchantReturnDays: 14,
       returnFees: 'https://schema.org/FreeReturn',
+      // No returnMethod. Its only permitted values are ReturnByMail,
+      // ReturnInStore and ReturnAtKiosk, and this is an instant download
+      // with nothing to send back. Any of the three would be false.
     },
     // No shippingDetails: this is an instant download with no shipping at all.
     // Declaring a shipping rate would describe a delivery that does not happen.
