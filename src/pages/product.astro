@@ -85,12 +85,11 @@ const structuredData = {
       '@type': 'MerchantReturnPolicy',
       // The English-speaking markets this product is actually sold into.
       applicableCountry: ['US', 'GB', 'CA', 'AU'],
-      returnPolicyCategory: 'https://schema.org/MerchantReturnFiniteReturnWindow',
-      merchantReturnDays: 14,
-      returnFees: 'https://schema.org/FreeReturn',
-      // No returnMethod. Its only permitted values are ReturnByMail,
-      // ReturnInStore and ReturnAtKiosk, and this is an instant download
-      // with nothing to send back. Any of the three would be false.
+      // This must match /terms exactly. An instant download is not
+      // returnable, so no return window, no return fee and no return
+      // method are declared - all three only describe sending something
+      // back, which never happens here.
+      returnPolicyCategory: 'https://schema.org/MerchantReturnNotPermitted',
     },
     // No shippingDetails: this is an instant download with no shipping at all.
     // Declaring a shipping rate would describe a delivery that does not happen.
@@ -142,6 +141,11 @@ const structuredData = {
         <p class="affiliate-note">
           Secure checkout on Whop. Instant download — both parts arrive the moment you pay, and
           corrections go out free to everyone who has bought it.
+        </p>
+        <p class="affiliate-note">
+          Because it downloads instantly, the kit is <strong>non-refundable</strong> — try the free sample
+          above first. If a file fails to download or isn't what this page describes, contact us and we'll
+          fix it. Full <a href={url('/terms/')}>terms</a>.
         </p>
       </div>
     </div>
