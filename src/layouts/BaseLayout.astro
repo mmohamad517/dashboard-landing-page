@@ -22,7 +22,14 @@ const { title, description, canonicalPath, ogImage, structuredData } = Astro.pro
 const face = (family: string, style: string, weight: number, file: string) => `
     @font-face {
       font-family: "${family}";
-      font-style: ${style}; font-weight: ${weight}; font-display: swap;
+      font-style: ${style}; font-weight: ${weight};
+      /* optional, not swap: swap let the fallback paint first and then
+         reflowed every text block when the real font arrived, which was a
+         fixed 0.108 mobile CLS whenever the font was even slightly late.
+         optional measures 0.000 - the cost is that a first-time visitor on a
+         slow connection may read the fallback for that visit; the font is
+         cached from then on. Desktop is unaffected either way. */
+      font-display: optional;
       src: url("${url(`/fonts/${file}`)}") format("woff2");
     }`;
 
