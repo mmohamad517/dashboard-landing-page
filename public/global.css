@@ -203,3 +203,10 @@ a:focus-visible, button:focus-visible, summary:focus-visible { outline: 2px soli
   font-size: 1.02rem; text-transform: none; letter-spacing: 0;
   font-family: "Source Serif 4", Georgia, serif; font-weight: 600;
 }
+
+/* The decorative card fan in KitMockup deliberately overhangs its container,
+   which on a narrow screen pushed the page ~80px wider than the viewport and
+   let the whole page scroll sideways. `clip` stops that without creating a
+   scroll container, so sticky positioning and in-page anchor links still work
+   (`hidden` would break them). */
+html, body { overflow-x: clip; }

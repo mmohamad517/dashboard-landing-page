@@ -1,6 +1,12 @@
 ---
 import SEO from '../components/SEO.astro';
 import { url } from '../lib/paths';
+import { readFileSync } from 'node:fs';
+
+// global.css is 3.2 KB gzipped. Loaded as a separate async file it arrived
+// after first paint and moved the whole page down - the dominant cause of a
+// 0.226 desktop CLS. Inlining it removes both the request and the shift.
+const globalCss = readFileSync(new URL('../../public/global.css', import.meta.url), 'utf8');
 
 interface Props {
   title: string;
@@ -143,8 +149,7 @@ const fontFaceCss = [
   </style>
 
   <!-- Remaining CSS: non-blocking -->
-  <link rel="preload" as="style" href={url('/global.css?v=1')} onload="this.onload=null;this.rel='stylesheet'" />
-  <noscript><link rel="stylesheet" href={url('/global.css?v=1')} /></noscript>
+  <style is:inline set:html={globalCss} />
 </head>
 <body>
   <header class="site">
