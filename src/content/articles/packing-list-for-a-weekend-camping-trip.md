@@ -4,7 +4,7 @@ description: "A weekend camping packing list for a 2-night trip — clothing for
 keyword: "packing list for a weekend camping trip"
 pubDate: 2026-08-13
 updatedDate: 2026-08-25
-relatedSlugs: ["car-camping-packing-list", "packing-checklist-for-first-camping-trip", "backpacking-packing-checklist", "how-much-water-to-carry-hiking"]
+relatedSlugs: ["car-camping-packing-list", "packing-checklist-for-first-camping-trip", "backpacking-packing-checklist", "how-much-water-to-carry-hiking", "camping-packing-list-by-trip-length"]
 ---
 
 A weekend camping trip — typically two nights — needs enough clothing and supplies for two full days without tipping into the over-preparation of a week-long packing list, which is the most common mistake first-time weekend campers make.

@@ -4,7 +4,7 @@ description: "An overnight backpacking packing checklist covering layering, shel
 keyword: "backpacking packing checklist"
 pubDate: 2026-08-04
 updatedDate: 2026-08-25
-relatedSlugs: ["lightweight-packing-list-for-backpacking", "day-hike-packing-list", "how-to-choose-a-hiking-jacket", "how-to-find-north-without-a-compass"]
+relatedSlugs: ["lightweight-packing-list-for-backpacking", "day-hike-packing-list", "how-to-choose-a-hiking-jacket", "how-to-find-north-without-a-compass", "camping-packing-list-by-trip-length"]
 ---
 
 Overnight backpacking adds three categories to a day hike list — shelter, a sleep system, and cooking gear — and changes the clothing question from "what do I wear for a few hours" to "what do I wear through a full day and a cold night," which is where most beginners either overpack or get genuinely cold.
