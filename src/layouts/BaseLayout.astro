@@ -65,13 +65,16 @@ const fontFaceCss = [
 
   {/* TEMPORARY - AvantLink affiliate application 1644873, ownership check.
       Homepage only, because that is the only page their verifier reads.
-      Their snippet specifies http://, which every browser blocks as mixed
-      content on an https page, so it is served over https instead; the
-      authResponse token is unchanged. DELETE THIS the moment the
+      Reproduced verbatim, http:// included. Serving it over https first
+      failed their check, which reads the tag out of the HTML and appears
+      to match the src literally. A browser will refuse to execute it as
+      mixed content, which does not matter: nothing on the page depends
+      on it and it is gone as soon as the check passes.
+      DELETE THIS the moment the
       application is confirmed - it is a third-party script and this site
       carries none otherwise. */}
   {canonicalPath === '/' && (
-    <script is:inline type="text/javascript" src="https://classic.avantlink.com/affiliate_app_confirm.php?mode=js&authResponse=5f61ed0c036aca9ce18b52811a301e37f34e8a2c"></script>
+    <script is:inline type="text/javascript" src="http://classic.avantlink.com/affiliate_app_confirm.php?mode=js&authResponse=5f61ed0c036aca9ce18b52811a301e37f34e8a2c"></script>
   )}
 
   <!-- Self-hosted fonts: preload only the weights used above the fold -->
