@@ -93,9 +93,18 @@ git push -u origin claude/digital-product-complete-qrnw9f
 git checkout main && git merge --ff-only claude/... && git push origin main
 ```
 
+git checkout claude/digital-product-complete-qrnw9f  # ALWAYS end here
+
 Pushing `main` triggers `.github/workflows/deploy.yml` → GitHub Pages.
 Develop on `claude/digital-product-complete-qrnw9f`; `main` is the deploy
 branch and stays a fast-forward of it.
+
+**Switch back to the development branch as the last step of every deploy.**
+This has been got wrong three times: the deploy sequence ends on `main`, the
+next change is then committed straight to `main`, and the branches diverge.
+Nothing is lost when that happens — `git merge main` from the development
+branch repairs it, never a reset — but check `git branch --show-current`
+before committing rather than relying on remembering.
 
 Commit messages explain *why*, name what was verified, and state anything
 that could not be verified. Never put a model name in a commit, a PR, or
