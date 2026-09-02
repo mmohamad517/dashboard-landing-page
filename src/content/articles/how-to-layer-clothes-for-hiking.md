@@ -4,7 +4,7 @@ description: "A step-by-step guide to layering clothes for hiking — base, mid,
 keyword: "how to layer clothes for hiking"
 pubDate: 2026-08-01
 updatedDate: 2026-08-25
-relatedSlugs: ["base-layer-vs-mid-layer-explained", "how-many-layers-to-wear-hiking", "best-fabrics-for-outdoor-layering", "how-to-read-clouds-for-weather"]
+relatedSlugs: ["base-layer-vs-mid-layer-explained", "how-many-layers-to-wear-hiking", "best-fabrics-for-outdoor-layering", "how-to-read-clouds-for-weather", "what-is-a-base-layer"]
 ---
 
 Layering for hiking means wearing three functional layers — a moisture-wicking base layer, an insulating mid layer, and a wind/rain-blocking shell — and adding or removing each one independently as your effort level and the weather change, instead of picking one fixed "outfit" for the whole hike.

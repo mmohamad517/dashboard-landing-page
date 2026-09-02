@@ -4,7 +4,7 @@ description: "The best fabrics for outdoor layering by layer type — base, mid,
 keyword: "best fabrics for outdoor layering"
 pubDate: 2026-08-12
 updatedDate: 2026-08-25
-relatedSlugs: ["base-layer-vs-mid-layer-explained", "how-to-layer-clothes-for-hiking", "rain-jacket-vs-shell-jacket", "how-to-build-an-emergency-shelter"]
+relatedSlugs: ["base-layer-vs-mid-layer-explained", "how-to-layer-clothes-for-hiking", "rain-jacket-vs-shell-jacket", "how-to-build-an-emergency-shelter", "what-is-a-base-layer"]
 ---
 
 The best outdoor layering fabrics share one property depending on the layer: base layers need to wick moisture, mid layers need to trap air without holding water, and shells need to block wind and water while still letting vapor escape — and cotton fails at nearly all three, which is why it's the one fabric outdoor guides consistently warn against.

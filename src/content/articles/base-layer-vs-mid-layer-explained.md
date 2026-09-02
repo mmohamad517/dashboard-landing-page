@@ -4,7 +4,7 @@ description: "Base layer vs mid layer for hiking, explained clearly: what each o
 keyword: "base layer vs mid layer explained"
 pubDate: 2026-08-08
 updatedDate: 2026-08-25
-relatedSlugs: ["how-to-layer-clothes-for-hiking", "best-fabrics-for-outdoor-layering", "how-many-layers-to-wear-hiking", "how-to-purify-water-in-the-wild"]
+relatedSlugs: ["how-to-layer-clothes-for-hiking", "best-fabrics-for-outdoor-layering", "how-many-layers-to-wear-hiking", "how-to-purify-water-in-the-wild", "what-is-a-base-layer"]
 ---
 
 A base layer's job is moving sweat off your skin so you stay dry; a mid layer's job is trapping the warm air your body produces so you stay warm. They solve different problems, which is why swapping a thick base layer in for a mid layer (or the reverse) usually leaves you either damp or cold, even though both are "just a shirt" on the surface.
