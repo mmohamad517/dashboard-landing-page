@@ -77,3 +77,17 @@ Food in a tent is the reliable way to have an animal in or on your tent. Store i
 Someone going quiet, fumbling with a zip, or making poor decisions is telling you something before they can say it. So is a headache in the heat.
 
 The pattern worth memorising: **confusion means stop and act**, in the heat and in the cold alike.
+
+## Quick answers
+
+**What are the most common camping mistakes beginners make?**
+Most are not about missing gear — they are about not adjusting to changing conditions, ignoring early warning signs from your own body, and packing without a plan for how items will actually get used.
+
+**What is a warning sign people ignore while camping?**
+Someone going quiet, fumbling with a zip, or making poor decisions — these are early confusion signs, in heat or cold, and mean stop and act rather than push on.
+
+**Do beginners overpack or underpack more often?**
+Both, in different areas — usually overpacking comfort items while underpacking the food, fuel or dry-clothing margin that actually causes problems later in a trip.
+
+**What is the single most useful habit for a first-time camper?**
+Noticing small problems early — a damp sock, a slightly-too-cold evening, a headache in the heat — rather than waiting until they become large ones.

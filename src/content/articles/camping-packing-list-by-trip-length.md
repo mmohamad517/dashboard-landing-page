@@ -109,4 +109,18 @@ Every extra item costs you on every step of the trip, and the cost compounds wit
 
 If you are trimming, trim from clothing and comfort items first. Never trim from the fixed list.
 
+## Quick answers
+
+**Does a longer camping trip need more clothes?**
+Not proportionally — clothing barely scales with trip length beyond one spare set and a drying plan. Food and fuel are what actually grow with each extra day.
+
+**What changes most between a weekend and a week-long trip?**
+Past about four days, the question shifts from what to pack to where you resupply — carrying a full week of food and fuel from the start is rarely the lightest or most enjoyable option.
+
+**What never changes regardless of trip length?**
+The core fixed list: layering system, shelter and sleep system, first aid, navigation, water treatment and a headtorch. Only the consumables scale with days.
+
+**What is the biggest packing mistake on longer trips?**
+Doubling the clothing list instead of planning food, fuel and a drying routine — clothing is rarely what runs short on a longer trip.
+
 The full kit pairs this with the [Survival Cards](/product/) deck — so you're not only packed right, you know what to do when the day goes sideways.

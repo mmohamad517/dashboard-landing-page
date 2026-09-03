@@ -76,3 +76,17 @@ Point at the escape route together while it is still light. Ten seconds of hesit
 - Not at the base of a slope where runoff concentrates.
 - Look at the ground: debris caught in bushes, scoured banks or a clear high-water line tells you exactly how high water has been.
 - Know your escape route before dark.
+
+## Quick answers
+
+**How do you choose a campsite to avoid flash floods?**
+High ground, away from drainage channels and not at the base of a slope where runoff concentrates — and check the ground itself for debris caught in bushes or a clear high-water line.
+
+**Can a flash flood happen without rain where you are camping?**
+Yes — rain in hills or mountains out of sight can send water down a dry riverbed under a clear sky where you are standing. Never camp in a dry watercourse for this reason.
+
+**What are the warning signs of a flash flood?**
+A sudden change in water clarity or a rising water sound upstream, debris moving in previously dry channels, or a fast weather change in hills above your position.
+
+**Should I ever camp in a dry riverbed?**
+No, never — a dry watercourse is exactly where flash flood water concentrates, regardless of how clear or safe it looks when you arrive.

@@ -75,4 +75,18 @@ Work backwards from the coldest and wettest moment you might realistically face,
 
 Answer those three honestly and the seasonal label matters far less than it appears to.
 
+## Quick answers
+
+**What should I wear hiking in each season?**
+The same base-mid-shell system year-round, adjusted by fabric weight and how many pieces you actually wear — not four separate wardrobes for four seasons.
+
+**Do I need different hiking clothes for spring versus fall?**
+Less than you'd think — both demand the same versatile layering system, though spring leans on the shell more and fall demands a genuinely warm evening layer.
+
+**What hiking clothing works across every season?**
+A good base layer, a packable mid layer, and a wind or rain shell — the pieces stay the same, only the weight and how many you wear at once changes.
+
+**How do I decide what to pack for a hike regardless of season?**
+Ask three questions: how cold will it be when you stop moving, what is the wind and rain risk, and how long will you be out including after dark.
+
 The full kit pairs this with the [Survival Cards](/product/) deck — so you're not only packed right, you know what to do when the day goes sideways.

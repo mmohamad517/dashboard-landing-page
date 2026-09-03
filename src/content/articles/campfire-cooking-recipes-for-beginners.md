@@ -70,3 +70,17 @@ When you do have a fire: keep it small, keep water or soil within arm's reach, n
 - **Prep at home.** Chop, mix dry ingredients, pre-portion. Doing it in the dark with cold hands is miserable.
 - **One large zip bag** for all dry food — it opens flat as a clean surface, and it is one thing to hang away from animals.
 - **Two sticks** work as tongs for a hot pot. Practise on a cold one; a spilled pot of boiling water is a common camp burn.
+
+## Quick answers
+
+**What is easy campfire cooking for beginners?**
+One-pot meals and foil-wrapped food, prepped at home so the only work left at camp is heating and combining — chopping and measuring in the dark with cold hands is the part beginners struggle with.
+
+**What pot is best for campfire cooking?**
+A wide, shallow pot with a lid. It boils faster and uses less fuel than a deep, narrow one for the same amount of food.
+
+**How do I prep camp meals in advance?**
+Chop, mix dry ingredients, and pre-portion everything at home, then store it in one large zip bag per meal — flat, easy to hang away from animals, and quick to open as a clean surface.
+
+**What is a common campfire cooking mistake?**
+Handling a hot pot without proper tongs. Two sticks work, but practise on a cold pot first — a spilled pot of boiling water is one of the most common camp burns.

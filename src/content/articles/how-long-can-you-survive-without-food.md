@@ -74,4 +74,18 @@ Seek medical help immediately, and do not wait to see whether it improves. Take 
 
 That last point is the one that matters most, and it is the cheapest thing in this article. A day of food that requires no stove, no water and no preparation weighs very little and lives permanently in the bottom of your pack. It turns the entire question of wild food into something you never have to think about — which, given everything above, is exactly where you want it.
 
+## Quick answers
+
+**How long can a person survive without food?**
+Far longer than without water, and vastly longer than without shelter in bad conditions — the exact number varies by person, but the ranking of priorities does not.
+
+**Is food or water more urgent in a survival situation?**
+Water, by a wide margin. Dehydration affects judgement and worsens cold tolerance long before hunger becomes dangerous.
+
+**Why shouldn't I forage for food if I get hungry outdoors?**
+The risk of misidentifying a plant or mushroom far outweighs the small amount of energy foraging provides, and the time is better spent on shelter, water and being found.
+
+**What is the easiest way to avoid the food question outdoors?**
+Carry a day of spare food that needs no cooking. It weighs very little and removes the entire question before it becomes one.
+
 The full kit pairs this with the [Survival Cards](/product/) deck — so you're not only packed right, you know what to do when the day goes sideways.
