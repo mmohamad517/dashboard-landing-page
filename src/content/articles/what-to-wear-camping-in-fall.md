@@ -62,4 +62,18 @@ Pack for the coldest hour of the trip (usually just before dawn), not the averag
 
 Check the overnight low, not the daytime high, and build the kit from there. Everything you need for the warm afternoon is a subset of what you need for the cold hour before dawn, so packing in that direction never leaves you short.
 
+## Quick answers
+
+**What should I wear camping in fall?**
+Light layers for the mild daytime hours plus a genuinely warm layer reserved for evening, since fall days can swing 30 degrees between afternoon and the hour before dawn.
+
+**How cold does it get camping in fall?**
+It varies by region and elevation, but the coldest point is reliably just before dawn — pack for that hour, not the daytime high.
+
+**Do I need a warmer sleeping bag for fall camping than summer?**
+Rate it for the overnight low, not the average temperature. The average will not catch you off guard; one unexpectedly cold night will.
+
+**What is the most common fall camping mistake?**
+Packing for the pleasant afternoon and getting caught by the cold, damp evening — build the kit around the cold hour first, and the warm hours take care of themselves.
+
 The full kit pairs this with the [Survival Cards](/product/) deck — so you're not only packed right, you know what to do when the day goes sideways.

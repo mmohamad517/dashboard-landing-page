@@ -74,3 +74,17 @@ Dew wiped off clean vegetation with a cloth at dawn is slow but real, and in dry
 Follow the landscape downhill. Look for greener, denser vegetation than the ground around it. Check the outside bend of a dry watercourse and dig at the lowest shaded point. Insect traffic and converging animal tracks are better indicators than any single plant.
 
 Dig in shade, in the cool part of the day. Sweating out more water than you find is a real risk in dry country.
+
+## Quick answers
+
+**How do you purify water in the wild?**
+Boiling is the method that works everywhere and handles every biological threat. A proper filter or chemical treatment are the alternatives when boiling is not practical.
+
+**How long do you need to boil water to purify it?**
+Reaching a rolling boil matters more than timing it precisely — once it is boiling, it is safe, and holding it a little longer at high altitude is sensible.
+
+**Can you purify water without boiling it?**
+Yes — a rated water filter or chemical treatment tablets both work, though a filter alone will not remove viruses in some regions and tablets need real contact time to work.
+
+**Is cloth filtering enough to make water safe?**
+No. Cloth, a bandana or a coffee filter removes sediment and grit only — it is a preparation step before boiling or treatment, not a treatment on its own.

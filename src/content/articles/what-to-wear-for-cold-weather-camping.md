@@ -67,4 +67,18 @@ Treat "what I hike in" and "what I sleep in" as two separate systems, not one ou
 
 Everything else in this article is detail. If you only take one thing away, take that.
 
+## Quick answers
+
+**What should I wear for cold weather camping?**
+Two separate systems: an active daytime layering setup for hiking and camp chores, and a completely separate warm, dry set reserved only for sleeping.
+
+**Can I sleep in the same clothes I hiked in?**
+Not if you want to stay warm. Even slightly damp daytime layers noticeably reduce how warm a sleeping bag keeps you overnight.
+
+**What is the biggest mistake people make dressing for cold camping?**
+Treating daytime and nighttime clothing as one outfit. Splitting them into two separate systems prevents most of the discomfort beginners report.
+
+**Do I need a separate jacket just for camp?**
+Yes, ideally — a dedicated insulated layer put on the moment you stop moving, since your heat production drops sharply once you are sedentary.
+
 The full kit pairs this with the [Survival Cards](/product/) deck — so you're not only packed right, you know what to do when the day goes sideways.

@@ -76,3 +76,17 @@ Statistically, ticks, mosquitoes, wasps and rodents cause far more trouble than 
 - Check for ticks daily, and remove them with fine tweezers, straight out, close to the skin.
 - Know the signs of a serious allergic reaction — swelling of face, lips or throat, or breathing difficulty — and treat that as an emergency.
 - Keep food sealed so rodents do not chew through your pack for it.
+
+## Quick answers
+
+**What wildlife is actually dangerous while camping?**
+Statistically, ticks, mosquitoes, wasps and rodents cause far more trouble than large mammals — most "wildlife" risk at camp is small, not dramatic.
+
+**How do I keep animals away from my campsite?**
+Keep food sealed and stored away from your tent so rodents and larger animals have no reason to investigate, and keep a clean camp generally.
+
+**What should I do if I find a tick on me?**
+Remove it with fine tweezers, pulling straight out close to the skin, and check daily during any multi-day trip since ticks are often found late rather than immediately.
+
+**When is an animal encounter actually an emergency?**
+Signs of a serious allergic reaction — swelling of the face, lips or throat, or difficulty breathing, usually from a sting — should be treated as an emergency regardless of how minor the initial encounter seemed.

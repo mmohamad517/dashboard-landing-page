@@ -81,3 +81,17 @@ It takes one afternoon, it costs nothing, and it converts equipment you are carr
 ## When it goes wrong
 
 Stop walking. Sit down. [The first ten minutes matter more than the next two hours](/articles/what-to-do-if-you-get-lost-hiking/).
+
+## Quick answers
+
+**What are the basics of wilderness navigation?**
+Reading a map against the actual landscape, knowing roughly where north is, and tracking your position as you move rather than only checking at the end when you are already unsure.
+
+**Do I need a compass if I have a phone with GPS?**
+A phone is fine while it has battery and signal, but a downloaded offline map and a basic compass skill cover you when it does not — carry both rather than relying on one.
+
+**How do I stop myself from getting lost while hiking?**
+Check your position against the map regularly rather than only when something looks wrong, and note landmarks and junctions as you pass them, not just at the start.
+
+**What should I do first if I think I am lost?**
+Stop walking and sit down before doing anything else. The first ten minutes of staying calm and staying put matter more than the next two hours of searching for the trail yourself.
