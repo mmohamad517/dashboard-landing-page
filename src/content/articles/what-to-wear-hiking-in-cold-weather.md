@@ -66,4 +66,18 @@ A cold-weather day pack should hold three things you may never touch: the puffy,
 
 That is the difference between an uncomfortable few hours and a genuine emergency, and it fits in a corner of the pack.
 
+## Quick answers
+
+**What should I wear hiking in cold weather?**
+The full base-mid-shell system in heavier weights, plus real attention to hands, feet and head — extremities cool fastest once you stop moving.
+
+**What should always be in a cold-weather day pack even if I never use it?**
+A puffy insulated jacket, spare socks and gloves, and a foil blanket or bivvy bag — together they weigh very little and cover an unplanned stop from injury, a wrong turn, or waiting for someone.
+
+**Why do cold-weather emergencies usually happen?**
+Being stationary in the cold for longer than planned — an injury, a wrong turn or waiting for someone — turns a manageable hike into a real emergency far more often than the cold alone.
+
+**How do I stay warm when I stop moving in cold weather?**
+Put on a dedicated warm layer immediately, before you feel cold — your heat production drops sharply the moment you stop, and insulation only traps heat you still have.
+
 The full kit pairs this with the [Survival Cards](/product/) deck — so you're not only packed right, you know what to do when the day goes sideways.

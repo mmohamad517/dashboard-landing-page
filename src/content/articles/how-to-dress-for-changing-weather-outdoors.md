@@ -72,4 +72,18 @@ A small number of versatile, purpose-built layers beats a large number of single
 
 The system works because it is adjustable. Its value is unlocked entirely by your willingness to adjust it.
 
+## Quick answers
+
+**How do you dress for weather that keeps changing outdoors?**
+Carry a small set of versatile layers — base, mid, shell — that recombine to cover a wide range of conditions, rather than packing a separate outfit for every possible forecast.
+
+**Why does mountain weather change faster than the forecast?**
+Forecasts are least reliable exactly where outdoor recreation happens — elevation, mountains and large bodies of water all shift conditions faster than a forecast updates.
+
+**Should I add a layer before or after I start feeling cold?**
+Before. Proactive changes at the first sign of a shift are far more comfortable than reactive ones made once you are already cold or wet.
+
+**Is it worth carrying an extra layer I might not need?**
+Yes — one additional versatile piece is cheap insurance against a weather shift, especially on longer or more remote trips where turning back is not simple.
+
 The full kit pairs this with the [Survival Cards](/product/) deck — so you're not only packed right, you know what to do when the day goes sideways.

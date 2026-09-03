@@ -69,3 +69,17 @@ Work through these in order rather than striking harder:
 ## Fire rules come first
 
 Fire regulations vary enormously by region and season, and in many places open fires are banned outright for part of the year. Check before you light anything, keep water within reach, and never leave a flame unattended.
+
+## Quick answers
+
+**How do you start a fire without matches?**
+A ferro rod or similar spark source lit against dry, fine tinder, with kindling already staged and ready before you strike the first spark — the transition from tinder to kindling is where most attempts fail.
+
+**Why do fires without matches usually fail?**
+Rushing the transition between tinder and the next size of fuel. Most fires die in the seconds after the tinder catches, because the kindling was not ready to hand.
+
+**What tinder works best for starting a fire without matches?**
+Anything fine, dry and highly flammable — check whether wind is blowing the heat away or whether there is no airflow at all, and shelter or open the fire accordingly.
+
+**Are open fires always allowed outdoors?**
+No — regulations vary significantly by region and season, and open fires are banned outright in many places for part of the year. Always check before lighting anything.

@@ -63,4 +63,18 @@ Adopt the three-layer system (base, mid, shell) as a default rather than relearn
 
 Once you think of your clothing as three independent controls you adjust through the day rather than an outfit you choose in the morning, most of this becomes automatic.
 
+## Quick answers
+
+**What is the most common outdoor clothing mistake beginners make?**
+Treating clothing as one fixed outfit chosen in the morning, rather than three independent layers (base, mid, shell) adjusted through the day as conditions change.
+
+**Do I need expensive gear to avoid common clothing mistakes?**
+No — most of the mistakes covered are about system and habit, not gear quality. A cheap layer used correctly beats an expensive one used the wrong way.
+
+**How do I stop making the same layering mistakes every trip?**
+Default to the three-layer system automatically rather than relearning each situation individually — most beginner mistakes are the same underlying error appearing in different forms.
+
+**What single change fixes the most beginner clothing mistakes?**
+Thinking of clothing as three adjustable controls rather than a fixed outfit — once that shift happens, most of the individual mistakes stop occurring on their own.
+
 The full kit pairs this with the [Survival Cards](/product/) deck — so you're not only packed right, you know what to do when the day goes sideways.
