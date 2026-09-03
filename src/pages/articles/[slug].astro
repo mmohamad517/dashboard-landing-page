@@ -19,6 +19,23 @@ const related = article.data.relatedSlugs
   .map((slug) => allArticles.find((a) => a.slug === slug))
   .filter(Boolean);
 
+// Derived from the article's own "## Quick answers" section, if it has one,
+// rather than duplicated in frontmatter - one source of text, so the visible
+// answer and the schema answer can never drift apart. New articles pick this
+// up automatically the moment they add the section, no template change needed.
+function extractFaq(markdown: string) {
+  const section = markdown.match(/^## Quick answers\n([\s\S]*?)(?=\n## )/m);
+  if (!section) return [];
+  const pairs = [...section[1].matchAll(/\*\*(.+?)\*\*\n([\s\S]*?)(?=\n\*\*|\n*$)/g)];
+  return pairs.map(([, question, answer]) => ({
+    question: question.trim(),
+    // Strip markdown links down to their visible text - schema text should read as plain prose.
+    answer: answer.trim().replace(/\[([^\]]+)\]\([^)]+\)/g, '$1'),
+  }));
+}
+
+const faq = extractFaq(article.body);
+
 const structuredData = [
   {
     '@context': 'https://schema.org',
@@ -39,6 +56,15 @@ const structuredData = [
       { '@type': 'ListItem', position: 3, name: article.data.title, item: `https://bestoutdoorwears.com/articles/${article.slug}/` },
     ],
   },
+  ...(faq.length > 0 ? [{
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faq.map((f) => ({
+      '@type': 'Question',
+      name: f.question,
+      acceptedAnswer: { '@type': 'Answer', text: f.answer },
+    })),
+  }] : []),
 ];
 ---
 <BaseLayout
