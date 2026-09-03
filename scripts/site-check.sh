@@ -65,6 +65,19 @@ for asset in $(grep -rhoE '(href|src)="/(downloads|images)/[^"]+"' dist --includ
 done
 [ "$BROKEN" -eq 0 ] && echo "  all internal links and assets resolve"
 
+# A future pubDate/updatedDate feeds a future datePublished/dateModified into
+# Article schema. This has happened twice by hand-typing "today" wrong when
+# writing a new article - check it mechanically instead of trusting memory.
+echo
+echo "Checking for future-dated articles..."
+TODAY=$(date +%Y-%m-%d)
+FUTURE=$(grep -hoE '^(pub|updated)Date: [0-9-]+' src/content/articles/*.md 2>/dev/null | awk -v t="$TODAY" '{if ($2 > t) print}')
+if [ -n "$FUTURE" ]; then
+  echo "  FUTURE-DATED (today is $TODAY):"; echo "$FUTURE" | sed 's/^/    /'; BROKEN=1
+else
+  echo "  no article dated after today ($TODAY)"
+fi
+
 # Nothing in docs/, scripts/ or CLAUDE.md may ever reach the public site.
 echo
 echo "Checking that internal docs are not published..."

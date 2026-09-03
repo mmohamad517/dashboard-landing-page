@@ -2,8 +2,8 @@
 title: "Hardshell vs Softshell Jacket: Which One You Actually Need"
 description: "Hardshell vs softshell jackets explained plainly — what each one is built to do, when to carry which, and why owning both solves a problem neither one solves alone."
 keyword: "hardshell vs softshell jacket"
-pubDate: 2026-09-06
-updatedDate: 2026-09-06
+pubDate: 2026-09-03
+updatedDate: 2026-09-03
 relatedSlugs: ["rain-jacket-vs-shell-jacket", "how-to-choose-a-hiking-jacket", "how-to-layer-clothes-for-hiking", "what-to-wear-hiking-in-cold-weather"]
 ---
 

@@ -2,8 +2,8 @@
 title: "What Is a Base Layer? A Plain Answer (And How to Pick One)"
 description: "What a base layer actually is, what it does, and how to choose one — merino, synthetic or blend, how it should fit, and why cotton is the one fabric to avoid."
 keyword: "what is a base layer"
-pubDate: 2026-09-06
-updatedDate: 2026-09-06
+pubDate: 2026-09-03
+updatedDate: 2026-09-03
 relatedSlugs: ["base-layer-vs-mid-layer-explained", "how-to-layer-clothes-for-hiking", "best-fabrics-for-outdoor-layering", "what-to-wear-hiking-in-cold-weather"]
 ---
 
