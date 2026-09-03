@@ -75,3 +75,17 @@ Teach them the rule that matters most before you ever need it: **if you are lost
 ## What not to do
 
 Do not walk after dark in rough ground. Do not split the group. Do not push on to "just have a look" past the point where turning back is easy. And do not start foraging — [food is the last priority](/articles/how-long-can-you-survive-without-food/), and the risk is real.
+
+## Quick answers
+
+**What should you do if you get lost hiking?**
+Stop moving and stay where you are rather than continuing to search for the trail yourself — a stationary person is found far faster than someone who keeps walking.
+
+**Should I keep walking if I think I am lost?**
+No. Stop, sit down, and make noise or signal instead. Continuing to move, especially after dark or on rough ground, usually makes a search longer and harder.
+
+**What is the most important rule to teach a child about getting lost?**
+If you are lost, stay where you are and make noise. A child who stays put is found quickly; a child who wanders is the hardest kind of search.
+
+**Is it safe to look for food if you are lost?**
+No — foraging is the last priority and carries real risk from misidentification. [Food is rarely the actual emergency](/articles/how-long-can-you-survive-without-food/); staying found is.

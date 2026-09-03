@@ -106,4 +106,18 @@ Assemble the kit, then leave it assembled in its own bag so it moves between tri
 
 Then, once, use it. Light the ferro rod. Blow the whistle. Get inside the bivvy bag in the garden. Ten minutes now is the difference between carrying equipment and carrying objects.
 
+## Quick answers
+
+**What should be in a survival kit for camping?**
+The core items that cover fire, water, signalling, first aid and shelter — assembled once, kept packed as its own bag, and checked rather than rebuilt before every trip.
+
+**How often should you check a survival kit?**
+Twice a year, checking three things that fail silently: batteries, first aid kit expiry dates, and whether the lighter still lights.
+
+**Should I actually practise using my survival kit?**
+Yes — light the ferro rod, blow the whistle, get inside the bivvy bag once at home. Ten minutes of practice is the difference between carrying equipment and carrying objects you have never used.
+
+**Where should I keep my survival kit?**
+Packed as its own dedicated bag that moves between trips without being unpacked, so it is never accidentally missing an item borrowed for something else.
+
 The full kit pairs this with the [Survival Cards](/product/) deck — so you're not only packed right, you know what to do when the day goes sideways.

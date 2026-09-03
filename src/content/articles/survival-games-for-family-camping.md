@@ -78,4 +78,18 @@ The other thing worth doing: let the adults be wrong in front of the children at
 
 Nobody retains a lecture delivered in a car park. Everybody retains the evening they were confidently wrong in front of their family — and that is a much better place to be wrong than on a trail.
 
+## Quick answers
+
+**What survival games can you play while camping?**
+Timed shelter or knot challenges, priority-ranking a set of scenarios as a group, and a "do it blind" round where kids attempt a skill before being shown the method — all teach more than a straight lecture.
+
+**What age are camping survival games appropriate for?**
+Adjust the format rather than the topic — younger children do well with short, physical, non-competitive rounds; older kids and teens respond better to real responsibility, like being handed the map.
+
+**Are survival games safe for kids?**
+Yes with limits: keep flame and knives under direct adult control, never make wild food part of a game, and keep any "lost" scenario clearly pretend rather than realistic.
+
+**Why do games teach camping skills better than explaining them?**
+People remember being confidently wrong far more vividly than being told the right answer — the game creates a moment worth remembering, a lecture usually does not.
+
 The full kit pairs this with the [Survival Cards](/product/) deck — so you're not only packed right, you know what to do when the day goes sideways.

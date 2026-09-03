@@ -96,4 +96,18 @@ Go to bed warm rather than expecting the bag to warm you — a bag traps the hea
 4. Know the hypothermia signs well enough to spot them in someone else.
 5. Turn back earlier than feels necessary. Cold problems compound.
 
+## Quick answers
+
+**What are the basics of cold weather survival?**
+Manage sweat before it becomes a problem, get off the ground and out of wind whenever you stop, eat and drink before you feel you need to, and know hypothermia's early signs well enough to spot them in someone else.
+
+**What is the biggest mistake people make in cold weather?**
+Sweating through their layers during activity and then stopping — wet insulation loses its warmth fast, and that combination is the most common route to genuinely dangerous cold.
+
+**What are the early signs of hypothermia?**
+Uncontrollable shivering, fumbling with zips or buckles, going quiet or stumbling, and poor decisions or slurred words. Shivering that stops while someone is still cold is a serious sign, not an improvement.
+
+**How do you treat someone who is dangerously cold?**
+Get them out of the wind and off the ground, swap wet layers for dry ones, and give a warm sweet drink only if they are fully alert. Anyone confused or no longer shivering needs emergency help.
+
 The full kit pairs this with the [Survival Cards](/product/) deck — so you're not only packed right, you know what to do when the day goes sideways.

@@ -98,4 +98,18 @@ Then stay where you are if you safely can. Moving after making the call is one o
 
 Across nearly every scenario above, the same two signs mean *stop improvising and call*: **confusion**, and **anything that is getting worse rather than better**.
 
+## Quick answers
+
+**What should be in a basic camping first aid kit?**
+Dressings and tape for real bleeding control, blister care, gloves, and any personal medication the group needs — plus a foil blanket and a whistle.
+
+**When should you call for help instead of treating something yourself?**
+Two signs cover nearly every scenario: confusion, and anything getting worse rather than better. Either one means stop improvising and call.
+
+**Can a first aid article replace a first aid course?**
+No. It is a map of likely situations and hard limits, not training — a hands-on course teaches the physical skills and judgement that reading alone cannot.
+
+**What is the most common camping injury?**
+Blisters, by a wide margin — not dangerous, but the most common reason a trip ends early, and easily prevented by treating a hot spot the moment you feel it.
+
 The full kit pairs this with the [Survival Cards](/product/) deck — so you're not only packed right, you know what to do when the day goes sideways.
