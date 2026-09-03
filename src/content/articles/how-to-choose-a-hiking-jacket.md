@@ -4,7 +4,7 @@ description: "How to choose a hiking jacket by matching it to the conditions you
 keyword: "how to choose a hiking jacket"
 pubDate: 2026-08-17
 updatedDate: 2026-08-25
-relatedSlugs: ["rain-jacket-vs-shell-jacket", "best-fabrics-for-outdoor-layering", "outdoor-clothing-mistakes-beginners-make", "desert-survival-tips"]
+relatedSlugs: ["rain-jacket-vs-shell-jacket", "best-fabrics-for-outdoor-layering", "outdoor-clothing-mistakes-beginners-make", "desert-survival-tips", "hardshell-vs-softshell-jacket"]
 ---
 
 Choosing a hiking jacket starts with one question: what job is it doing — blocking wind, blocking rain, or providing insulation — because a single jacket rarely does all three well, and buying based on that question prevents the common mistake of overspending on one "do everything" jacket.

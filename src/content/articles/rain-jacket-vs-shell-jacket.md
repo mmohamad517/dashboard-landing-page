@@ -4,7 +4,7 @@ description: "Rain jacket vs shell jacket for hiking, explained: they solve over
 keyword: "rain jacket vs shell jacket for hiking"
 pubDate: 2026-08-07
 updatedDate: 2026-08-25
-relatedSlugs: ["how-to-choose-a-hiking-jacket", "how-to-layer-clothes-for-hiking", "best-fabrics-for-outdoor-layering", "survival-games-for-family-camping"]
+relatedSlugs: ["how-to-choose-a-hiking-jacket", "how-to-layer-clothes-for-hiking", "best-fabrics-for-outdoor-layering", "survival-games-for-family-camping", "hardshell-vs-softshell-jacket"]
 ---
 
 A rain jacket and a hiking shell jacket overlap heavily — both block precipitation — but "shell" is the broader category, including wind-only shells that aren't fully waterproof, and the distinction matters because a jacket built for one job can perform poorly at the other.
