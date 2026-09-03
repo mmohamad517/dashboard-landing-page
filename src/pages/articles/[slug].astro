@@ -44,7 +44,7 @@ const structuredData = [
     '@type': 'Article',
     headline: article.data.title,
     description: article.data.description,
-    author: { '@type': 'Organization', name: article.data.author },
+    author: { '@type': 'Person', name: article.data.author },
     datePublished: article.data.pubDate.toISOString(),
     dateModified: article.data.updatedDate.toISOString(),
     publisher: { '@type': 'Organization', name: 'Best OutDoor Wears' },

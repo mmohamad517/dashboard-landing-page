@@ -8,7 +8,7 @@ const articles = defineCollection({
     keyword: z.string(),
     pubDate: z.date(),
     updatedDate: z.date(),
-    author: z.string().default('BestOutDoorWears Editorial'),
+    author: z.string().default('Mohamad Karaki'),
     relatedSlugs: z.array(z.string()).default([]),
   }),
 });
