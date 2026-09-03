@@ -68,4 +68,18 @@ If a layer's job is to be worn directly against your skin or to keep you warm wh
 
 And if you are choosing between spending money on a better fabric or spending it on a layer you do not own at all, buy the missing layer. A cheap wind shell you have with you beats an excellent one you decided to save up for.
 
+## Quick answers
+
+**What is the best fabric for outdoor layering?**
+Merino wool or synthetic for anything against the skin or holding warmth, chosen based on whether odour resistance (merino) or fast drying and low cost (synthetic) matters more for the trip.
+
+**Why is cotton bad for hiking?**
+It absorbs moisture instead of moving it away from your skin, loses nearly all insulating value once wet, and dries very slowly — a real risk in cold, wet conditions.
+
+**Is merino wool better than synthetic for hiking?**
+Neither is universally better — merino resists odour longer and stays warmer when damp, synthetic dries faster and costs less. The right choice depends on trip length and conditions.
+
+**Does the fabric rule apply to shell jackets too?**
+Less so — a shell's waterproofing comes from its coating or membrane, not the base fabric, so the cotton rule matters far more for base and mid layers than for outer shells.
+
 The full kit pairs this with the [Survival Cards](/product/) deck — so you're not only packed right, you know what to do when the day goes sideways.

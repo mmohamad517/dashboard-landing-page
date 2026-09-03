@@ -71,4 +71,18 @@ Buying second-hand is also reasonable for shells and fleeces, where wear is easy
 
 If you can only buy one thing and you have no idea, buy a light wind shell. It is the cheapest, smallest and most frequently useful item in this whole category, and it solves the most common real problem: being cold because of wind rather than temperature.
 
+## Quick answers
+
+**What is the best jacket for hiking if I can only buy one?**
+A light wind shell. It is the cheapest, smallest and most frequently useful piece in this category, and it solves the most common real problem — being cold from wind rather than low temperature.
+
+**What jacket do I need for cold, dry hiking?**
+A down insulated jacket, since down performs best when weight matters and moisture is not a concern.
+
+**What jacket do I need for cold, wet conditions?**
+A synthetic insulated jacket — synthetic insulation keeps some warmth even when damp, unlike down.
+
+**Do I need a waterproof jacket and an insulated jacket separately?**
+Usually yes — a shell blocks wind and rain, an insulated jacket adds warmth, and they solve different problems even though both are commonly called "hiking jackets."
+
 The full kit pairs this with the [Survival Cards](/product/) deck — so you're not only packed right, you know what to do when the day goes sideways.

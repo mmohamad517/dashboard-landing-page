@@ -78,4 +78,18 @@ Being found is the goal, and a vehicle plus a signal beats a walking person ever
 
 Anything that contrasts with the ground works from the air — a space blanket, bright fabric, a large shape marked out in stones. Three of anything is a recognised distress signal. A mirror or any reflective surface aimed at an aircraft carries an extraordinary distance, and it costs nothing to keep one where you can reach it.
 
+## Quick answers
+
+**What are the most important desert survival tips?**
+Stay with your vehicle rather than walking out, travel in the cool hours rather than the heat, make shade rather than searching for it, and drink water rather than rationing it.
+
+**Why should you stay with your vehicle in the desert?**
+It is visible from a distance and from the air in a way a walking person is not, and it gives you shade, shelter and somewhere to store water.
+
+**How much water do you need to survive in the desert?**
+More than you think, and it should be drunk steadily rather than rationed — water in your body does more good than water still in the bottle.
+
+**Is it colder in the desert at night?**
+Yes, often sharply — clear skies and dry air that make the day extreme are exactly what let heat escape fast after sunset, so a warm layer matters even on a hot-weather trip.
+
 The full kit pairs this with the [Survival Cards](/product/) deck — so you're not only packed right, you know what to do when the day goes sideways.

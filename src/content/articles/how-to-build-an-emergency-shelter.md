@@ -75,3 +75,17 @@ Keep something bright outside where it can be seen, and keep your whistle to han
 ## The snow shelter warning
 
 Ventilate it, always. A sealed snow shelter with a stove or even a candle inside can kill you in your sleep through carbon monoxide. Keep the vent clear through the night, and work slowly while digging — sweating into your layers is the fastest way to lose the night.
+
+## Quick answers
+
+**How do you build an emergency shelter in the wild?**
+Prioritise getting off the ground and out of the wind over building anything elaborate — insulation underneath you and a windbreak matter more than a fully enclosed structure.
+
+**What is the biggest danger with snow shelters?**
+Carbon monoxide from any flame or stove used inside without ventilation. Always keep a vent clear, even in a shelter that feels sealed and snug.
+
+**How long does it take to build an emergency shelter?**
+Work slowly and deliberately rather than rushing — sweating through your layers while building it is a faster way to get cold than the weather itself.
+
+**Should an emergency shelter be visible from outside?**
+Yes. Keep something bright outside and your whistle within reach — a shelter that hides you from weather also hides you from anyone searching.

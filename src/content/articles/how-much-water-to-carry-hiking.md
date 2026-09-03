@@ -79,3 +79,17 @@ Children dehydrate faster than adults and are much worse at noticing it, and the
 - Carry it where you will actually use it — a bladder hose or bottles on the shoulder strap beat a bottle at the bottom of your pack.
 - Fill up at every reliable source, even when you are not low.
 - In cold weather, keep it from freezing: bottles upside down, or inside your jacket.
+
+## Quick answers
+
+**How much water should I carry hiking?**
+Enough for the distance, heat and effort level of the specific hike, adjusted upward with a margin for being out longer than planned — there is no single number that fits every trail.
+
+**How do I keep my water from freezing in cold weather?**
+Carry bottles upside down (ice forms away from the cap first) or keep them inside your jacket against your body.
+
+**Where should I carry water on my pack?**
+Somewhere you will actually drink from without stopping and digging — a hose from a bladder or bottles on the shoulder straps work better than a bottle buried at the bottom of the pack.
+
+**Should I ration my water on a hike?**
+No — drink steadily rather than rationing. Water in your body is doing more good than water still in the bottle, and dehydration affects judgement before it affects your legs.
