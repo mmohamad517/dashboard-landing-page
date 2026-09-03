@@ -63,3 +63,17 @@ Checking behind you matters as much: turn round every so often and look at where
 Rough direction is enough to stop you circling, but the habit that actually prevents the problem happens before you leave: download an offline map, screenshot your route, and note the nearest road and the last junction you passed. A screenshot survives a dead data connection.
 
 And if you are genuinely lost and someone knows your route — [staying put and signalling](/articles/what-to-do-if-you-get-lost-hiking/) beats navigating almost every time.
+
+## Quick answers
+
+**How can I find north without a compass?**
+Several low-tech methods work: the shadow-tip method using a stick and the sun's movement, a watch with hands held level and pointed at the sun, or reading which side of solitary trees and rocks carries more moss and lichen as a rough (not exact) indicator.
+
+**Can I find north at night without a compass?**
+Yes — locate the North Star using the Big Dipper as a pointer; it stays fixed while other stars appear to rotate around it.
+
+**How accurate are these methods compared to a compass?**
+Rough direction only, enough to stop you walking in a circle — not precise enough to navigate technical terrain. Treat them as a backup, not a replacement.
+
+**What should I do if I do not trust my direction-finding?**
+Stop rather than guess further. If someone knows your route, [staying put and signalling](/articles/what-to-do-if-you-get-lost-hiking/) is usually the better call than continuing to navigate uncertainly.

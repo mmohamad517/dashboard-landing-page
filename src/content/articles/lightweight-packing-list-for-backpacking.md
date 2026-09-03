@@ -61,4 +61,18 @@ You don't need to hit ultralight benchmarks to notice the difference; cutting ob
 
 The honest goal is not a number. It is being able to walk your intended distance, arrive with energy left, and stop safely if the weather turns — which is a different target for everyone, and one you can only find by walking with your own pack and paying attention.
 
+## Quick answers
+
+**What is a good lightweight backpacking gear list?**
+Start from your existing pack, then cut duplicates and "just in case" items rather than buying new ultralight gear first — most weight savings come free.
+
+**What is considered ultralight backpacking?**
+A base weight (pack contents excluding food, water and fuel) under about 10 pounds by most definitions, though the number matters less than the process of getting there deliberately.
+
+**How do I make my backpacking pack lighter without buying new gear?**
+Weigh what you already carry, remove true duplicates, and question anything packed "just in case" that has never actually been used on a past trip.
+
+**Is lightweight backpacking safe?**
+Yes, as long as the cuts come from redundancy and comfort items rather than from shelter, water treatment, first aid or navigation.
+
 The full kit pairs this with the [Survival Cards](/product/) deck — so you're not only packed right, you know what to do when the day goes sideways.

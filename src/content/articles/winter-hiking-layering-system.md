@@ -68,4 +68,18 @@ Uncontrollable shivering, slurred speech, or fumbling hands are early hypothermi
 
 Impaired judgement is one of the symptoms, which means the affected person is usually the last to suggest turning around. Watch your group rather than waiting to notice it in yourself, and agree before you set off that anyone can call it without needing to win an argument.
 
+## Quick answers
+
+**How many layers should I wear for winter hiking?**
+The same base-mid-shell system as any season, built from heavier fabrics — adjusted by adding or removing the mid layer as your effort changes, not by adding extra layers on top of the system.
+
+**What is the biggest mistake in winter layering?**
+Starting too warm. If you are comfortable standing still at the trailhead, you will likely be sweating within twenty minutes of climbing, and wet insulation in the cold is the actual danger.
+
+**How do I know if I am dressed too warmly for winter hiking?**
+You should feel slightly cool for the first few minutes of walking. Comfortable at the start almost always means overdressed once you are moving.
+
+**What are the early signs of hypothermia to watch for?**
+Uncontrollable shivering, slurred speech, and fumbling hands. Treat any of these as a hard stop — add dry layers, eat something with quick sugar, and turn back.
+
 The full kit pairs this with the [Survival Cards](/product/) deck — so you're not only packed right, you know what to do when the day goes sideways.

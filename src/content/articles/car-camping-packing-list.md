@@ -66,4 +66,18 @@ If an item makes the specific evenings and mornings of this trip better, bring i
 
 And one last check before you drive off: does anyone outside the group know where you are going and when you are back? Car camping feels safe enough that people skip this, but a campsite in a valley with no phone signal is further from help than it looks on the map.
 
+## Quick answers
+
+**What should I bring for car camping that I would not bring backpacking?**
+Comfort items weight would normally rule out — a real camp chair, a cooler, extra clothing layers, and a larger stove — since the car carries the weight instead of you.
+
+**What do people forget when car camping?**
+Telling someone where they are going and when they are back. Car camping feels close to safety, but a valley site with no signal is often further from help than it looks.
+
+**How much food should I bring car camping?**
+More flexibility than backpacking allows, but still worth planning meal by meal rather than guessing — a cooler makes over-packing food easy and wasteful.
+
+**Is car camping good for beginners?**
+Yes — it removes the weight constraint of backpacking, which makes it a lower-pressure way to learn what you actually use before carrying it on your back.
+
 The full kit pairs this with the [Survival Cards](/product/) deck — so you're not only packed right, you know what to do when the day goes sideways.

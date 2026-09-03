@@ -68,4 +68,18 @@ If you're choosing based on the forecast for this specific trip rather than buyi
 
 And if you already own a waterproof that has started letting you down, wash and re-proof it before you buy anything. That single step solves the problem more often than a new purchase does.
 
+## Quick answers
+
+**What is the difference between a rain jacket and a shell jacket?**
+"Shell jacket" is the general category — any outer layer built to block weather rather than add warmth. A rain jacket is one type of shell, built specifically for waterproofing.
+
+**Do I need a rain jacket if I already have a wind shell?**
+For genuine rain, yes — a wind shell blocks wind but is not built to keep sustained rain out the way a proper rain jacket is.
+
+**Why does my rain jacket stop working in the rain?**
+Usually the fabric's water-repellent coating has worn off, so rain soaks the outer face and blocks the membrane underneath from breathing, even though the jacket is still technically waterproof. Washing and re-proofing often fixes this before you need to replace anything.
+
+**Can I use one jacket for both rain and general hiking?**
+You can, but a single heavy rain shell worn for everything is usually warmer and heavier than necessary on dry, windy days — matching the jacket to the actual forecast is more comfortable.
+
 The full kit pairs this with the [Survival Cards](/product/) deck — so you're not only packed right, you know what to do when the day goes sideways.
