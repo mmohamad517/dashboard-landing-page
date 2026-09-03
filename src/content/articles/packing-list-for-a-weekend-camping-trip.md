@@ -58,4 +58,18 @@ Keep the list after the trip and edit it while the weekend is still fresh. Cross
 
 Check the forecast for the nights, not just the days. Tell someone where you are going and when you will be back. And check whether the site has drinking water, because if it does not, that changes what you carry more than anything else on this page.
 
+## Quick answers
+
+**What should I pack for a weekend camping trip?**
+Shelter and sleep first, then food planned meal by meal, then clothing in layers including a warm piece for sitting still after dark, then light and safety. The full list on this page covers a typical two to three night trip.
+
+**How is a weekend list different from an overnight list?**
+Mainly in drying: a second night means damp socks and a damp base layer from day one need somewhere to dry, so a spare dry set for sleeping stops being optional.
+
+**What do people forget on a weekend camping trip?**
+A warm layer reserved only for sitting at camp after dark, a dry pair of socks kept untouched until bedtime, and enough water container capacity for two mornings, not one.
+
+**How much food should I bring for a weekend?**
+Plan meal by meal by name rather than by day — two dinners, two breakfasts, and lunches that need no cooking — and add a small margin rather than a full spare day.
+
 The full kit pairs this with the [Survival Cards](/product/) deck — so you're not only packed right, you know what to do when the day goes sideways.

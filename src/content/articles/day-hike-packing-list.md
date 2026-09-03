@@ -69,4 +69,18 @@ Ask what happens if the weather turns, you're out longer than planned, or someon
 
 Those three cover nearly everything that actually goes wrong on a day hike. Anything that does not serve one of them is a candidate to leave at home, and anything that serves two is worth its weight twice over — which is why a shell, a headlamp and a bag of food end up on every version of this list ever written.
 
+## Quick answers
+
+**What should I bring on a day hike?**
+Enough for the three things that actually go wrong: a weather change (extra layer, shell), being out longer than planned (headlamp, extra food and water), and a minor injury (basic first aid). Everything else is comfort.
+
+**What do people forget on a day hike?**
+A headlamp, even for a hike planned to finish before dark, and a layer warm enough for stopping rather than just moving.
+
+**Do I need a first aid kit for a short day hike?**
+A basic one, yes — blister care and a few dressings cover the situations that actually happen on short hikes.
+
+**How much water should I bring on a day hike?**
+Enough for the distance plus a margin for being out longer than planned, adjusted for heat and effort rather than a single fixed number.
+
 The full kit pairs this with the [Survival Cards](/product/) deck — so you're not only packed right, you know what to do when the day goes sideways.

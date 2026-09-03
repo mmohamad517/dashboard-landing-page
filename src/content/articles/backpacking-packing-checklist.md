@@ -79,4 +79,18 @@ Three questions worth asking every time:
 
 If all three are yes, the trip is already going better than most beginners' first nights out.
 
+## Quick answers
+
+**What is a good beginner backpacking packing list?**
+Shelter and sleep system, a way to treat water, food planned by meal, clothing in layers with a dry set reserved for sleeping, navigation, and a first aid kit — in that priority order if weight forces a cut.
+
+**How is backpacking packing different from car camping?**
+Everything has to be carried, so each item is judged by weight against how often it earns its place, not just whether it might be useful.
+
+**What is the most commonly forgotten backpacking item?**
+A dry, sealed set of sleep clothes kept completely separate from anything worn while hiking or at camp chores.
+
+**How do I know if my pack is too heavy?**
+If you cannot comfortably answer why each item is in there, or you are carrying duplicates "just in case," it is heavier than it needs to be.
+
 The full kit pairs this with the [Survival Cards](/product/) deck — so you're not only packed right, you know what to do when the day goes sideways.

@@ -24,7 +24,9 @@ const related = article.data.relatedSlugs
 // answer and the schema answer can never drift apart. New articles pick this
 // up automatically the moment they add the section, no template change needed.
 function extractFaq(markdown: string) {
-  const section = markdown.match(/^## Quick answers\n([\s\S]*?)(?=\n## )/m);
+  // The sentinel guarantees a trailing "## " to close the match even when
+  // "Quick answers" is the last section in the file (no heading follows it).
+  const section = (markdown + '\n## \0').match(/^## Quick answers\n([\s\S]*?)\n## /m);
   if (!section) return [];
   const pairs = [...section[1].matchAll(/\*\*(.+?)\*\*\n([\s\S]*?)(?=\n\*\*|\n*$)/g)];
   return pairs.map(([, question, answer]) => ({

@@ -63,4 +63,18 @@ For mid layers, the thing that kills them is heat. High dryer settings can damag
 
 Hold the garment up and ask which job it is doing. Is it against skin, moving moisture? Base layer. Is it holding air, and will you take it off when you start working? Mid layer. Is it keeping wind and water out? Shell. Anything that cannot answer clearly is probably a compromise, and compromises are exactly what leave you damp at the top of the climb.
 
+## Quick answers
+
+**What is the main difference between a base layer and a mid layer?**
+The base layer moves sweat off your skin; the mid layer traps the warm air your body produces. One manages moisture, the other manages heat, and they are worn in that order.
+
+**Can a mid layer work as a base layer?**
+Not well. A mid layer is built to hold air, not move moisture, so wearing it against skin usually leaves you damp rather than dry.
+
+**Do I need both a base layer and a mid layer?**
+For anything beyond a short, mild outing, yes — they do two different jobs, and a shell over the top does a third.
+
+**Which goes on first, base or mid?**
+Base layer against the skin, mid layer over it, shell over both. That order is fixed regardless of temperature.
+
 The full kit pairs this with the [Survival Cards](/product/) deck — so you're not only packed right, you know what to do when the day goes sideways.

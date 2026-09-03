@@ -84,4 +84,18 @@ Second, wash base layers more often than you think, and follow the label. Wickin
 - **Packing the layers you need at the bottom of the bag**, which is the same as not bringing them.
 - **Treating the forecast at the trailhead as the forecast for the whole route**, when the conditions higher up and later in the day are the ones that matter.
 
+## Quick answers
+
+**What are the three layers for hiking?**
+Base layer against the skin for moisture, mid layer over it for warmth, and a shell over both for wind and rain. Each does one job only.
+
+**How many layers should I wear hiking?**
+Enough to cover the base-mid-shell system for the conditions, added or removed as you warm up or cool down — not a fixed number regardless of weather.
+
+**What fabric should I avoid when layering for hiking?**
+Cotton, in any layer. It holds moisture against skin instead of moving it, and loses its warmth almost entirely when wet.
+
+**Do I need a shell if it is not raining?**
+Often yes — a shell blocks wind, which strips heat away even in dry conditions, particularly on an exposed ridge or summit.
+
 The full kit pairs this with the [Survival Cards](/product/) deck — so you're not only packed right, you know what to do when the day goes sideways.
