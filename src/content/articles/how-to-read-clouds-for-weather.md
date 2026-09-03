@@ -68,3 +68,17 @@ Neither is reliable enough to act on alone. Both are worth adding to the picture
 ## The habit that matters more
 
 Check the forecast for your actual destination and elevation, not the nearest town. Mountain weather at 1,500 metres is not valley weather. Set a turnaround time based on it, and honour that time.
+
+## Quick answers
+
+**Can you predict weather by reading clouds?**
+To a useful degree, yes — cloud shape and how they are building or thinning gives real short-term warning, though it is not a substitute for a proper forecast.
+
+**What clouds mean bad weather is coming?**
+Clouds building vertically through the day, or a sky that darkens and lowers steadily, both suggest instability and a shift is likely.
+
+**Is reading clouds reliable enough to plan a hike around?**
+Not alone — treat it as one input alongside a real forecast for your actual destination and elevation, not the nearest town.
+
+**Why does mountain weather differ from the forecast I checked?**
+Forecasts are usually for a town at low elevation. Conditions at 1,500 metres can be entirely different, which is why checking elevation-specific weather and setting a turnaround time matters.

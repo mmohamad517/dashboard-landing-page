@@ -72,4 +72,18 @@ The specific skills matter less than three habits: noticing conditions before th
 
 Those three transfer to every situation a child will meet outdoors, including the ones nobody planned for.
 
+## Quick answers
+
+**How do I teach kids camping skills?**
+Give them one real, needed job per trip rather than a lecture — a task the camp actually depends on teaches far more than being told what to do.
+
+**What age should kids start learning camping skills?**
+Match the task to the individual child's confidence rather than a fixed age — younger kids can carry a small pack or collect kindling, older kids can navigate a leg or plan a meal.
+
+**What is the most important camping safety rule for kids?**
+Never anything wild goes in a mouth — no berries, mushrooms or leaves, with no exceptions. This is the one rule that should stay completely rigid.
+
+**How do I make camping skills stick for kids?**
+Let small, safe mistakes happen rather than preventing every one — a child who was briefly cold because they left a layer behind remembers the lesson far better than being told about it.
+
 The full kit pairs this with the [Survival Cards](/product/) deck — so you're not only packed right, you know what to do when the day goes sideways.

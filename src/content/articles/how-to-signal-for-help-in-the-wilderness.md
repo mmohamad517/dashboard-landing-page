@@ -91,3 +91,17 @@ Doing this early matters because the moment you actually hear an aircraft, you h
 Even without signal, most phones have an emergency SOS function that can reach services. Keep the phone warm — cold flattens batteries fast — and put it in aeroplane mode between attempts so it stops burning power hunting for a network.
 
 Learn where your phone's SOS is before you need it.
+
+## Quick answers
+
+**How do you signal for help in the wilderness?**
+Three of anything — three whistle blasts, three flashes, three fires — is the recognised distress signal, and staying put where you can be seen usually beats moving to look for help.
+
+**Does my phone work for signalling if I have no signal?**
+Often yes — most phones have an emergency SOS function that can reach services even without normal signal. Keep it warm and in aeroplane mode between attempts to save battery.
+
+**What is the best way to signal an aircraft?**
+A mirror or any reflective surface aimed at the aircraft carries an extraordinary distance and costs nothing to carry.
+
+**Should I stay in one place or keep moving if I need help?**
+Stay put if anyone knows your route — a stationary, visible position is far easier to find than someone who kept moving and is now somewhere unexpected.

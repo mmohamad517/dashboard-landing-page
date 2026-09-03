@@ -73,4 +73,18 @@ Watch the others in your group rather than waiting to notice it in yourself, and
 
 Wick moisture away, layer for activity level rather than a fixed outfit, keep your shell accessible, protect your extremities, and eat and drink before you need to. Everything else is a variation on those habits.
 
+## Quick answers
+
+**How do I stay warm and dry while hiking?**
+Wick moisture away with the right base layer, adjust layers for your actual activity level rather than wearing one fixed outfit, keep your shell within reach, and protect your extremities.
+
+**Why am I cold even with enough layers on?**
+Often the cause is not insulation — being damp underneath, not having eaten recently, dehydration, or standing still in wind can all make you cold regardless of how many layers you are wearing.
+
+**What should I do if adding a jacket does not warm me up?**
+Check the other causes first: eat something, get moving again, and get out of the wind. Food and movement often fix a cold that another layer would not.
+
+**How do I keep my hands and feet warm hiking?**
+Protect them proactively rather than waiting until they are cold — dry socks, gloves you put on before your hands are already cold, and keeping your extremities out of direct wind.
+
 The full kit pairs this with the [Survival Cards](/product/) deck — so you're not only packed right, you know what to do when the day goes sideways.

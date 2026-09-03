@@ -69,4 +69,18 @@ If you are cold and adding layers is not fixing it, the problem is usually not i
 
 This is worth knowing on a bad day, because it changes what you do. Someone shivering at a windy summit needs shelter from the wind, dry layers and food — not simply the biggest jacket in the group.
 
+## Quick answers
+
+**How many layers should I wear hiking?**
+Enough to cover base, mid and shell for the conditions — adjusted by adding or removing pieces as your effort changes, not a fixed number that applies regardless of temperature.
+
+**Why am I still cold with several layers on?**
+The usual causes are being wet underneath your layers, not having eaten in several hours, dehydration, or standing still too long in the wind — not simply insufficient insulation.
+
+**Is it better to wear one thick layer or several thin ones?**
+Several thin layers, generally — they let you add or remove warmth in steps as conditions change, which a single thick layer does not allow.
+
+**What should I do if a layer is not fixing the cold?**
+Check for wind exposure, eat something, and get moving again before adding another layer — food and shelter from wind often solve a cold that more insulation would not.
+
 The full kit pairs this with the [Survival Cards](/product/) deck — so you're not only packed right, you know what to do when the day goes sideways.
