@@ -76,6 +76,12 @@ The other things that only appear at this length:
 - **Repair.** Over seven days something breaks — a strap, a pole, a sole, a zip. A few metres of tape, a needle and thread, and a couple of spare buckles weigh almost nothing and save a trip.
 - **Boredom, honestly.** Long evenings are long. Something to read or play matters more than people admit.
 
+<p style="text-align:center;">
+  <a href="https://s.click.aliexpress.com/e/_c4TlkPWd" rel="sponsored noopener" target="_blank">
+    <img src="/images/90l-hiking-backpack.webp" alt="90L hiking backpack" width="345" height="777" style="max-width:220px; margin:0 auto;" loading="lazy">
+  </a>
+</p>
+
 **What people get wrong:** carrying the whole week from the trailhead when a resupply was available, and packing more clothing rather than more of a drying plan.
 
 ## What never changes, at any length

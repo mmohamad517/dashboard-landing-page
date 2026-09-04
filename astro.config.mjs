@@ -7,15 +7,17 @@ import sitemap from '@astrojs/sitemap';
 const base = process.env.PUBLIC_BASE_PATH || '/';
 const site = process.env.PUBLIC_SITE_URL || 'https://bestoutdoorwears.com';
 
-/** Prefixes root-absolute links written in Markdown with the configured base. */
+/** Prefixes root-absolute links and image sources written in Markdown with the configured base. */
 function rehypeBaseLinks() {
   const prefix = base.replace(/\/$/, '');
   if (!prefix) return () => {};
+  const attrByTag = { a: 'href', img: 'src' };
   const walk = (node) => {
-    if (node.tagName === 'a' && typeof node.properties?.href === 'string') {
-      const href = node.properties.href;
-      if (href.startsWith('/') && !href.startsWith('//')) {
-        node.properties.href = prefix + href;
+    const attr = attrByTag[node.tagName];
+    if (attr && typeof node.properties?.[attr] === 'string') {
+      const value = node.properties[attr];
+      if (value.startsWith('/') && !value.startsWith('//')) {
+        node.properties[attr] = prefix + value;
       }
     }
     (node.children || []).forEach(walk);
