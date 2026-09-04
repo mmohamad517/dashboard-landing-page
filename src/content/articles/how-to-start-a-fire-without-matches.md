@@ -4,7 +4,7 @@ description: "Why almost every failed fire is a tinder failure, how to use a fer
 keyword: "how to start a fire without matches"
 pubDate: 2026-08-04
 updatedDate: 2026-08-26
-relatedSlugs: ["camping-first-aid-basics", "how-to-signal-for-help-in-the-wilderness", "what-to-do-if-you-get-lost-hiking", "car-camping-packing-list"]
+relatedSlugs: ["hot-tent-stoves-what-to-know-before-you-buy", "camping-first-aid-basics", "how-to-signal-for-help-in-the-wilderness", "what-to-do-if-you-get-lost-hiking"]
 ---
 
 Almost every failed fire is a tinder failure, not a spark failure. People strike sparks into material that was never going to catch, run out of patience, and conclude the technique does not work.
