@@ -77,13 +77,13 @@ The other things that only appear at this length:
 - **Boredom, honestly.** Long evenings are long. Something to read or play matters more than people admit.
 
 <div class="article-grid" style="margin:20px 0;">
-  <a href="https://s.click.aliexpress.com/e/_c4TlkPWd" rel="sponsored noopener" target="_blank">
+  <a class="product-shot" href="https://s.click.aliexpress.com/e/_c4TlkPWd" rel="sponsored noopener" target="_blank">
     <img src="/images/90l-hiking-backpack.webp" alt="90L hiking backpack, black" loading="lazy">
   </a>
-  <a href="https://s.click.aliexpress.com/e/_c4TlkPWd" rel="sponsored noopener" target="_blank">
+  <a class="product-shot" href="https://s.click.aliexpress.com/e/_c4TlkPWd" rel="sponsored noopener" target="_blank">
     <img src="/images/90l-hiking-backpack-green.webp" alt="90L hiking backpack, green" loading="lazy">
   </a>
-  <a href="https://s.click.aliexpress.com/e/_c4TlkPWd" rel="sponsored noopener" target="_blank">
+  <a class="product-shot" href="https://s.click.aliexpress.com/e/_c4TlkPWd" rel="sponsored noopener" target="_blank">
     <img src="/images/90l-hiking-backpack-features.webp" alt="90L hiking backpack pocket and attachment points" loading="lazy">
   </a>
 </div>
