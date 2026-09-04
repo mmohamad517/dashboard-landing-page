@@ -86,6 +86,12 @@ The other things that only appear at this length:
   <a class="product-shot" href="https://s.click.aliexpress.com/e/_c4TlkPWd" rel="sponsored noopener" target="_blank">
     <img src="/images/90l-hiking-backpack-features.webp" alt="90L hiking backpack pocket and attachment points" loading="lazy">
   </a>
+  <a class="product-shot" href="https://s.click.aliexpress.com/e/_c4TlkPWd" rel="sponsored noopener" target="_blank">
+    <img src="/images/90l-hiking-backpack-ventilation.webp" alt="90L hiking backpack ventilated back panel" loading="lazy">
+  </a>
+  <a class="product-shot" href="https://s.click.aliexpress.com/e/_c4TlkPWd" rel="sponsored noopener" target="_blank">
+    <img src="/images/90l-hiking-backpack-in-use.webp" alt="90L hiking backpack worn on trail" loading="lazy">
+  </a>
 </div>
 
 **What people get wrong:** carrying the whole week from the trailhead when a resupply was available, and packing more clothing rather than more of a drying plan.
