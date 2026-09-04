@@ -1,5 +1,5 @@
 ---
-title: "Outdoor Clothing Mistakes Beginners Make (And How to Fix Them Fast)"
+title: "Outdoor Clothing Mistakes Beginners Make"
 description: "The most common outdoor clothing mistakes beginners make — cotton, overdressing at the trailhead, ignoring extremities — and the quick fix for each one."
 keyword: "outdoor clothing mistakes beginners make"
 pubDate: 2026-08-18

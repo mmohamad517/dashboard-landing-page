@@ -1,5 +1,5 @@
 ---
-title: "How Long Can You Survive Without Food? (And Why Foraging Is a Trap)"
+title: "How Long Can You Survive Without Food?"
 description: "Why food is the last survival priority, what hunger actually does to you, and the honest reason this site will not teach you to identify wild plants."
 keyword: "how long can you survive without food"
 pubDate: 2026-08-19

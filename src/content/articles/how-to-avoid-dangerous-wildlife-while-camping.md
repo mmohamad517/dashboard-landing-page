@@ -1,5 +1,5 @@
 ---
-title: "How to Avoid Dangerous Wildlife While Camping (Noise and Food Storage)"
+title: "How to Avoid Dangerous Wildlife While Camping"
 description: "Most bad wildlife encounters start with surprise or with food. How to avoid both, and why the correct response varies by species and region."
 keyword: "how to avoid dangerous wildlife while camping"
 pubDate: 2026-08-13

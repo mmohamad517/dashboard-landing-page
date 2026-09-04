@@ -1,6 +1,6 @@
 ---
 title: "Camping Packing List by Trip Length (Overnight to a Full Week)"
-description: "What actually changes in your packing list as a trip gets longer — one night, a weekend, four or five days, or a full week — and the short list of things that never change at all."
+description: "What changes in your packing list as a trip gets longer — one night, a weekend, four or five days, a full week — and the short list that never changes."
 keyword: "camping packing list by trip length"
 pubDate: 2026-08-26
 updatedDate: 2026-08-26

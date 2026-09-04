@@ -1,6 +1,6 @@
 ---
 title: "How to Stay Warm and Dry Hiking (Even When the Weather Turns)"
-description: "How to stay warm and dry hiking when conditions change fast — the layering habits, fabric choices, and small decisions that keep you comfortable on unpredictable trails."
+description: "How to stay warm and dry hiking when conditions change fast — the layering habits, fabric choices, and decisions that keep you comfortable on unpredictable trails."
 keyword: "how to stay warm and dry hiking"
 pubDate: 2026-08-11
 updatedDate: 2026-08-25

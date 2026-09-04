@@ -1,5 +1,5 @@
 ---
-title: "Lightweight Packing List for Backpacking (Without Going Ultralight)"
+title: "Lightweight Packing List for Backpacking"
 description: "A lightweight backpacking packing list for people who want a manageable pack weight without buying into full ultralight gear and its tradeoffs."
 keyword: "lightweight packing list for backpacking"
 pubDate: 2026-08-16

@@ -1,6 +1,6 @@
 ---
 title: "What to Wear Hiking in Cold Weather (Without Overpacking)"
-description: "What to actually wear hiking in cold weather: layering priorities, extremities, and the mistakes that make people either freeze or overheat and sweat through everything."
+description: "What to wear hiking in cold weather: layering priorities, extremities, and the mistakes that make people freeze or sweat through everything."
 keyword: "what to wear hiking in cold weather"
 pubDate: 2026-08-02
 updatedDate: 2026-08-25

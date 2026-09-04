@@ -1,5 +1,5 @@
 ---
-title: "Winter Hiking Layering System: Staying Warm Without Sweating Through Everything"
+title: "Winter Hiking Layering System: Warm Without Sweating"
 description: "A winter hiking layering system built around one hard rule: manage sweat before you manage cold, because wet insulation in freezing temperatures is the real danger."
 keyword: "winter hiking layering system"
 pubDate: 2026-08-06

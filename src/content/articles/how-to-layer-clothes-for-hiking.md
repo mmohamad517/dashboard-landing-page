@@ -1,5 +1,5 @@
 ---
-title: "How to Layer Clothes for Hiking: The Complete Beginner's System"
+title: "How to Layer Clothes for Hiking: A Beginner's System"
 description: "A step-by-step guide to layering clothes for hiking — base, mid, and shell layers explained, with what to wear them for and when to add or remove each one."
 keyword: "how to layer clothes for hiking"
 pubDate: 2026-08-01

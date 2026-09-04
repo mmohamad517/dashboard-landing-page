@@ -1,5 +1,5 @@
 ---
-title: "Hiking Outfit Ideas by Season (Without Buying New Gear Every Time)"
+title: "Hiking Outfit Ideas by Season"
 description: "Hiking outfit ideas for spring, summer, fall, and winter, built from the same core layering pieces so you don't need a fully separate wardrobe for each season."
 keyword: "hiking outfit ideas by season"
 pubDate: 2026-08-10

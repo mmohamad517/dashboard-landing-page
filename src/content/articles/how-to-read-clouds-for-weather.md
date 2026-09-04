@@ -1,5 +1,5 @@
 ---
-title: "How to Read Clouds for Weather (What Sky Reading Can and Cannot Tell You)"
+title: "How to Read Clouds for Weather (What It Can't Tell You)"
 description: "The cloud patterns worth recognising outdoors, what each one suggests about the next few hours, and the honest limits of forecasting by eye."
 keyword: "how to read clouds for weather"
 pubDate: 2026-08-10

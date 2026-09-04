@@ -1,6 +1,6 @@
 ---
 title: "Backpacking Packing Checklist for Beginners (Overnight Trips)"
-description: "An overnight backpacking packing checklist covering layering, shelter, sleep system, cooking, how to load the pack itself, and the weight tradeoffs beginners get wrong."
+description: "An overnight backpacking checklist covering layering, shelter, sleep system, cooking, how to load the pack, and the weight tradeoffs beginners get wrong."
 keyword: "backpacking packing checklist"
 pubDate: 2026-08-04
 updatedDate: 2026-08-25

@@ -1,6 +1,6 @@
 ---
 title: "What to Wear Camping in Fall: Dressing for a 30-Degree Swing"
-description: "What to wear camping in fall, when a single day can swing 30 degrees between a warm afternoon and a cold, damp night — and how to pack for both without overpacking."
+description: "What to wear camping in fall, when one day can swing 30 degrees from a warm afternoon to a cold, damp night — and how to pack for both without overpacking."
 keyword: "what to wear camping in fall"
 pubDate: 2026-08-09
 updatedDate: 2026-08-26

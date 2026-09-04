@@ -1,5 +1,5 @@
 ---
-title: "Campfire Cooking Recipes for Beginners (One Pot or One Sheet of Foil)"
+title: "Campfire Cooking Recipes for Beginners"
 description: "Simple campfire recipes that work with one pan and minimal ingredients — plus the single technique change that stops beginners burning everything."
 keyword: "campfire cooking recipes for beginners"
 pubDate: 2026-08-11

@@ -1,5 +1,5 @@
 ---
-title: "How to Dress for Changing Weather Outdoors (Without Carrying Everything)"
+title: "How to Dress for Changing Weather Outdoors"
 description: "How to dress for changing weather outdoors using a small set of versatile layers, instead of packing a separate outfit for every possible condition."
 keyword: "how to dress for changing weather outdoors"
 pubDate: 2026-08-19
