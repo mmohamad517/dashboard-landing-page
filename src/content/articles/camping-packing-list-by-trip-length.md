@@ -3,7 +3,7 @@ title: "Camping Packing List by Trip Length (Overnight to a Full Week)"
 description: "What changes in your packing list as a trip gets longer — one night, a weekend, four or five days, a full week — and the short list that never changes."
 keyword: "camping packing list by trip length"
 pubDate: 2026-08-26
-updatedDate: 2026-08-26
+updatedDate: 2026-09-04
 relatedSlugs: ["packing-list-for-a-weekend-camping-trip", "lightweight-packing-list-for-backpacking", "backpacking-packing-checklist", "day-hike-packing-list"]
 ---
 
@@ -70,6 +70,7 @@ Nobody comfortably carries seven days of food and fuel alongside everything else
 
 The other things that only appear at this length:
 
+- **Pack capacity.** A 40-50L overnight bag runs out of room once you're carrying several days of food and fuel rather than one — a <a href="https://s.click.aliexpress.com/e/_c4TlkPWd" rel="sponsored noopener" target="_blank">larger-capacity pack</a> (70L+) is what actually makes a week-long carry manageable, not stuffing more into a smaller one.
 - **Personal hygiene becomes a real category** rather than an afterthought. A week without any plan for it is unpleasant for you and for whoever you are with.
 - **Power.** Phone, head torch, anything else. A week outruns most batteries, and a small power bank or spare cells stop being optional.
 - **Repair.** Over seven days something breaks — a strap, a pole, a sole, a zip. A few metres of tape, a needle and thread, and a couple of spare buckles weigh almost nothing and save a trip.
