@@ -56,7 +56,7 @@ To go live:
 
 ## Free lead magnet
 
-`public/downloads/trailready-free-sample.pdf` is already live and linked from the homepage and the product page — no setup needed. It's 5 pages: the illustrated layering cheat sheet, then 8 of the 89 cards, both funnelling to the product page.
+`public/downloads/trailready-free-sample.pdf` still exists at its URL but is no longer linked from any page — the site now promotes only the paid product. The file is 5 pages: the illustrated layering cheat sheet, then 8 of the 89 cards, both funnelling to the product page.
 
 ## Affiliate links (optional, adds passive income)
 
