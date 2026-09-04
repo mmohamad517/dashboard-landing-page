@@ -4,7 +4,7 @@ description: "How to give children real responsibility outdoors without it becom
 keyword: "how to teach kids camping skills"
 pubDate: 2026-08-17
 updatedDate: 2026-08-26
-relatedSlugs: ["wilderness-navigation-basics", "how-long-can-you-survive-without-food", "common-camping-mistakes-beginners-make", "what-to-wear-camping-in-fall"]
+relatedSlugs: ["family-camping-checklist", "wilderness-navigation-basics", "how-long-can-you-survive-without-food", "common-camping-mistakes-beginners-make"]
 ---
 
 Give a child one real job, and they will own it. Give them a safety briefing, and they will nod through it. The difference is whether the outcome visibly depends on them.

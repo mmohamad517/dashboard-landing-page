@@ -4,7 +4,7 @@ description: "Camp games that teach real outdoor skills — how to run them, why
 keyword: "survival games for family camping"
 pubDate: 2026-08-16
 updatedDate: 2026-08-26
-relatedSlugs: ["how-to-teach-kids-camping-skills", "wilderness-navigation-basics", "how-long-can-you-survive-without-food", "rain-jacket-vs-shell-jacket"]
+relatedSlugs: ["family-camping-checklist", "how-to-teach-kids-camping-skills", "wilderness-navigation-basics", "how-long-can-you-survive-without-food"]
 ---
 
 Children remember what they argued about and what they got wrong. They forget what they were told. That is the whole principle behind teaching outdoor skills as a game rather than a briefing.
