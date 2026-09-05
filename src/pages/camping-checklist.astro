@@ -2,7 +2,6 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { url } from '../lib/paths';
 
-const PDF = '/downloads/camping-checklist-printable.pdf';
 const CHECKOUT_URL = 'https://whop.com/best-out-door-wears/new-camp/';
 
 const sections = [
@@ -171,8 +170,7 @@ const structuredData = [
         images whose boxes do nothing at all.
       </p>
       <div class="hero-actions">
-        <a class="btn btn-primary" href={url(PDF)} download>Download the PDF — free</a>
-        <a class="btn btn-ghost" href="#list">Read it on this page ↓</a>
+        <a class="btn btn-primary" href="#list">Read it on this page ↓</a>
       </div>
       <p class="affiliate-note" style="margin-top:16px; max-width:60ch;">
         Two pages, 50 fillable checkboxes. Nothing to sign up for, and you're welcome to pass it on.
