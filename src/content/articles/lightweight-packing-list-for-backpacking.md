@@ -4,7 +4,7 @@ description: "A lightweight backpacking packing list for people who want a manag
 keyword: "lightweight packing list for backpacking"
 pubDate: 2026-08-16
 updatedDate: 2026-08-25
-relatedSlugs: ["backpacking-packing-checklist", "how-many-layers-to-wear-hiking", "best-fabrics-for-outdoor-layering", "survival-kit-checklist-for-camping", "camping-packing-list-by-trip-length"]
+relatedSlugs: ["how-to-choose-a-backpacking-pack", "backpacking-packing-checklist", "how-many-layers-to-wear-hiking", "best-fabrics-for-outdoor-layering", "camping-packing-list-by-trip-length"]
 ---
 
 Going lightweight for backpacking doesn't require buying an entirely new ultralight gear set — most of the weight savings for a beginner come from cutting duplicates and "just in case" items, not from spending more money on lighter versions of things you're already carrying.
