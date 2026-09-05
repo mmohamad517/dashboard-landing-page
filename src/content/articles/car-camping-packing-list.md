@@ -4,7 +4,7 @@ description: "A car camping packing list that takes advantage of not carrying ev
 keyword: "car camping packing list"
 pubDate: 2026-08-05
 updatedDate: 2026-09-04
-relatedSlugs: ["packing-list-for-a-weekend-camping-trip", "packing-checklist-for-first-camping-trip", "what-to-wear-camping-in-fall", "how-to-start-a-fire-without-matches"]
+relatedSlugs: ["camp-kitchen-storage-box", "packing-list-for-a-weekend-camping-trip", "packing-checklist-for-first-camping-trip", "how-to-start-a-fire-without-matches"]
 ---
 
 Car camping means you're not carrying gear on your back, so the packing question changes from "what's the lightest option" to "what actually improves the trip" — and the most common mistake is either treating it like backpacking and leaving comfort items behind, or overloading the car with things that never get used.
