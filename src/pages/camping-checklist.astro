@@ -103,7 +103,7 @@ const structuredData = [
       {
         '@type': 'Question',
         name: 'I\'m going camping for the first time — what do I actually need to bring?',
-        acceptedAnswer: { '@type': 'Answer', text: 'For a first tent or car camping trip you need six things covered: shelter and sleep (tent, pegs, sleeping bag, insulating mat), kitchen and food (stove, fuel, one pan, water container, meals planned by name), clothing in layers with two spare pairs of socks, a head torch for every person, a first aid kit, and someone at home who knows where you are going and when you are back. Everything else is comfort. The full 50-item list on this page is free to read and free to download, with no email required.' },
+        acceptedAnswer: { '@type': 'Answer', text: 'For a first tent or car camping trip you need six things covered: shelter and sleep (tent, pegs, sleeping bag, insulating mat), kitchen and food (stove, fuel, one pan, water container, meals planned by name), clothing in layers with two spare pairs of socks, a head torch for every person, a first aid kit, and someone at home who knows where you are going and when you are back. Everything else is comfort. The full 50-item list is right here on this page, free to read, with no email required.' },
       },
       {
         '@type': 'Question',
@@ -117,8 +117,8 @@ const structuredData = [
       },
       {
         '@type': 'Question',
-        name: 'Is there a free printable camping checklist I can just download?',
-        acceptedAnswer: { '@type': 'Answer', text: 'Yes — this page has one. It is a two-page PDF with 50 items across six sections, free with no email address, no signup and no account. It also works as a real form: the checkboxes are genuine PDF form fields, so you can tick them on screen and save the file, or print it and use a pen. Most free printable checklists are flat images whose boxes cannot be ticked at all.' },
+        name: 'Is there a free printable camping checklist on this page?',
+        acceptedAnswer: { '@type': 'Answer', text: 'Yes — fifty items across six sections, free with no email address, no signup and no account. Every item is shown right here, and you can print the page if you want a paper copy to tick off with a pen.' },
       },
       {
         '@type': 'Question',
@@ -155,25 +155,24 @@ const structuredData = [
 ];
 ---
 <BaseLayout
-  title="Camping Checklist: Printable, Free, and the Boxes Actually Tick"
-  description="A free printable camping checklist — 50 items across six sections, real PDF checkboxes to tick on screen or print. No email required."
+  title="Camping Checklist: 50 Items, Free and Printable"
+  description="A free printable camping checklist — 50 items across six sections, organized by what actually matters and why. No email required."
   canonicalPath="/camping-checklist/"
   structuredData={structuredData}
 >
   <section class="checklist-hero">
     <div class="wrap">
-      <span class="label">Free download · No email required</span>
-      <h1>The camping checklist,<br>and its boxes actually tick</h1>
+      <span class="label">Free and printable · No email required</span>
+      <h1>The camping checklist,<br>fifty items, nothing held back</h1>
       <p class="lede">
-        Fifty items across six sections, built for tent and car camping. Print it and use a pen, or
-        tick the boxes on screen and save the file — because most free printable checklists are flat
-        images whose boxes do nothing at all.
+        Fifty items across six sections, built for tent and car camping. Read it here, or print the
+        page — every item is right here, not held back for a download.
       </p>
       <div class="hero-actions">
         <a class="btn btn-primary" href="#list">Read it on this page ↓</a>
       </div>
       <p class="affiliate-note" style="margin-top:16px; max-width:60ch;">
-        Two pages, 50 fillable checkboxes. Nothing to sign up for, and you're welcome to pass it on.
+        Fifty items, six sections. Nothing to sign up for, and you're welcome to pass it on.
       </p>
     </div>
   </section>
@@ -182,7 +181,7 @@ const structuredData = [
     <div class="wrap">
       <div class="section-head">
         <h2>All {total} items,<br>free to read here</h2>
-        <p class="desc">The same list that's in the PDF. Nothing held back for the download.</p>
+        <p class="desc">Every item is right here — nothing held back.</p>
       </div>
       <div class="cl-grid">
         {sections.map((s) => (
@@ -218,9 +217,9 @@ const structuredData = [
         Try it on one and see.
       </p>
       <p>
-        This one is short on purpose, tells you why an item matters where that isn't obvious, and its
-        boxes are genuine PDF form fields. We don't sell gear, so nothing here is trying to get you
-        to buy a second stove.
+        This one is short on purpose, tells you why an item matters where that isn't obvious, and
+        every item is right here on the page — no email address, no signup, no download required. We
+        don't sell gear, so nothing here is trying to get you to buy a second stove.
       </p>
 
       <h2>How to use it without overpacking</h2>
@@ -288,7 +287,7 @@ const structuredData = [
       </div>
       <details class="faq-item">
         <summary>I'm going camping for the first time — what do I actually need to bring?</summary>
-        <p>For a first tent or car camping trip you need six things covered: shelter and sleep (tent, pegs, sleeping bag, insulating mat), kitchen and food (stove, fuel, one pan, water container, meals planned by name), clothing in layers with two spare pairs of socks, a head torch for every person, a first aid kit, and someone at home who knows where you are going and when you are back. Everything else is comfort. The full 50-item list on this page is free to read and free to download, with no email required.</p>
+        <p>For a first tent or car camping trip you need six things covered: shelter and sleep (tent, pegs, sleeping bag, insulating mat), kitchen and food (stove, fuel, one pan, water container, meals planned by name), clothing in layers with two spare pairs of socks, a head torch for every person, a first aid kit, and someone at home who knows where you are going and when you are back. Everything else is comfort. The full 50-item list is right here on this page, free to read, with no email required.</p>
       </details>
       <details class="faq-item">
         <summary>I'm going camping this weekend. What should I pack?</summary>
@@ -299,8 +298,8 @@ const structuredData = [
         <p>The most commonly forgotten items are spare dry socks, enough light for everyone rather than one shared torch, a warm layer for sitting still after sunset, rubbish bags, a spare tent peg and a length of cord, and toilet roll. None of them are expensive and each one is remembered vividly by whoever forgot it.</p>
       </details>
       <details class="faq-item">
-        <summary>Is there a free printable camping checklist I can just download?</summary>
-        <p>Yes — this page has one. It is a two-page PDF with 50 items across six sections, free with no email address, no signup and no account. It also works as a real form: the checkboxes are genuine PDF form fields, so you can tick them on screen and save the file, or print it and use a pen. Most free printable checklists are flat images whose boxes cannot be ticked at all.</p>
+        <summary>Is there a free printable camping checklist on this page?</summary>
+        <p>Yes — fifty items across six sections, free with no email address, no signup and no account. Every item is shown right here, and you can print the page if you want a paper copy to tick off with a pen.</p>
       </details>
       <details class="faq-item">
         <summary>What's the difference between a camping checklist and a backpacking checklist?</summary>
