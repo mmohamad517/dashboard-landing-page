@@ -3,11 +3,32 @@ title: "Day Hike Packing List: What to Actually Bring (and Skip)"
 description: "A practical day hike packing list covering clothing layers, water, food, and safety essentials — without the bloated 40-item lists that make you overpack."
 keyword: "day hike packing list"
 pubDate: 2026-08-03
-updatedDate: 2026-08-25
+updatedDate: 2026-09-07
 relatedSlugs: ["backpacking-packing-checklist", "packing-checklist-for-first-camping-trip", "how-to-layer-clothes-for-hiking", "camping-first-aid-basics"]
 ---
 
 A day hike packing list needs to cover four things: layering for the weather, enough water and food for the distance, basic safety items, and nothing else — the biggest overpacking mistake on short hikes is bringing overnight-trip gear for a three-hour walk.
+
+<div class="carousel">
+  <a class="carousel-slide" href="https://s.click.aliexpress.com/e/_c3jbGWnT" rel="sponsored noopener" target="_blank">
+    <img src="/images/day-hike-daypack-1.webp" alt="Slim hydration-style daypack for hiking and cycling, worn on the back" loading="lazy">
+  </a>
+  <a class="carousel-slide" href="https://s.click.aliexpress.com/e/_c3jbGWnT" rel="sponsored noopener" target="_blank">
+    <img src="/images/day-hike-daypack-2.webp" alt="Daypack side view with dimensions labeled: 44 by 26 by 9 centimeters" loading="lazy">
+  </a>
+  <a class="carousel-slide" href="https://s.click.aliexpress.com/e/_c3jbGWnT" rel="sponsored noopener" target="_blank">
+    <img src="/images/day-hike-daypack-3.webp" alt="Daypack ventilated mesh back panel and phone-sized front pocket" loading="lazy">
+  </a>
+  <a class="carousel-slide" href="https://s.click.aliexpress.com/e/_c3jbGWnT" rel="sponsored noopener" target="_blank">
+    <img src="/images/day-hike-daypack-4.webp" alt="Daypack folded into its own hidden bottom storage pocket" loading="lazy">
+  </a>
+</div>
+
+## What to carry it all in
+
+A day hike doesn't need the 50-litre pack the [backpacking pack guide](/articles/how-to-choose-a-backpacking-pack/) covers for overnight trips — it needs something small enough to stay comfortable for a few hours, with side or hip access so you're not digging through a full-size bag for a snack.
+
+The slim pack above is sized for exactly that: 44 × 26 × 9cm, waterproof nylon body, a ventilated mesh back panel, a port for a hydration hose, and a front pocket sized for a phone. It folds down into its own hidden bottom pocket when not in use. Those are the manufacturer's own listed specs for this specific pack, not a claim this site has tested — check them against your own gear and the length of your usual hike before buying.
 
 ## Clothing
 
