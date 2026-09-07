@@ -1,7 +1,7 @@
 ---
-title: "A Camping Chair for Bad Knees and Frequent Rest Stops (Seat Height Matters)"
-description: "Most camping chair advice only talks about weight and price. For older campers, anyone with knee or hip pain, or families stopping often with young kids, seat height matters more."
-keyword: "camping chair for bad knees"
+title: "How to Choose a Camping Chair (Seat Height Matters More Than Weight)"
+description: "Most camping chair guides rank by weight and price. This one explains why seat height decides whether it's actually easy to get in and out of — plus what else to check before buying."
+keyword: "how to choose a camping chair"
 pubDate: 2026-09-07
 updatedDate: 2026-09-07
 author: "Mohamad Karaki"
