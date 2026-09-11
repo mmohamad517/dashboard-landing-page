@@ -91,6 +91,28 @@ A head torch flashed in threes is visible a long way in open country. The strobe
 
 Sleep in shifts if there are enough of you, so someone is always awake to respond to a sound or a light. And keep one light in reserve. Running every torch flat during the first night leaves you with nothing for the second.
 
+<div class="carousel">
+  <a class="carousel-slide" href="https://s.click.aliexpress.com/e/_c3cQLFdr" rel="sponsored noopener" target="_blank">
+    <img src="/images/glow-stick-signal-1.webp" alt="10-pack of green glow sticks with hooks, packaged and glowing" loading="lazy">
+  </a>
+  <a class="carousel-slide" href="https://s.click.aliexpress.com/e/_c3cQLFdr" rel="sponsored noopener" target="_blank">
+    <img src="/images/glow-stick-signal-2.webp" alt="Multi-colored glow sticks with hooks laid across a backpack strap" loading="lazy">
+  </a>
+  <a class="carousel-slide" href="https://s.click.aliexpress.com/e/_c3cQLFdr" rel="sponsored noopener" target="_blank">
+    <img src="/images/glow-stick-signal-3.webp" alt="10-pack of red glow sticks, glowing" loading="lazy">
+  </a>
+  <a class="carousel-slide" href="https://s.click.aliexpress.com/e/_c3cQLFdr" rel="sponsored noopener" target="_blank">
+    <img src="/images/glow-stick-signal-4.webp" alt="Several glow sticks in different colors, glowing side by side" loading="lazy">
+  </a>
+  <a class="carousel-slide" href="https://s.click.aliexpress.com/e/_c3cQLFdr" rel="sponsored noopener" target="_blank">
+    <img src="/images/glow-stick-signal-5.webp" alt="10-pack of yellow glow sticks with hooks, glowing" loading="lazy">
+  </a>
+</div>
+
+A chemical glow stick is a useful passive addition to a night signal, though it's worth being precise about what it does and doesn't replace. It isn't a substitute for the three-flash convention above — it just glows steadily rather than flashing — but it needs no batteries, runs for hours once cracked, and a hook on the end means it can hang from a pack, a tent guyline, or a branch to mark your position continuously while you sleep or rest. Several of them laid out on the ground can also trace a large V, X, or arrow at night the same way trampled snow or spread-out kit does by day.
+
+The kind pictured above (a 10-pack with a hook on each stick) is glow chemistry activated by shaking, described by the manufacturer as thicker and longer-lasting than standard-grade sticks — that's their own claim, not something tested by this site. If one does break, the chemical inside washes off skin or clothing with ordinary soap.
+
 ## Prepare the signal before you need it
 
 Whatever you plan to use, get it ready while you have daylight and energy. Gather green vegetation for smoke and keep it dry. Lay out the ground shapes. Put the whistle around your neck rather than in the pack. Decide where you would stand to catch the sun with a mirror.
