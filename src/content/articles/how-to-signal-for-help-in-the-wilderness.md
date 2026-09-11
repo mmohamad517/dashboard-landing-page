@@ -3,7 +3,7 @@ title: "How to Signal for Help in the Wilderness (Get Big, Not Loud)"
 description: "How to be found: why you stay put, what actually reflects, why everything comes in threes, and how to make yourself readable from the air."
 keyword: "how to signal for help in the wilderness"
 pubDate: 2026-08-06
-updatedDate: 2026-08-26
+updatedDate: 2026-09-11
 relatedSlugs: ["what-to-do-if-you-get-lost-hiking", "desert-survival-tips", "cold-weather-survival-basics", "hiking-outfit-ideas-by-season"]
 ---
 
@@ -58,6 +58,17 @@ If you can hear or see aircraft searching, there is a small set of ground signal
 
 Keep them in open ground rather than under tree cover, and lie beside them where you can be seen rather than inside a shelter.
 
+## Stranded on a coast or island
+
+Everything above still applies — three of everything, a real reflective surface, getting big and geometric, ground-to-air signs — but a coast or small island changes a few specifics:
+
+- **You likely don't have a pack or tent to spread out.** Use whatever bright material you have — clothing, a tarp, a sail if you came off a boat — laid flat on open sand or rock rather than draped somewhere it can't be seen from above.
+- **Driftwood burns readily once dry**, and it's usually not in short supply on a shoreline. Green vegetation or damp seaweed thrown on a fire produces heavy white smoke by day, the same principle as inland — keep it ready to add quickly rather than trying to gather it after you've spotted a boat or aircraft.
+- **Sand and rocks work as well as snow or trampled grass** for a large V, X, or arrow — the ground-to-air signs above apply exactly the same way.
+- **Stay near the highest safe, open point you can reach**, since both boats and aircraft need a clear line of sight, and a fire or signal low in a cove or behind rocks can be invisible from either direction.
+- **If you came off a boat, check for a VHF radio, flares, or an EPIRB before relying on improvised signals** — a distress call on marine channel 16 or a flare reaches much further and faster than a fire or a mirror. Save handheld flares for when a vessel or aircraft is actually visible rather than firing them at an empty horizon; they burn for a short, fixed time and you may only get one useful chance.
+- **Never drink seawater.** It's the single most dangerous mistake specific to this situation — it speeds up dehydration rather than solving it. Collect rain or dew if there's no other fresh water source, and limit exertion in heat to reduce how much water you need in the first place.
+
 ## Once you have been spotted
 
 Movement is what confirms you are alive and needs help. Keep signalling until the aircraft or party clearly acknowledges you — a wing dip, a circle, a returned flash — rather than stopping at the first sight of them.
@@ -105,3 +116,6 @@ A mirror or any reflective surface aimed at the aircraft carries an extraordinar
 
 **Should I stay in one place or keep moving if I need help?**
 Stay put if anyone knows your route — a stationary, visible position is far easier to find than someone who kept moving and is now somewhere unexpected.
+
+**How is signaling for help different on a deserted island or coast?**
+The core techniques are the same — three of everything, a real reflective surface, getting big and geometric — but you likely have no pack to spread out, so bright clothing or a tarp laid flat on open sand works instead. Check for a VHF radio, flares, or an EPIRB if you came off a boat, since those reach further than any improvised signal, and never drink seawater.
