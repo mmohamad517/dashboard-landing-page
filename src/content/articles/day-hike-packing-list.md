@@ -3,7 +3,7 @@ title: "Day Hike Packing List: What to Actually Bring (and Skip)"
 description: "A practical day hike packing list covering clothing layers, water, food, and safety essentials — without the bloated 40-item lists that make you overpack."
 keyword: "day hike packing list"
 pubDate: 2026-08-03
-updatedDate: 2026-09-07
+updatedDate: 2026-09-17
 relatedSlugs: ["backpacking-packing-checklist", "packing-checklist-for-first-camping-trip", "how-to-layer-clothes-for-hiking", "camping-first-aid-basics"]
 ---
 
@@ -103,5 +103,8 @@ A basic one, yes — blister care and a few dressings cover the situations that 
 
 **How much water should I bring on a day hike?**
 Enough for the distance plus a margin for being out longer than planned, adjusted for heat and effort rather than a single fixed number.
+
+**What should I pack for a 12-hour day hike?**
+The same day-hike list, scaled up for time on trail: more water and food than a short walk needs, a genuine headlamp rather than a backup one, and a warmer layer for whatever the day turns into once the sun gets low.
 
 The full kit pairs this with the [Survival Cards](/product/) deck — so you're not only packed right, you know what to do when the day goes sideways.

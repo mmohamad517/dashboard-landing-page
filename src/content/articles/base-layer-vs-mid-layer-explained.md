@@ -3,7 +3,7 @@ title: "Base Layer vs. Mid Layer Explained (So You Stop Mixing Them Up)"
 description: "Base layer vs mid layer for hiking, explained clearly: what each one actually does, why the order matters, and the mistake of treating them as interchangeable."
 keyword: "base layer vs mid layer explained"
 pubDate: 2026-08-08
-updatedDate: 2026-08-25
+updatedDate: 2026-09-17
 relatedSlugs: ["how-to-layer-clothes-for-hiking", "best-fabrics-for-outdoor-layering", "how-many-layers-to-wear-hiking", "how-to-purify-water-in-the-wild", "what-is-a-base-layer"]
 ---
 
@@ -76,5 +76,8 @@ For anything beyond a short, mild outing, yes — they do two different jobs, an
 
 **Which goes on first, base or mid?**
 Base layer against the skin, mid layer over it, shell over both. That order is fixed regardless of temperature.
+
+**What is a mid layer?**
+The layer worn over your base layer that traps the warm air your body produces — fleece, wool, or a packable insulated jacket. It's added or removed based on effort rather than worn constantly all day, which is what separates its job from a base layer's.
 
 The full kit pairs this with the [Survival Cards](/product/) deck — so you're not only packed right, you know what to do when the day goes sideways.
