@@ -3,7 +3,7 @@ title: "Camping Packing List by Trip Length (Overnight to a Full Week)"
 description: "What changes in your packing list as a trip gets longer — one night, a weekend, four or five days, a full week — and the short list that never changes."
 keyword: "camping packing list by trip length"
 pubDate: 2026-08-26
-updatedDate: 2026-09-17
+updatedDate: 2026-09-19
 relatedSlugs: ["packing-list-for-a-weekend-camping-trip", "lightweight-packing-list-for-backpacking", "backpacking-packing-checklist", "day-hike-packing-list"]
 ---
 
@@ -61,6 +61,12 @@ That single change drives everything else:
 - **Small consumables run out.** Batteries, water treatment, blister tape, sunscreen. Each is trivial to carry and genuinely disruptive to run out of.
 
 **What people get wrong:** multiplying the weekend list by two. The clothing does not need doubling; the food and fuel need real thought, and the consumables need counting.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## A full week and beyond
 

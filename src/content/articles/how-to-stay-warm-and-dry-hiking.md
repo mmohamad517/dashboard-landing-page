@@ -3,7 +3,7 @@ title: "How to Stay Warm and Dry Hiking (Even When the Weather Turns)"
 description: "How to stay warm and dry hiking when conditions change fast — the layering habits, fabric choices, and decisions that keep you comfortable on unpredictable trails."
 keyword: "how to stay warm and dry hiking"
 pubDate: 2026-08-11
-updatedDate: 2026-08-25
+updatedDate: 2026-09-19
 relatedSlugs: ["how-to-layer-clothes-for-hiking", "rain-jacket-vs-shell-jacket", "winter-hiking-layering-system", "campfire-cooking-recipes-for-beginners"]
 ---
 
@@ -40,6 +40,12 @@ It is also why exposed ground higher up feels so much worse than the sheltered c
 Hands, feet, and head lose heat disproportionately fast. A hat, gloves, and dry socks do more for your overall comfort than most people expect, especially once your core is already well-layered.
 
 Two specifics worth more than their weight. A **thin glove liner** under thicker gloves means you never go to bare skin for a zip, a map or a snack — bare hands in wind get clumsy fast, and clumsy hands are how small problems become slow ones. And a **buff** covers your neck, pulls over your face in wind, and stops the draft down your collar that quietly undermines everything else you are wearing.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## Feet: the part that decides how the day feels
 

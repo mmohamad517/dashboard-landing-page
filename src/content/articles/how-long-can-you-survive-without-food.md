@@ -3,7 +3,7 @@ title: "How Long Can You Survive Without Food?"
 description: "Why food is the last survival priority, what hunger actually does to you, and the honest reason this site will not teach you to identify wild plants."
 keyword: "how long can you survive without food"
 pubDate: 2026-08-19
-updatedDate: 2026-08-26
+updatedDate: 2026-09-19
 relatedSlugs: ["common-camping-mistakes-beginners-make", "how-to-find-north-without-a-compass", "how-to-purify-water-in-the-wild", "what-to-wear-hiking-in-cold-weather"]
 ---
 
@@ -37,6 +37,12 @@ Being cold is the part people underestimate. Keeping warm has a real energy cost
 ## Who should not follow general advice here
 
 Anyone with diabetes or another condition affected by food intake, anyone pregnant, and children all sit outside the general case. So does anyone on medication that must be taken with food. If that is you or someone in your group, the planning answer is to carry spare food specifically for that reason, and to tell the rest of the group about it before the trip rather than during an emergency.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## Why foraging is a trap
 

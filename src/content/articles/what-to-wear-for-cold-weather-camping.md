@@ -3,7 +3,7 @@ title: "What to Wear for Cold-Weather Camping (Day and Night)"
 description: "What to wear for cold-weather camping, covering both active daytime layers and the separate, warmer system you need for a genuinely cold night at camp."
 keyword: "what to wear for cold weather camping"
 pubDate: 2026-08-15
-updatedDate: 2026-08-26
+updatedDate: 2026-09-19
 relatedSlugs: ["winter-hiking-layering-system", "what-to-wear-hiking-in-cold-weather", "packing-list-for-a-weekend-camping-trip", "wilderness-navigation-basics"]
 ---
 
@@ -36,6 +36,12 @@ Put it on as soon as you stop, before you feel cold. Insulation traps heat you a
 Change into dry, dedicated sleep clothes before getting into your sleeping bag, even if your daytime layers feel only slightly damp. A small amount of moisture in a sleeping bag over a full cold night is enough to noticeably reduce how warm you sleep. Pack sleep clothes in their own dry bag so they never sit against wet daytime gear.
 
 A sleep set does not need to be elaborate: a dry base layer top and bottom, dry socks worn only in the bag, and a hat. That is it. The value is entirely in the word "dry" — these items should not have been worn during the day under any circumstances, however tempting it is on a cold evening.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## What goes under and around you matters as much as what you wear
 

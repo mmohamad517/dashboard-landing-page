@@ -3,7 +3,7 @@ title: "How to Read Clouds for Weather (What It Can't Tell You)"
 description: "The cloud patterns worth recognising outdoors, what each one suggests about the next few hours, and the honest limits of forecasting by eye."
 keyword: "how to read clouds for weather"
 pubDate: 2026-08-10
-updatedDate: 2026-08-26
+updatedDate: 2026-09-19
 relatedSlugs: ["campfire-cooking-recipes-for-beginners", "survival-kit-checklist-for-camping", "how-to-avoid-dangerous-wildlife-while-camping", "how-to-layer-clothes-for-hiking"]
 ---
 
@@ -36,6 +36,12 @@ Small, scattered, puffy clouds with clear gaps that stay small through the day u
 ## What sky reading cannot do
 
 It cannot tell you what is happening on the other side of a ridge. It cannot see rain falling in hills upstream of you, which is exactly what causes [flash floods](/articles/flash-flood-safety-for-campers/). And it gives you no useful warning at night.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## What to do about a thunderstorm
 

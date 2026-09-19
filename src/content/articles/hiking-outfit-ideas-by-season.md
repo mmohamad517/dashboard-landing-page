@@ -3,7 +3,7 @@ title: "Hiking Outfit Ideas by Season"
 description: "Hiking outfit ideas for spring, summer, fall, and winter, built from the same core layering pieces so you don't need a fully separate wardrobe for each season."
 keyword: "hiking outfit ideas by season"
 pubDate: 2026-08-10
-updatedDate: 2026-08-26
+updatedDate: 2026-09-19
 relatedSlugs: ["what-to-wear-camping-in-fall", "what-to-wear-hiking-in-cold-weather", "how-to-dress-for-changing-weather-outdoors", "how-to-signal-for-help-in-the-wilderness"]
 ---
 
@@ -44,6 +44,12 @@ The widest single-day temperature swing of any season. Layer light for daytime a
 Fall is where the layering system justifies itself most obviously. You will likely wear all three pieces at some point in the same day, and you will likely take at least one of them off again. Getting comfortable with stopping to adjust — rather than pushing on while slightly too hot or slightly too cold — is the habit that makes fall hiking pleasant.
 
 Daylight is the other fall variable. Days shorten faster than most people mentally adjust for, and being caught out after dark is a different clothing problem than being caught out in the cold: you stop moving, you slow down, and you cool off. A warm layer in the pack covers both.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## Winter
 

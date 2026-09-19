@@ -3,7 +3,7 @@ title: "Family Camping Checklist: What Changes When Kids Come Along"
 description: "A family camping checklist built around what actually changes with kids — sleep setup, health extras, food, and the small items parents forget most."
 keyword: "family camping checklist"
 pubDate: 2026-09-04
-updatedDate: 2026-09-04
+updatedDate: 2026-09-19
 author: "Mohamad Karaki"
 relatedSlugs: ["survival-games-for-family-camping", "how-to-teach-kids-camping-skills", "packing-checklist-for-first-camping-trip", "car-camping-packing-list"]
 ---
@@ -36,6 +36,12 @@ The layering system itself doesn't change — base, mid, and a shell still cover
 The first-aid kit for a family trip needs a few additions beyond the basics: children's-strength pain and fever medication if your family already uses it at home, a larger supply of adhesive bandages than seems reasonable (they get used on scrapes that wouldn't warrant one at home), and insect repellent suitable for the ages of the kids on the trip.
 
 A whistle for each child old enough to understand what it's for is worth more than it looks. A whistle carries much further than a shouting voice, and a distressed child can blow one long after they've stopped being able to shout. Pair it with one simple rule they can actually follow: if you can't see an adult, stop moving and blow the whistle — don't go looking.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## Food that doesn't fight the trip
 

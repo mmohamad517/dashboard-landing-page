@@ -3,7 +3,7 @@ title: "Minimalist Backpacking for Beginners (Fewest Things, Not Lightest)"
 description: "Minimalist backpacking isn't the same question as ultralight backpacking. This is about the fewest things to buy and carry for a first trip, not shaving grams off gear you already own."
 keyword: "minimalist backpacking"
 pubDate: 2026-09-12
-updatedDate: 2026-09-12
+updatedDate: 2026-09-19
 author: "Mohamad Karaki"
 relatedSlugs: ["lightweight-packing-list-for-backpacking", "backpacking-packing-checklist", "how-to-choose-a-backpacking-pack", "packing-checklist-for-first-camping-trip"]
 ---
@@ -28,6 +28,12 @@ A genuinely minimalist first kit has exactly one item per function, nothing doub
 - **Pack:** one pack sized for the trip length you're actually planning, not the biggest one that might someday fit a longer trip
 
 Notice what's not on this list: a backup stove, a second knife, a spare set of daytime clothes "just in case." Minimalism here means resisting the redundancy instinct as much as it means resisting the urge to buy the fanciest version of each item.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## Where the pack itself fits in
 

@@ -3,7 +3,7 @@ title: "How to Build an Emergency Shelter Outdoors (3 Types, Floor First)"
 description: "Three emergency shelters you can build with what you're already carrying — and why insulating the floor matters more than building the roof first."
 keyword: "how to build an emergency shelter"
 pubDate: 2026-08-03
-updatedDate: 2026-09-17
+updatedDate: 2026-09-19
 relatedSlugs: ["how-to-start-a-fire-without-matches", "camping-first-aid-basics", "how-to-signal-for-help-in-the-wilderness", "best-fabrics-for-outdoor-layering"]
 ---
 
@@ -47,6 +47,12 @@ Ten minutes choosing well saves an hour of building badly. Work through it in th
 **Look up.** Dead branches, loose rock, anything that can fall. This takes five seconds and people skip it.
 
 **Near materials.** Building a debris shelter fifty metres from the leaf litter costs you daylight and energy you may not have.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## Work slowly, and stop before you sweat
 

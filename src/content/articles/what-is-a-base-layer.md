@@ -3,7 +3,7 @@ title: "What Is a Base Layer? A Plain Answer (And How to Pick One)"
 description: "What a base layer actually is, what it does, and how to choose one — merino, synthetic or blend, how it should fit, and why cotton is the one fabric to avoid."
 keyword: "what is a base layer"
 pubDate: 2026-09-03
-updatedDate: 2026-09-03
+updatedDate: 2026-09-19
 relatedSlugs: ["base-layer-vs-mid-layer-explained", "how-to-layer-clothes-for-hiking", "best-fabrics-for-outdoor-layering", "what-to-wear-hiking-in-cold-weather"]
 ---
 
@@ -72,6 +72,12 @@ Base layers come in different fabric weights, usually labelled lightweight, midw
 - **Heavyweight** — genuinely cold conditions, or low-effort activity where you are not generating much heat
 
 **If you are buying one and only one, buy midweight.** It covers the widest range of what most people actually do.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## When to wear one
 

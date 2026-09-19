@@ -3,7 +3,7 @@ title: "Camping and Fishing Trip Checklist (What Changes When You Combine Them)"
 description: "Most checklists cover camping or fishing, not both. Here's what actually changes when a trip combines them — gear, food storage, camp setup near water, and what stays the same."
 keyword: "camping and fishing checklist"
 pubDate: 2026-09-07
-updatedDate: 2026-09-07
+updatedDate: 2026-09-19
 author: "Mohamad Karaki"
 relatedSlugs: ["car-camping-packing-list", "campfire-cooking-recipes-for-beginners", "camping-first-aid-basics", "packing-list-for-a-weekend-camping-trip"]
 ---
@@ -28,6 +28,12 @@ Camping next to water changes a few things about where and how you set up, beyon
 ## Cooking what you catch
 
 If the plan includes eating the catch, that's a cooking-gear decision made before you leave, not at the fire. A single pan or grate that can handle fish alongside whatever else is planned covers most of it — the [campfire cooking guide](/articles/campfire-cooking-recipes-for-beginners/) covers the equipment and technique side of cooking over a fire, which applies whether what's on the pan came from a cooler or a hook.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## What doesn't change
 

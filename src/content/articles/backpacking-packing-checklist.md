@@ -3,7 +3,7 @@ title: "Backpacking Packing Checklist for Beginners (Overnight Trips)"
 description: "An overnight backpacking checklist covering layering, shelter, sleep system, cooking, how to load the pack, and the weight tradeoffs beginners get wrong."
 keyword: "backpacking packing checklist"
 pubDate: 2026-08-04
-updatedDate: 2026-09-17
+updatedDate: 2026-09-19
 relatedSlugs: ["how-to-choose-a-backpacking-pack", "lightweight-packing-list-for-backpacking", "day-hike-packing-list", "how-to-find-north-without-a-compass", "camping-packing-list-by-trip-length"]
 ---
 
@@ -45,6 +45,12 @@ Most beginner packing advice stops at the list and never explains where things g
 Fill the gaps rather than leaving voids: a pack that shifts internally as you walk is far more tiring than one packed tight. And carry water inside or against the back panel rather than dangling outside where it swings.
 
 Once loaded, tighten in this order: hip belt first, so the weight sits on your hips rather than your shoulders, then shoulder straps, then the load lifters at the top. A pack carried on the shoulders instead of the hips is the most common cause of a miserable second day.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## The weight tradeoff beginners get wrong
 

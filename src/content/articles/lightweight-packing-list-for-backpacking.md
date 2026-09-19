@@ -3,7 +3,7 @@ title: "Lightweight Packing List for Backpacking"
 description: "A lightweight backpacking packing list for people who want a manageable pack weight without buying into full ultralight gear and its tradeoffs."
 keyword: "lightweight packing list for backpacking"
 pubDate: 2026-08-16
-updatedDate: 2026-08-25
+updatedDate: 2026-09-19
 relatedSlugs: ["how-to-choose-a-backpacking-pack", "backpacking-packing-checklist", "how-many-layers-to-wear-hiking", "best-fabrics-for-outdoor-layering", "camping-packing-list-by-trip-length"]
 ---
 
@@ -32,6 +32,12 @@ Clothing is also where the psychology is hardest. Spare clothes feel like insura
 Water is dense, and people routinely carry far more of it than the route requires because they never checked where they could refill. Studying the water sources on your route, and carrying a filter or tablets instead of the full day's supply, saves more weight in one decision than a season of gear upgrades.
 
 The reverse is also true and more important: in dry country with no reliable sources, water is the one thing you carry all of, and there is no lightweight trick that changes it. Know which kind of trip you are on.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## The "just in case" audit
 

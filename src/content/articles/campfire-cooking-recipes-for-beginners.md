@@ -3,7 +3,7 @@ title: "Campfire Cooking Recipes for Beginners"
 description: "Simple campfire recipes that work with one pan and minimal ingredients — plus the single technique change that stops beginners burning everything."
 keyword: "campfire cooking recipes for beginners"
 pubDate: 2026-08-11
-updatedDate: 2026-08-26
+updatedDate: 2026-09-19
 relatedSlugs: ["camp-kitchen-storage-box", "survival-kit-checklist-for-camping", "how-to-avoid-dangerous-wildlife-while-camping", "flash-flood-safety-for-campers"]
 ---
 
@@ -34,6 +34,12 @@ Flour, water, salt, baking powder, mixed to a stiff dough in a bag. Wind a rope 
 ## Banana boats
 
 Split a banana in its skin, push chocolate into the split, wrap in foil, edge of the coals for ten minutes. Eaten with a spoon.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## Reading the coals
 

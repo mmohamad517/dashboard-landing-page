@@ -3,7 +3,7 @@ title: "Flash Flood Safety for Campers (The Danger Under a Clear Sky)"
 description: "Why flash floods catch experienced campers, how to choose a campsite that will not flood, and what to do when water starts rising."
 keyword: "flash flood safety for campers"
 pubDate: 2026-08-14
-updatedDate: 2026-08-26
+updatedDate: 2026-09-19
 relatedSlugs: ["how-much-water-to-carry-hiking", "survival-games-for-family-camping", "how-to-teach-kids-camping-skills", "packing-checklist-for-first-camping-trip"]
 ---
 
@@ -41,6 +41,12 @@ Leave the kit. All of it.
 Never drive into moving water of unknown depth. It takes remarkably little to float a car, and once it floats it goes where the water goes. Most flood deaths involving vehicles happen this way, at crossings the driver had used before.
 
 Turn around and take the long way.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## Why it is so much more powerful than it looks
 

@@ -3,7 +3,7 @@ title: "How to Signal for Help in the Wilderness (Get Big, Not Loud)"
 description: "How to be found: why you stay put, what actually reflects, why everything comes in threes, and how to make yourself readable from the air."
 keyword: "how to signal for help in the wilderness"
 pubDate: 2026-08-06
-updatedDate: 2026-09-11
+updatedDate: 2026-09-19
 relatedSlugs: ["what-to-do-if-you-get-lost-hiking", "desert-survival-tips", "cold-weather-survival-basics", "hiking-outfit-ideas-by-season"]
 ---
 
@@ -57,6 +57,12 @@ If you can hear or see aircraft searching, there is a small set of ground signal
 - **An arrow** — I am travelling in this direction.
 
 Keep them in open ground rather than under tree cover, and lie beside them where you can be seen rather than inside a shelter.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## Stranded on a coast or island
 

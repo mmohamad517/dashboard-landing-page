@@ -3,7 +3,7 @@ title: "Packing Checklist for Your First Camping Trip (Keep It Simple)"
 description: "A packing checklist for your first camping trip — the essentials that matter: shelter, sleep, clothing layers, food, and safety, without the overwhelm."
 keyword: "packing checklist for first camping trip"
 pubDate: 2026-08-20
-updatedDate: 2026-08-26
+updatedDate: 2026-09-19
 relatedSlugs: ["car-camping-packing-list", "packing-list-for-a-weekend-camping-trip", "outdoor-clothing-mistakes-beginners-make", "flash-flood-safety-for-campers"]
 ---
 
@@ -46,6 +46,12 @@ A basic first-aid kit, a flashlight or headlamp, a fully charged phone, and a ge
 One correction to how that usually gets read: **a head torch per person**, not one for the group. One shared torch means three people sitting in the dark while the fourth goes to find something, and it is the single most common cause of a fractious first evening.
 
 And the item that weighs nothing: tell one person at home where you are going and when you expect to be back. Send it as a message so it is written down rather than remembered. Campsites feel safe enough that people skip this, but a valley with no phone signal is further from help than it looks on a map.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## The things first-timers always forget
 

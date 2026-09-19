@@ -3,7 +3,7 @@ title: "How to Start a Fire Without Matches (Preparation Beats Technique)"
 description: "Why almost every failed fire is a tinder failure, how to use a ferro rod, and an honest assessment of friction fire for beginners."
 keyword: "how to start a fire without matches"
 pubDate: 2026-08-04
-updatedDate: 2026-08-26
+updatedDate: 2026-09-19
 relatedSlugs: ["hot-tent-stoves-what-to-know-before-you-buy", "camping-first-aid-basics", "how-to-signal-for-help-in-the-wilderness", "what-to-do-if-you-get-lost-hiking"]
 ---
 
@@ -45,6 +45,12 @@ This is the situation the skill actually exists for, and it has answers.
 **Look under cover.** The underside of a fallen log, the dead lower branches inside a dense conifer, the dry litter at the base of a big tree, the papery bark peeling off a birch — all stay dry longer than open ground.
 
 **Resin-rich wood burns wet.** The knots and stumps of pine hold concentrated resin, catch readily and burn hot enough to dry what is around them.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## Carry tinder so you never have to hunt
 

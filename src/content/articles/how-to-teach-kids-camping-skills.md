@@ -3,7 +3,7 @@ title: "How to Teach Kids Camping Skills (One Job, Every Trip)"
 description: "How to give children real responsibility outdoors without it becoming a lecture — what to teach at what age, and the safety rules that never bend."
 keyword: "how to teach kids camping skills"
 pubDate: 2026-08-17
-updatedDate: 2026-08-26
+updatedDate: 2026-09-19
 relatedSlugs: ["family-camping-checklist", "wilderness-navigation-basics", "how-long-can-you-survive-without-food", "common-camping-mistakes-beginners-make"]
 ---
 
@@ -47,6 +47,12 @@ The same principle covers most of it: let the small mistake happen where it is h
 Pitching a tent is a skill. Choosing where to pitch it is a decision — not in the dry riverbed, not under the dead branch, not at the bottom of the cold hollow. Decisions transfer to situations you have not trained for. Skills do not.
 
 The way to teach a decision is to ask rather than tell. "Where should we put the tent, and why not over there?" takes a minute longer than pointing at a spot, and it is the difference between a child who can pitch a tent and a child who can choose a campsite.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## Practise at home
 

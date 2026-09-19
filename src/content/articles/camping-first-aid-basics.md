@@ -3,7 +3,7 @@ title: "Camping First Aid Basics (And Why This Article Is Not Enough)"
 description: "The camping first aid situations you are most likely to meet — bleeding, burns, sprains, heat and cold — and the clear signs that mean stop and call for help."
 keyword: "camping first aid basics"
 pubDate: 2026-08-05
-updatedDate: 2026-08-26
+updatedDate: 2026-09-19
 relatedSlugs: ["how-to-signal-for-help-in-the-wilderness", "what-to-do-if-you-get-lost-hiking", "desert-survival-tips", "day-hike-packing-list"]
 ---
 
@@ -56,6 +56,12 @@ Deal with a hot spot the moment you feel it, not at the next scheduled stop. Sto
 Any blow to the head is worth taking seriously outdoors, because you are a long way from assessment.
 
 **Get help immediately** for anyone who lost consciousness even briefly, is confused or repeating themselves, is vomiting, has a worsening headache, or is behaving unlike themselves. Do not let anyone who has taken a knock to the head continue alone, and do not let them sleep unobserved.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## Overheating
 

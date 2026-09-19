@@ -3,7 +3,7 @@ title: "How to Find North Without a Compass (Three Methods That Work)"
 description: "Three practical ways to find north without a compass — the shadow-stick method, an analogue watch, and the night sky — plus how accurate each one really is."
 keyword: "how to find north without a compass"
 pubDate: 2026-08-01
-updatedDate: 2026-08-26
+updatedDate: 2026-09-19
 relatedSlugs: ["how-to-purify-water-in-the-wild", "how-to-build-an-emergency-shelter", "how-to-start-a-fire-without-matches", "backpacking-packing-checklist"]
 ---
 
@@ -37,6 +37,12 @@ Night navigation in rough ground causes more injuries than it saves time. If you
 People discard these methods because they are not precise. That misunderstands the problem. Without a reference, a walker in featureless ground drifts steadily to one side and comes back round on themselves — the circling that leaves people exhausted a short distance from where they started.
 
 A direction that is roughly right breaks the circle. It does not need to be accurate to a degree; it needs to be consistent. Pick your north, pick something distant along your line, walk to it, then pick the next thing. That alone converts wandering into travelling.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## Natural signs, and why they are unreliable
 

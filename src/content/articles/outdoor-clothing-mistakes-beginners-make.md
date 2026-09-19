@@ -3,7 +3,7 @@ title: "Outdoor Clothing Mistakes Beginners Make"
 description: "The most common outdoor clothing mistakes beginners make — cotton, overdressing at the trailhead, ignoring extremities — and the quick fix for each one."
 keyword: "outdoor clothing mistakes beginners make"
 pubDate: 2026-08-18
-updatedDate: 2026-08-25
+updatedDate: 2026-09-19
 relatedSlugs: ["how-to-layer-clothes-for-hiking", "best-fabrics-for-outdoor-layering", "how-many-layers-to-wear-hiking", "how-to-avoid-dangerous-wildlife-while-camping"]
 ---
 
@@ -38,6 +38,12 @@ Two specific fixes worth more than their weight: a thin glove liner so you never
 A rain shell buried at the bottom of your bag doesn't get used until you're already soaked. **Fix:** keep your shell in an easily accessible pocket or the top of your pack, every time.
 
 Nobody stops in wind and drizzle to take a pack off and dig. They push on and get cold. Anything you might need while walking is either reachable or effectively at home.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## Mistake 6: Buying a shell that doesn't fit over the mid layer
 

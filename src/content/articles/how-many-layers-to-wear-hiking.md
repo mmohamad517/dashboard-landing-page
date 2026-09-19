@@ -3,7 +3,7 @@ title: "How Many Layers to Wear Hiking? It Depends on These 3 Things"
 description: "How many layers to wear hiking isn't a fixed number — it depends on temperature, wind, and your effort level, and the right answer often changes mid-hike."
 keyword: "how many layers to wear hiking"
 pubDate: 2026-08-14
-updatedDate: 2026-08-25
+updatedDate: 2026-09-19
 relatedSlugs: ["how-to-layer-clothes-for-hiking", "base-layer-vs-mid-layer-explained", "what-to-wear-hiking-in-cold-weather", "what-to-do-if-you-get-lost-hiking"]
 ---
 
@@ -38,6 +38,12 @@ A useful way to think about it: your clothing is not set for the day, it is set 
 If you're comfortable standing still at the trailhead, you're overdressed for moving. Start slightly cold, and treat the extra layers in your pack as tools you'll use within the first hour, not backup gear you hope to avoid touching.
 
 The uncomfortable first ten minutes are the price of a comfortable next four hours. Most people cannot bring themselves to do it on the first few trips, discover they are sweating on the first climb, and then do it every time afterwards.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## Zips count as layers
 

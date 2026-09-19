@@ -3,7 +3,7 @@ title: "Day Hike Packing List: What to Actually Bring (and Skip)"
 description: "A practical day hike packing list covering clothing layers, water, food, and safety essentials — without the bloated 40-item lists that make you overpack."
 keyword: "day hike packing list"
 pubDate: 2026-08-03
-updatedDate: 2026-09-17
+updatedDate: 2026-09-19
 relatedSlugs: ["backpacking-packing-checklist", "packing-checklist-for-first-camping-trip", "how-to-layer-clothes-for-hiking", "camping-first-aid-basics"]
 ---
 
@@ -61,6 +61,12 @@ Eat before you feel hungry and drink before you feel thirsty. Both sensations la
 Full cook systems, tent stakes, a sleeping bag, and a second complete outfit belong on an overnight trip, not a day hike. If you're carrying gear you can't name a specific use for on this exact trip, it's dead weight.
 
 The same applies to the enormous "ten essentials"-style lists that circulate online. Most of them are written to cover every hike anyone might ever do, from a suburban loop to a remote alpine traverse. Carrying all of it on a two-hour woodland walk is not caution, it is just a heavy bag — and a heavy bag makes you slower, which is its own risk.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## Tell someone where you are going
 

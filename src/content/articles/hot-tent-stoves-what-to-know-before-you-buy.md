@@ -3,7 +3,7 @@ title: "Hot Tent Stoves: What to Know Before You Buy"
 description: "What a hot tent stove actually is, the carbon monoxide and fire risks that come with burning wood inside a tent, and what to check before buying one."
 keyword: "hot tent stove"
 pubDate: 2026-09-04
-updatedDate: 2026-09-04
+updatedDate: 2026-09-19
 author: "Mohamad Karaki"
 relatedSlugs: ["cold-weather-survival-basics", "how-to-start-a-fire-without-matches", "winter-hiking-layering-system", "camping-first-aid-basics"]
 ---
@@ -35,6 +35,12 @@ A few habits that matter more than they might seem:
 - Keep sleeping bags, clothing, and gear a genuine distance from the stove's sides, not just the top — the sides get hot enough to scorch fabric that brushes against them.
 - Never leave a burning stove unattended, including while sleeping, unless the specific stove and setup you're using is explicitly designed and rated for unattended overnight burning by its manufacturer. Don't assume this applies to a stove that doesn't say so clearly.
 - Keep a way to manage ash and embers that doesn't involve dumping them near the tent itself.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## What actually matters when choosing one
 

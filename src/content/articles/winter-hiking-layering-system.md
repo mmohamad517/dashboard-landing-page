@@ -3,7 +3,7 @@ title: "Winter Hiking Layering System: Warm Without Sweating"
 description: "A winter hiking layering system built around one hard rule: manage sweat before you manage cold, because wet insulation in freezing temperatures is the real danger."
 keyword: "winter hiking layering system"
 pubDate: 2026-08-06
-updatedDate: 2026-08-25
+updatedDate: 2026-09-19
 relatedSlugs: ["what-to-wear-hiking-in-cold-weather", "what-to-wear-for-cold-weather-camping", "how-to-stay-warm-and-dry-hiking", "common-camping-mistakes-beginners-make"]
 ---
 
@@ -41,6 +41,12 @@ Switching between the two is the whole system. If you find yourself walking in y
 Winter hiking rewards frequent small adjustments: venting a jacket zipper on a climb, swapping a damp base layer top for a dry one at a long break, or adding the puffy the moment you stop moving rather than waiting until you feel cold. Waiting to react to feeling cold means you're already behind — cold is easier to prevent than to reverse on trail.
 
 Use the small controls before the big ones, in roughly this order: hat off, front zip open, sleeves pushed up, pit zips open, then finally a layer removed. The first four cost you no stopping time at all, which is why they actually happen.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## Footwear and traction
 

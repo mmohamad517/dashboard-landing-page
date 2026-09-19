@@ -3,7 +3,7 @@ title: "Survival Kit Checklist for Camping (What Earns Its Weight)"
 description: "A survival kit checklist organised by what each item actually prevents — and an honest note about which popular items are mostly reassurance."
 keyword: "survival kit checklist for camping"
 pubDate: 2026-08-12
-updatedDate: 2026-08-26
+updatedDate: 2026-09-19
 relatedSlugs: ["how-to-avoid-dangerous-wildlife-while-camping", "flash-flood-safety-for-campers", "how-much-water-to-carry-hiking", "lightweight-packing-list-for-backpacking"]
 ---
 
@@ -60,6 +60,12 @@ This is the category people skip, and it is the cheapest one on the page. A whis
 Buy or build a kit heavy on the boring things. Real outdoor injuries are overwhelmingly blisters, small cuts, burns from a stove or fire, and sprains. Nobody has ever wished for fewer dressings or less tape.
 
 And the kit is not the skill. A first aid kit in the hands of someone who has never done a course is a bag of supplies. If you take one action after reading this page, book a course.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## Water and food
 

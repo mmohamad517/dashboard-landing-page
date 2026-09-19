@@ -3,7 +3,7 @@ title: "How to Choose a Hiking Jacket (Without Overspending)"
 description: "How to choose a hiking jacket by matching it to the conditions you actually hike in, rather than buying the most expensive option or one jacket for every season."
 keyword: "how to choose a hiking jacket"
 pubDate: 2026-08-17
-updatedDate: 2026-08-25
+updatedDate: 2026-09-19
 relatedSlugs: ["rain-jacket-vs-shell-jacket", "best-fabrics-for-outdoor-layering", "outdoor-clothing-mistakes-beginners-make", "desert-survival-tips", "hardshell-vs-softshell-jacket"]
 ---
 
@@ -37,6 +37,12 @@ In the shop, do these four things before deciding:
 Waterproofing rating, breathability, and packability matter more for actual trail performance than brand name. A mid-range jacket that fits your real conditions well will outperform an expensive one bought for conditions you rarely encounter.
 
 Be aware that the ratings brands quote come from lab tests that vary between manufacturers, so they compare well within a brand and poorly across brands. Design details you can check yourself — hood adjustment, pit zips, pocket position above the hip belt, a hem you can cinch — affect comfort more than a number on a swing tag.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## The features that are worth paying for
 

@@ -3,7 +3,7 @@ title: "Hardshell vs Softshell Jacket: Which One You Actually Need"
 description: "Hardshell vs softshell jackets explained plainly — what each is built to do, when to carry which, and why owning both solves a problem neither solves alone."
 keyword: "hardshell vs softshell jacket"
 pubDate: 2026-09-03
-updatedDate: 2026-09-03
+updatedDate: 2026-09-19
 relatedSlugs: ["rain-jacket-vs-shell-jacket", "how-to-choose-a-hiking-jacket", "how-to-layer-clothes-for-hiking", "what-to-wear-hiking-in-cold-weather"]
 ---
 
@@ -42,6 +42,12 @@ Ask one question: **is the threat rain, or is the threat wind and cold while you
 People shopping for a shell jacket often want a single answer, and the honest one is that a hardshell and a softshell solve different problems well and the other problem badly. A hardshell in dry, cold, active conditions is a plastic bag you sweat inside. A softshell in real rain is a slow way to get wet.
 
 Owning one of each and choosing based on the forecast, not owning "the better one," is what experienced hikers actually do.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## If you can only own one
 

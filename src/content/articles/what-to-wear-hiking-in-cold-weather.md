@@ -3,7 +3,7 @@ title: "What to Wear Hiking in Cold Weather (Without Overpacking)"
 description: "What to wear hiking in cold weather: layering priorities, extremities, and the mistakes that make people freeze or sweat through everything."
 keyword: "what to wear hiking in cold weather"
 pubDate: 2026-08-02
-updatedDate: 2026-08-25
+updatedDate: 2026-09-19
 relatedSlugs: ["winter-hiking-layering-system", "how-to-stay-warm-and-dry-hiking", "what-to-wear-for-cold-weather-camping", "how-long-can-you-survive-without-food"]
 ---
 
@@ -36,6 +36,12 @@ Carry one spare pair and change them at lunch. It takes two minutes and it reset
 The most common cold-weather mistake isn't underdressing — it's overdressing at the trailhead, then sweating through every layer within the first mile. Wet layers in cold weather are actively dangerous, because wet insulation stops insulating. Start cold on purpose, and adjust down before you start sweating, not after.
 
 The practical version: strip a layer at the bottom of a climb, before you begin, not once you notice the sweat. And use the small controls first — open the front zip, push the sleeves up, take the hat off. Your head sheds heat quickly enough that a hat on and off works as a fine adjustment without stopping.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## Eat and drink more than you feel like
 

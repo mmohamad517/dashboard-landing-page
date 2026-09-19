@@ -3,7 +3,7 @@ title: "How to Dress for Changing Weather Outdoors"
 description: "How to dress for changing weather outdoors using a small set of versatile layers, instead of packing a separate outfit for every possible condition."
 keyword: "how to dress for changing weather outdoors"
 pubDate: 2026-08-19
-updatedDate: 2026-08-26
+updatedDate: 2026-09-19
 relatedSlugs: ["how-to-layer-clothes-for-hiking", "how-many-layers-to-wear-hiking", "what-to-wear-camping-in-fall", "cold-weather-survival-basics"]
 ---
 
@@ -42,6 +42,12 @@ The habit that separates comfortable people from uncomfortable ones is not gear.
 Most people resist stopping to change layers because it interrupts momentum, and so they push on slightly too hot until they're sweating, or slightly too cold until they're properly cold. Both cost more than the two minutes the adjustment would have taken.
 
 A useful rule: if you find yourself thinking about your temperature, that is the signal to act on it. The thought itself is the trigger.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## The "one extra layer" rule
 

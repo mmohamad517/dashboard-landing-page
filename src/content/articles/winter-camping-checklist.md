@@ -3,7 +3,7 @@ title: "Winter Camping Checklist: The Gear, Not the Clothing"
 description: "A winter camping checklist focused on the gear decisions that actually matter in the cold — shelter, sleep system, and cooking — not what to wear, which is covered elsewhere."
 keyword: "winter camping checklist"
 pubDate: 2026-09-11
-updatedDate: 2026-09-11
+updatedDate: 2026-09-19
 author: "Mohamad Karaki"
 relatedSlugs: ["winter-hiking-layering-system", "what-to-wear-for-cold-weather-camping", "cold-weather-survival-basics", "hot-tent-stoves-what-to-know-before-you-buy"]
 ---
@@ -34,6 +34,12 @@ Cold weather changes how your stove and water behave, not just how you dress for
 - **Canister (isobutane) stoves lose pressure and perform worse as temperatures drop toward freezing and below**, which is a real limitation, not a myth — liquid-fuel stoves are generally more consistent in genuine cold. If you're relying on a canister stove for a cold trip, keeping the canister warm (inside a jacket, not on cold ground) before lighting it helps.
 - **Water freezes from the outside in a container**, so pack containers upside down — ice forms away from the cap first, keeping the opening usable longer.
 - **Insulate water you're carrying** rather than leaving it exposed, and bring a way to melt snow for water if the trip depends on it, since a water source that was reliable in summer can be frozen solid in winter.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## Getting there and getting back
 

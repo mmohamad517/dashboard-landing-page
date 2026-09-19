@@ -3,7 +3,7 @@ title: "How to Purify Water in the Wild (And What Doesn't Work)"
 description: "Boiling, filtering and chemical treatment compared — what each one actually removes, why cloth filtering alone is not enough, and the order to do them in."
 keyword: "how to purify water in the wild"
 pubDate: 2026-08-02
-updatedDate: 2026-08-26
+updatedDate: 2026-09-19
 relatedSlugs: ["how-to-build-an-emergency-shelter", "how-to-start-a-fire-without-matches", "camping-first-aid-basics", "base-layer-vs-mid-layer-explained"]
 ---
 
@@ -37,6 +37,12 @@ Tablets and drops are light, cheap and slow. They need contact time — read the
 2. Let it settle, then pour off the clear part.
 3. Filter out the sediment through cloth.
 4. Boil, or treat.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## Which method for which situation
 

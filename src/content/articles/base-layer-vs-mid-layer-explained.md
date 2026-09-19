@@ -3,7 +3,7 @@ title: "Base Layer vs. Mid Layer Explained (So You Stop Mixing Them Up)"
 description: "Base layer vs mid layer for hiking, explained clearly: what each one actually does, why the order matters, and the mistake of treating them as interchangeable."
 keyword: "base layer vs mid layer explained"
 pubDate: 2026-08-08
-updatedDate: 2026-09-17
+updatedDate: 2026-09-19
 relatedSlugs: ["how-to-layer-clothes-for-hiking", "best-fabrics-for-outdoor-layering", "how-many-layers-to-wear-hiking", "how-to-purify-water-in-the-wild", "what-is-a-base-layer"]
 ---
 
@@ -38,6 +38,12 @@ This is the single most common sequence that turns a good day bad. You start col
 If your mid layer is an insulated jacket rather than a fleece, the fill material changes how much a mistake costs you. Down gives excellent warmth for its weight and packs very small, but it loses loft when it gets wet and takes a long time to recover. Synthetic insulation is bulkier and heavier for the same warmth, and it keeps insulating better when damp and dries faster.
 
 Neither is simply better. Down suits cold, dry conditions and trips where pack space is tight. Synthetic suits wet climates and anyone who expects their layer to get damp. Fleece sits somewhere in between: heavier and bulkier than both, cheap, tough, and almost indifferent to moisture.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## A simple way to remember the difference
 

@@ -3,7 +3,7 @@ title: "Cold Weather Survival Basics (Sweat Is the Enemy, Not Cold)"
 description: "Why managing sweat matters more than adding layers in the cold, the early warning signs of hypothermia, and what to do about them."
 keyword: "cold weather survival basics"
 pubDate: 2026-08-09
-updatedDate: 2026-08-26
+updatedDate: 2026-09-19
 relatedSlugs: ["hot-tent-stoves-what-to-know-before-you-buy", "how-to-read-clouds-for-weather", "campfire-cooking-recipes-for-beginners", "survival-kit-checklist-for-camping"]
 ---
 
@@ -54,6 +54,12 @@ Two things get overlooked in the cold because neither feels urgent.
 **You dehydrate in cold weather** and you do not notice, because the thirst signal is weaker and you can see the moisture leaving as breath rather than feeling it as sweat. Dehydration makes you less able to keep warm. Drink on a schedule rather than waiting to feel thirsty, and keep water where it will not freeze — insulated, close to your body, or bottles stored upside down so ice forms away from the cap.
 
 **You need more food than usual**, because keeping warm has a real energy cost. Someone who has not eaten will get cold faster than someone who has, regardless of clothing. A hot drink and something to eat is a legitimate response to feeling cold, not a comfort measure.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## Hypothermia: the early signs
 

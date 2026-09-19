@@ -3,7 +3,7 @@ title: "Wilderness Navigation Basics (What to Learn Before the Compass)"
 description: "Navigation for beginners: staying found rather than getting unlost, handrails and catching features, and the offline prep that matters most."
 keyword: "wilderness navigation basics"
 pubDate: 2026-08-18
-updatedDate: 2026-08-26
+updatedDate: 2026-09-19
 relatedSlugs: ["how-long-can-you-survive-without-food", "common-camping-mistakes-beginners-make", "how-to-find-north-without-a-compass", "what-to-wear-for-cold-weather-camping"]
 ---
 
@@ -45,6 +45,12 @@ Practise where you already know the answer.
 ## Phone and paper
 
 Use the phone — offline maps and GPS are genuinely excellent and there is no virtue in refusing them. But carry a compass and know roughly where you are without looking, because batteries die, screens crack, and cold flattens phones fast.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## Pacing and timing
 

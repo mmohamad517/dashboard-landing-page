@@ -3,7 +3,7 @@ title: "How to Layer Clothes for Hiking: A Beginner's System"
 description: "A step-by-step guide to layering clothes for hiking — base, mid, and shell layers explained, with what to wear them for and when to add or remove each one."
 keyword: "how to layer clothes for hiking"
 pubDate: 2026-08-01
-updatedDate: 2026-08-25
+updatedDate: 2026-09-19
 relatedSlugs: ["base-layer-vs-mid-layer-explained", "how-many-layers-to-wear-hiking", "best-fabrics-for-outdoor-layering", "how-to-read-clouds-for-weather", "what-is-a-base-layer"]
 ---
 
@@ -52,6 +52,12 @@ Experienced walkers adjust on the terrain, not on the feeling. Bottom of a climb
 ## A quick example
 
 Clear, 60°F, flat trail: base layer only, shell folded in a pocket. Windy exposed ridge at the same temperature: base plus shell, skip the mid layer since you're still moving. Rain in the forecast: all three layers, with the shell on before you're already wet — putting on a shell over wet layers is far less effective than staying dry from the start.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## The extremities decide how the day feels
 

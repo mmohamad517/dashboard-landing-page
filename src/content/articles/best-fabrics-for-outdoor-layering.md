@@ -3,7 +3,7 @@ title: "Best Fabrics for Outdoor Layering (And Why Cotton Fails)"
 description: "The best fabrics for outdoor layering by layer type — base, mid, and shell — and a plain explanation of why cotton performs so poorly once it gets wet."
 keyword: "best fabrics for outdoor layering"
 pubDate: 2026-08-12
-updatedDate: 2026-08-25
+updatedDate: 2026-09-19
 relatedSlugs: ["base-layer-vs-mid-layer-explained", "how-to-layer-clothes-for-hiking", "rain-jacket-vs-shell-jacket", "how-to-build-an-emergency-shelter", "what-is-a-base-layer"]
 ---
 
@@ -42,6 +42,12 @@ Its limitation is that it is not a rain jacket, and treating it as one is a comm
 To be fair to cotton: it is comfortable, cheap, hard-wearing, and perfectly reasonable in the right place. A cotton t-shirt on a warm dry walk close to the car is fine. Cotton is also a good choice for what you sleep in at camp, where you are not sweating and you want comfort. Heavy cotton canvas has a long history as tough outer wear in dry climates.
 
 The advice to avoid it is about a specific combination: cotton, next to skin, in cold or wet conditions, far from help. Knowing why the rule exists tells you when it does not apply.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## Why cotton fails specifically
 

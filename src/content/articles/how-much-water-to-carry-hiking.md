@@ -3,7 +3,7 @@ title: "How Much Water to Carry Hiking (And Why Rationing Backfires)"
 description: "How to think about water on a hike — what changes the answer, why dehydration hits your judgement first, and when carrying more beats treating more."
 keyword: "how much water to carry hiking"
 pubDate: 2026-08-15
-updatedDate: 2026-08-26
+updatedDate: 2026-09-19
 relatedSlugs: ["survival-games-for-family-camping", "how-to-teach-kids-camping-skills", "wilderness-navigation-basics", "packing-list-for-a-weekend-camping-trip"]
 ---
 
@@ -48,6 +48,12 @@ By the time you feel properly thirsty you are already behind.
 ## Salt
 
 On long, hot, sweaty days, water alone is not the whole answer — cramps are often a salt problem. Electrolyte tablets weigh nothing. Salty snacks do the same job.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## A starting point, and why it is only that
 

@@ -3,7 +3,7 @@ title: "Packing List for a Weekend Camping Trip (2 Nights, Done Right)"
 description: "A weekend camping packing list for a 2-night trip — clothing for two full days, sleep and cooking gear, and how to avoid packing for a week-long trip by mistake."
 keyword: "packing list for a weekend camping trip"
 pubDate: 2026-08-13
-updatedDate: 2026-08-25
+updatedDate: 2026-09-19
 relatedSlugs: ["car-camping-packing-list", "packing-checklist-for-first-camping-trip", "backpacking-packing-checklist", "how-much-water-to-carry-hiking", "camping-packing-list-by-trip-length"]
 ---
 
@@ -36,6 +36,12 @@ Two practical notes. Cool the cooler before you load it, and pack it with the fi
 Weekend trips are short enough that most "backup" items never get used — a second stove, three changes of daytime clothes, or enough food for five days all just take up space and make packing and loading the car take longer than it needs to. If an item doesn't have a specific use across your actual two-day, two-night plan, leave it.
 
 The exception, as always, is cheap light safety kit: a headlamp each, a first-aid kit, spare batteries. These are unused most trips by design and cost you nothing to carry.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## The Friday-night problem
 

@@ -3,7 +3,7 @@ title: "Survival Games for Family Camping (Skills That Actually Stick)"
 description: "Camp games that teach real outdoor skills — how to run them, why arguing about the answer works better than being told, and keeping it safe with children."
 keyword: "survival games for family camping"
 pubDate: 2026-08-16
-updatedDate: 2026-08-26
+updatedDate: 2026-09-19
 relatedSlugs: ["family-camping-checklist", "how-to-teach-kids-camping-skills", "wilderness-navigation-basics", "how-long-can-you-survive-without-food"]
 ---
 
@@ -42,6 +42,12 @@ The commitment matters. Once you have defended a position, you remember why it w
 Each person learns one skill and teaches it to everyone else. Explaining it exposes the parts they had not really understood, and children take the responsibility seriously.
 
 Give each person their skill the day before so they have time to practise. Being the person who knows one thing nobody else does is a genuinely motivating position for a child, and it tends to produce the most careful preparation of any game here.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## Sound and silence
 

@@ -3,7 +3,7 @@ title: "What to Wear Camping in Fall: Dressing for a 30-Degree Swing"
 description: "What to wear camping in fall, when one day can swing 30 degrees from a warm afternoon to a cold, damp night — and how to pack for both without overpacking."
 keyword: "what to wear camping in fall"
 pubDate: 2026-08-09
-updatedDate: 2026-08-26
+updatedDate: 2026-09-19
 relatedSlugs: ["hiking-outfit-ideas-by-season", "car-camping-packing-list", "how-to-dress-for-changing-weather-outdoors", "how-to-teach-kids-camping-skills"]
 ---
 
@@ -34,6 +34,12 @@ Fall brings dew, morning fog, and rain more often than summer. A waterproof laye
 Fall damp is different from summer rain in one important way: things do not dry out on their own. A shirt hung on a line overnight in August is dry by morning. The same shirt in October is wetter than when you hung it, because the air is already holding moisture and the dew settles on everything. Plan to dry things deliberately — inside the sleeping bag, near (not on) a heat source, or by wearing them dry while active — rather than assuming the night will do it for you.
 
 Condensation inside the tent is the other fall surprise. Cold outer fabric plus warm breath equals water on the inside of your tent, which then drips onto whatever is touching the walls. Keep clothing and your sleeping bag pulled away from the tent walls, and vent the tent even when it feels counterintuitive on a cold night.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## Footwear and the wet ground problem
 

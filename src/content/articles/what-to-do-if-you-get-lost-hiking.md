@@ -3,7 +3,7 @@ title: "What to Do If You Get Lost Hiking (The First Ten Minutes)"
 description: "The first thing to do when you realise you are lost is stop walking — here is the sequence that follows, and how to decide between staying put and moving."
 keyword: "what to do if you get lost hiking"
 pubDate: 2026-08-07
-updatedDate: 2026-08-26
+updatedDate: 2026-09-19
 relatedSlugs: ["desert-survival-tips", "cold-weather-survival-basics", "how-to-read-clouds-for-weather", "how-many-layers-to-wear-hiking"]
 ---
 
@@ -37,6 +37,12 @@ Bright kit spread out, geometric shapes, [signalling in threes](/articles/how-to
 ## Get warm before you get worried
 
 Exposure works faster than thirst and much faster than hunger. Out of the wind, off the ground, dry layers on. [Shelter](/articles/how-to-build-an-emergency-shelter/) comes before almost everything else on the list.
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## Retrace only if you can do it exactly
 

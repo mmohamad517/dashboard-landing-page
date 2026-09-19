@@ -3,7 +3,7 @@ title: "What Food to Pack for a Desert Trip (Water Cost, Not Just Calories)"
 description: "Desert food planning isn't about calories first — it's about which foods compete with your water supply to prepare, and which don't."
 keyword: "what food to pack for a desert trip"
 pubDate: 2026-09-14
-updatedDate: 2026-09-14
+updatedDate: 2026-09-19
 author: "Mohamad Karaki"
 relatedSlugs: ["desert-survival-tips", "how-much-water-to-carry-hiking", "camping-first-aid-basics", "survival-kit-checklist-for-camping"]
 ---
@@ -34,6 +34,12 @@ Not because these foods are bad, but because they add a water cost a desert trip
 - **Rice, pasta, and couscous** — all need real water to cook, on top of what you'll drink with the meal
 - **Freeze-dried backpacking meals** that require boiling water to rehydrate
 - **Very salty, dry snacks eaten alone** — they're fine paired with enough water, but salty food without water to follow makes thirst worse, not better
+
+
+**Want the rest of the skills, not just this one?**
+
+<a class="btn btn-primary" href="/product/">See what's inside the deck →</a>
+
 
 ## Salt matters as much as calories
 
