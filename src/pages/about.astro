@@ -1,11 +1,31 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { url } from '../lib/paths';
+
+const structuredData = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'AboutPage',
+    name: 'About Best OutDoor Wears',
+    url: 'https://bestoutdoorwears.com/about/',
+    mainEntity: {
+      '@type': 'Person',
+      name: 'Mohamad Karaki',
+      jobTitle: 'Writer and founder, Best OutDoor Wears',
+      worksFor: {
+        '@type': 'Organization',
+        name: 'Best OutDoor Wears',
+        url: 'https://bestoutdoorwears.com',
+      },
+    },
+  },
+];
 ---
 <BaseLayout
   title="About Best OutDoor Wears"
   description="Best OutDoor Wears teaches beginners what to wear outdoors and what to do when a trip goes wrong — plainly, no gear catalogue, no pretending a card replaces training."
   canonicalPath="/about/"
+  structuredData={structuredData}
 >
   <section>
     <div class="wrap prose legal-page" style="max-width:74ch; padding-top:20px;">
